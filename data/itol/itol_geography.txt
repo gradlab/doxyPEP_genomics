@@ -1,0 +1,5440 @@
+wgs_id	color	continent
+SRR1661153	#f0027f	North America
+SRR1661154	#f0027f	North America
+SRR1661155	#f0027f	North America
+SRR1661156	#f0027f	North America
+SRR1661157	#f0027f	North America
+SRR1661158	#f0027f	North America
+SRR1661159	#f0027f	North America
+SRR1661161	#f0027f	North America
+SRR1661162	#f0027f	North America
+SRR1661163	#f0027f	North America
+SRR1661164	#f0027f	North America
+SRR1661165	#f0027f	North America
+SRR1661166	#f0027f	North America
+SRR1661167	#f0027f	North America
+SRR1661171	#f0027f	North America
+SRR1661172	#f0027f	North America
+SRR1661174	#f0027f	North America
+SRR1661177	#f0027f	North America
+SRR1661179	#f0027f	North America
+SRR1661180	#f0027f	North America
+SRR1661181	#f0027f	North America
+SRR1661182	#f0027f	North America
+SRR1661184	#f0027f	North America
+SRR1661185	#f0027f	North America
+SRR1661187	#f0027f	North America
+SRR1661190	#f0027f	North America
+SRR1661191	#f0027f	North America
+SRR1661192	#f0027f	North America
+SRR1661193	#f0027f	North America
+SRR1661194	#f0027f	North America
+SRR1661195	#f0027f	North America
+SRR1661201	#f0027f	North America
+SRR1661202	#f0027f	North America
+SRR1661203	#f0027f	North America
+SRR1661206	#f0027f	North America
+SRR1661209	#f0027f	North America
+SRR1661210	#f0027f	North America
+SRR1661211	#f0027f	North America
+SRR1661214	#f0027f	North America
+SRR1661215	#f0027f	North America
+SRR1661224	#f0027f	North America
+SRR1661225	#f0027f	North America
+SRR1661228	#f0027f	North America
+SRR1661233	#f0027f	North America
+SRR1661234	#f0027f	North America
+SRR1661235	#f0027f	North America
+SRR1661236	#f0027f	North America
+SRR1661237	#f0027f	North America
+SRR1661238	#f0027f	North America
+SRR1661239	#f0027f	North America
+SRR1661240	#f0027f	North America
+SRR1661241	#f0027f	North America
+SRR1661243	#f0027f	North America
+SRR1661255	#f0027f	North America
+SRR1661256	#f0027f	North America
+SRR1661258	#f0027f	North America
+SRR1661260	#f0027f	North America
+SRR1661261	#f0027f	North America
+SRR1661262	#f0027f	North America
+SRR1661263	#f0027f	North America
+SRR1661265	#f0027f	North America
+SRR1661266	#f0027f	North America
+SRR1661267	#f0027f	North America
+SRR1661272	#f0027f	North America
+SRR1661275	#f0027f	North America
+SRR1661280	#f0027f	North America
+SRR1661281	#f0027f	North America
+SRR1661282	#f0027f	North America
+SRR1661285	#f0027f	North America
+SRR1661286	#f0027f	North America
+SRR1661287	#f0027f	North America
+SRR1661288	#f0027f	North America
+SRR1661289	#f0027f	North America
+SRR1661291	#f0027f	North America
+SRR1661292	#f0027f	North America
+SRR1661293	#f0027f	North America
+SRR1661295	#f0027f	North America
+SRR1661307	#f0027f	North America
+SRR1661309	#f0027f	North America
+SRR1661313	#f0027f	North America
+SRR1661315	#f0027f	North America
+SRR1661316	#f0027f	North America
+SRR1661317	#f0027f	North America
+SRR1661318	#f0027f	North America
+SRR1661319	#f0027f	North America
+SRR1661320	#f0027f	North America
+SRR1661321	#f0027f	North America
+SRR1661322	#f0027f	North America
+SRR3357011	#386cb0	Europe
+SRR3357028	#386cb0	Europe
+SRR3357077	#386cb0	Europe
+SRR3357157	#386cb0	Europe
+SRR3357160	#386cb0	Europe
+SRR3357181	#386cb0	Europe
+SRR3357186	#386cb0	Europe
+SRR3357191	#386cb0	Europe
+SRR3357192	#386cb0	Europe
+SRR3357194	#386cb0	Europe
+SRR3357229	#386cb0	Europe
+SRR3357246	#386cb0	Europe
+SRR3357252	#386cb0	Europe
+SRR3357260	#386cb0	Europe
+SRR3357263	#386cb0	Europe
+SRR3357264	#386cb0	Europe
+SRR3357288	#386cb0	Europe
+SRR3357289	#386cb0	Europe
+SRR3357305	#386cb0	Europe
+SRR3357314	#386cb0	Europe
+SRR3360605	#386cb0	Europe
+SRR3360606	#386cb0	Europe
+SRR3360607	#386cb0	Europe
+SRR3360608	#386cb0	Europe
+SRR3360609	#386cb0	Europe
+SRR3360610	#386cb0	Europe
+SRR3360612	#386cb0	Europe
+SRR3360613	#386cb0	Europe
+SRR3360614	#386cb0	Europe
+SRR3360615	#386cb0	Europe
+SRR3360616	#386cb0	Europe
+SRR3360617	#386cb0	Europe
+SRR3360618	#386cb0	Europe
+SRR3360619	#386cb0	Europe
+SRR3360622	#386cb0	Europe
+SRR3360624	#386cb0	Europe
+SRR3360625	#386cb0	Europe
+SRR3360627	#386cb0	Europe
+SRR3360628	#386cb0	Europe
+SRR3360629	#386cb0	Europe
+SRR3360630	#386cb0	Europe
+SRR3360632	#386cb0	Europe
+SRR3360633	#386cb0	Europe
+SRR3360634	#386cb0	Europe
+SRR3360635	#386cb0	Europe
+SRR3360636	#386cb0	Europe
+SRR3360637	#386cb0	Europe
+SRR3360638	#386cb0	Europe
+SRR3360639	#386cb0	Europe
+SRR3360640	#386cb0	Europe
+SRR3360641	#386cb0	Europe
+SRR3360642	#386cb0	Europe
+SRR3360644	#386cb0	Europe
+SRR3360645	#386cb0	Europe
+SRR3360646	#386cb0	Europe
+SRR3360647	#386cb0	Europe
+SRR3360648	#386cb0	Europe
+SRR3360649	#386cb0	Europe
+SRR3360650	#386cb0	Europe
+SRR3360651	#386cb0	Europe
+SRR3360652	#386cb0	Europe
+SRR3360653	#386cb0	Europe
+SRR3360654	#386cb0	Europe
+SRR3360658	#386cb0	Europe
+SRR3360659	#386cb0	Europe
+SRR3360661	#386cb0	Europe
+SRR3360662	#386cb0	Europe
+SRR3360663	#386cb0	Europe
+SRR3360664	#386cb0	Europe
+SRR3360665	#386cb0	Europe
+SRR3360667	#386cb0	Europe
+SRR3360669	#386cb0	Europe
+SRR3360670	#386cb0	Europe
+SRR3360671	#386cb0	Europe
+SRR3360672	#386cb0	Europe
+SRR3360674	#386cb0	Europe
+SRR3360675	#386cb0	Europe
+SRR3360677	#386cb0	Europe
+SRR3360678	#386cb0	Europe
+SRR3360679	#386cb0	Europe
+SRR3360680	#386cb0	Europe
+SRR3360681	#386cb0	Europe
+SRR3360683	#386cb0	Europe
+SRR3360684	#386cb0	Europe
+SRR3360685	#386cb0	Europe
+SRR3360686	#386cb0	Europe
+SRR3360687	#386cb0	Europe
+SRR3360688	#386cb0	Europe
+SRR3360689	#386cb0	Europe
+SRR3360690	#386cb0	Europe
+SRR3360691	#386cb0	Europe
+SRR3360692	#386cb0	Europe
+SRR3360693	#386cb0	Europe
+SRR3360694	#386cb0	Europe
+SRR3360696	#386cb0	Europe
+SRR3360697	#386cb0	Europe
+SRR3360698	#386cb0	Europe
+SRR3360700	#386cb0	Europe
+SRR3360701	#386cb0	Europe
+SRR3360702	#386cb0	Europe
+SRR3360703	#386cb0	Europe
+SRR3360704	#386cb0	Europe
+SRR3360705	#386cb0	Europe
+SRR3360706	#386cb0	Europe
+SRR3360707	#386cb0	Europe
+SRR3360708	#386cb0	Europe
+SRR3360709	#386cb0	Europe
+SRR3360710	#386cb0	Europe
+SRR3360711	#386cb0	Europe
+SRR3360712	#386cb0	Europe
+SRR3360713	#386cb0	Europe
+SRR3360714	#386cb0	Europe
+SRR3360715	#386cb0	Europe
+SRR3360716	#386cb0	Europe
+SRR3360717	#386cb0	Europe
+SRR3360718	#386cb0	Europe
+SRR3360719	#386cb0	Europe
+SRR3360720	#386cb0	Europe
+SRR3360721	#386cb0	Europe
+SRR3360722	#386cb0	Europe
+SRR3360723	#386cb0	Europe
+SRR3360725	#386cb0	Europe
+SRR3360726	#386cb0	Europe
+SRR3360727	#386cb0	Europe
+SRR3360728	#386cb0	Europe
+SRR3360729	#386cb0	Europe
+SRR3360730	#386cb0	Europe
+SRR3360731	#386cb0	Europe
+SRR3360733	#386cb0	Europe
+SRR3360734	#386cb0	Europe
+SRR3360735	#386cb0	Europe
+SRR3360736	#386cb0	Europe
+SRR3360737	#386cb0	Europe
+SRR3360738	#386cb0	Europe
+SRR3360740	#386cb0	Europe
+SRR3360743	#386cb0	Europe
+SRR3360745	#386cb0	Europe
+SRR3360746	#386cb0	Europe
+SRR3360747	#386cb0	Europe
+SRR3360748	#386cb0	Europe
+SRR3360749	#386cb0	Europe
+SRR3360750	#386cb0	Europe
+SRR3360751	#386cb0	Europe
+SRR3360752	#386cb0	Europe
+SRR3360753	#386cb0	Europe
+SRR3360754	#386cb0	Europe
+SRR3360755	#386cb0	Europe
+SRR3360766	#386cb0	Europe
+SRR3360771	#386cb0	Europe
+SRR3360772	#386cb0	Europe
+SRR3360774	#386cb0	Europe
+SRR3360810	#386cb0	Europe
+SRR3360811	#386cb0	Europe
+SRR3360813	#386cb0	Europe
+SRR3360827	#386cb0	Europe
+SRR3360829	#386cb0	Europe
+SRR3360832	#386cb0	Europe
+SRR3360836	#386cb0	Europe
+SRR3360846	#386cb0	Europe
+SRR3360851	#386cb0	Europe
+SRR3360854	#386cb0	Europe
+SRR3360867	#386cb0	Europe
+SRR3360872	#386cb0	Europe
+SRR3360876	#386cb0	Europe
+SRR3360883	#386cb0	Europe
+SRR3360889	#386cb0	Europe
+SRR3360890	#386cb0	Europe
+SRR3360893	#386cb0	Europe
+SRR3360913	#386cb0	Europe
+SRR3360917	#386cb0	Europe
+SRR3360921	#386cb0	Europe
+SRR3360924	#386cb0	Europe
+SRR3360926	#386cb0	Europe
+SRR3360930	#386cb0	Europe
+SRR3360936	#386cb0	Europe
+SRR3360939	#386cb0	Europe
+SRR3360943	#386cb0	Europe
+SRR3360944	#386cb0	Europe
+SRR3360947	#386cb0	Europe
+SRR3360949	#386cb0	Europe
+SRR3360950	#386cb0	Europe
+SRR3360953	#386cb0	Europe
+SRR3360964	#386cb0	Europe
+SRR3360967	#386cb0	Europe
+SRR3360970	#386cb0	Europe
+SRR3360980	#386cb0	Europe
+SRR3360981	#386cb0	Europe
+SRR3360982	#386cb0	Europe
+SRR3360983	#386cb0	Europe
+SRR3360984	#386cb0	Europe
+SRR3360991	#386cb0	Europe
+SRR3360993	#386cb0	Europe
+SRR3361307	#386cb0	Europe
+SRR3361308	#386cb0	Europe
+SRR3361310	#386cb0	Europe
+SRR3361311	#386cb0	Europe
+SRR3361312	#386cb0	Europe
+SRR3361313	#386cb0	Europe
+SRR3361314	#386cb0	Europe
+SRR3361315	#386cb0	Europe
+SRR3361317	#386cb0	Europe
+SRR3361318	#386cb0	Europe
+SRR3361320	#386cb0	Europe
+SRR3361321	#386cb0	Europe
+SRR3361322	#386cb0	Europe
+SRR3361324	#386cb0	Europe
+SRR3361325	#386cb0	Europe
+SRR3361326	#386cb0	Europe
+SRR3361328	#386cb0	Europe
+SRR3361329	#386cb0	Europe
+SRR3361332	#386cb0	Europe
+SRR3361333	#386cb0	Europe
+SRR3361336	#386cb0	Europe
+SRR3361337	#386cb0	Europe
+SRR3361338	#386cb0	Europe
+SRR3361340	#386cb0	Europe
+SRR3361341	#386cb0	Europe
+SRR3361342	#386cb0	Europe
+SRR3361343	#386cb0	Europe
+SRR3361344	#386cb0	Europe
+SRR3361345	#386cb0	Europe
+SRR3361346	#386cb0	Europe
+SRR3361347	#386cb0	Europe
+SRR3361349	#386cb0	Europe
+SRR3361350	#386cb0	Europe
+SRR3361351	#386cb0	Europe
+SRR3361352	#386cb0	Europe
+SRR3361353	#386cb0	Europe
+SRR3361354	#386cb0	Europe
+SRR3361355	#386cb0	Europe
+SRR3361356	#386cb0	Europe
+SRR955973	#fdc086	South America
+SRR959017	#f0027f	North America
+SRR960561	#f0027f	North America
+SRR969045	#f0027f	North America
+SRR969336	#f0027f	North America
+SRR969337	#f0027f	North America
+SRR969338	#f0027f	North America
+SRR969340	#f0027f	North America
+SRR969341	#f0027f	North America
+SRR969342	#f0027f	North America
+SRR969343	#f0027f	North America
+SRR969344	#f0027f	North America
+SRR969345	#f0027f	North America
+SRR969346	#f0027f	North America
+SRR969348	#f0027f	North America
+SRR969350	#f0027f	North America
+SRR969352	#f0027f	North America
+SRR969353	#f0027f	North America
+SRR969354	#f0027f	North America
+SRR969356	#f0027f	North America
+SRR969361	#f0027f	North America
+SRR969362	#f0027f	North America
+SRR969363	#f0027f	North America
+SRR969364	#f0027f	North America
+SRR969365	#f0027f	North America
+SRR969366	#f0027f	North America
+SRR969367	#f0027f	North America
+SRR969368	#f0027f	North America
+SRR969369	#f0027f	North America
+SRR969370	#f0027f	North America
+SRR969371	#f0027f	North America
+SRR969373	#f0027f	North America
+SRR969374	#f0027f	North America
+SRR969375	#f0027f	North America
+SRR969376	#f0027f	North America
+SRR969377	#f0027f	North America
+SRR969378	#ffff99	Asia
+SRR969380	#ffff99	Asia
+SRR969381	#beaed4	Oceania
+SRR969382	#f0027f	North America
+SRR969384	#386cb0	Europe
+SRR969385	#386cb0	Europe
+SRR969386	#386cb0	Europe
+SRR969387	#386cb0	Europe
+SRR969388	#386cb0	Europe
+SRR969389	#386cb0	Europe
+SRR969391	#ffff99	Asia
+SRR969392	#386cb0	Europe
+SRR969393	#386cb0	Europe
+SRR969394	#386cb0	Europe
+SRR969395	#f0027f	North America
+GCGS0277	#f0027f	North America
+GCGS0839	#f0027f	North America
+GCGS0605	#f0027f	North America
+GCGS0287	#f0027f	North America
+GCGS0613	#f0027f	North America
+GCGS0766	#f0027f	North America
+GCGS0624	#f0027f	North America
+GCGS0625	#f0027f	North America
+GCGS0440	#f0027f	North America
+GCGS0782	#f0027f	North America
+GCGS0647	#f0027f	North America
+GCGS0462	#f0027f	North America
+GCGS0855	#f0027f	North America
+GCGS0673	#f0027f	North America
+GCGS0294	#f0027f	North America
+GCGS0796	#f0027f	North America
+GCGS0682	#f0027f	North America
+GCGS0797	#f0027f	North America
+GCGS0683	#f0027f	North America
+GCGS0684	#f0027f	North America
+GCGS0798	#f0027f	North America
+GCGS0498	#f0027f	North America
+GCGS0588	#f0027f	North America
+GCGS0410	#f0027f	North America
+GCGS0626	#f0027f	North America
+GCGS0627	#f0027f	North America
+GCGS0628	#f0027f	North America
+GCGS0629	#f0027f	North America
+GCGS0773	#f0027f	North America
+GCGS0774	#f0027f	North America
+GCGS0648	#f0027f	North America
+GCGS0799	#f0027f	North America
+GCGS0504	#f0027f	North America
+GCGS0710	#f0027f	North America
+GCGS0711	#f0027f	North America
+GCGS0310	#f0027f	North America
+GCGS0538	#f0027f	North America
+GCGS0540	#f0027f	North America
+GCGS0541	#f0027f	North America
+GCGS0547	#f0027f	North America
+GCGS0728	#f0027f	North America
+GCGS0261	#f0027f	North America
+GCGS0318	#f0027f	North America
+GCGS0359	#f0027f	North America
+GCGS0840	#f0027f	North America
+GCGS0400	#f0027f	North America
+GCGS0843	#f0027f	North America
+GCGS0630	#f0027f	North America
+GCGS0631	#f0027f	North America
+GCGS0650	#f0027f	North America
+GCGS0783	#f0027f	North America
+GCGS0443	#f0027f	North America
+GCGS0651	#f0027f	North America
+GCGS0784	#f0027f	North America
+GCGS0664	#f0027f	North America
+GCGS0480	#f0027f	North America
+GCGS0491	#f0027f	North America
+GCGS0686	#f0027f	North America
+GCGS0688	#f0027f	North America
+GCGS0689	#f0027f	North America
+GCGS0499	#f0027f	North America
+GCGS0506	#f0027f	North America
+GCGS0507	#f0027f	North America
+GCGS0508	#f0027f	North America
+GCGS0509	#f0027f	North America
+GCGS0303	#f0027f	North America
+GCGS0718	#f0027f	North America
+GCGS0525	#f0027f	North America
+GCGS0870	#f0027f	North America
+GCGS0322	#f0027f	North America
+GCGS0569	#f0027f	North America
+GCGS0351	#f0027f	North America
+GCGS0273	#f0027f	North America
+GCGS0374	#f0027f	North America
+GCGS0275	#f0027f	North America
+GCGS0249	#f0027f	North America
+GCGS0276	#f0027f	North America
+GCGS0595	#f0027f	North America
+GCGS0621	#f0027f	North America
+GCGS0293	#f0027f	North America
+GCGS0795	#f0027f	North America
+GCGS0703	#f0027f	North America
+GCGS0500	#f0027f	North America
+GCGS0502	#f0027f	North America
+GCGS0503	#f0027f	North America
+GCGS0304	#f0027f	North America
+GCGS0255	#f0027f	North America
+GCGS0526	#f0027f	North America
+GCGS0305	#f0027f	North America
+GCGS0865	#f0027f	North America
+GCGS0314	#f0027f	North America
+GCGS0315	#f0027f	North America
+GCGS0316	#f0027f	North America
+GCGS0554	#f0027f	North America
+GCGS0584	#f0027f	North America
+GCGS0746	#f0027f	North America
+GCGS0373	#f0027f	North America
+GCGS0425	#f0027f	North America
+GCGS0427	#f0027f	North America
+GCGS0616	#f0027f	North America
+GCGS0432	#f0027f	North America
+GCGS0620	#f0027f	North America
+GCGS0433	#f0027f	North America
+GCGS0781	#f0027f	North America
+GCGS0459	#f0027f	North America
+GCGS0788	#f0027f	North America
+GCGS0789	#f0027f	North America
+GCGS0522	#f0027f	North America
+GCGS0461	#f0027f	North America
+GCGS0475	#f0027f	North America
+GCGS0669	#f0027f	North America
+GCGS0680	#f0027f	North America
+GCGS0919	#f0027f	North America
+GCGS0827	#f0027f	North America
+GCGS0582	#f0027f	North America
+GCGS0583	#f0027f	North America
+GCGS0747	#f0027f	North America
+GCGS0748	#f0027f	North America
+GCGS0749	#f0027f	North America
+GCGS0524	#f0027f	North America
+GCGS0819	#f0027f	North America
+GCGS0256	#f0027f	North America
+GCGS0324	#f0027f	North America
+GCGS0265	#f0027f	North America
+GCGS1104	#f0027f	North America
+GCGS0248	#f0027f	North America
+GCGS1097	#f0027f	North America
+GCGS0362	#f0027f	North America
+GCGS1098	#f0027f	North America
+GCGS1096	#f0027f	North America
+GCGS0278	#f0027f	North America
+GCGS0281	#f0027f	North America
+GCGS0599	#f0027f	North America
+GCGS0389	#f0027f	North America
+GCGS0390	#f0027f	North America
+GCGS0606	#f0027f	North America
+GCGS1099	#f0027f	North America
+GCGS1100	#f0027f	North America
+GCGS1102	#f0027f	North America
+GCGS1101	#f0027f	North America
+GCGS0761	#f0027f	North America
+GCGS0775	#f0027f	North America
+GCGS0442	#f0027f	North America
+GCGS0536	#f0027f	North America
+GCGS0309	#f0027f	North America
+GCGS0546	#f0027f	North America
+GCGS0734	#f0027f	North America
+GCGS0735	#f0027f	North America
+GCGS0270	#f0027f	North America
+GCGS0364	#f0027f	North America
+GCGS0365	#f0027f	North America
+GCGS0366	#f0027f	North America
+GCGS0407	#f0027f	North America
+GCGS0286	#f0027f	North America
+GCGS0251	#f0027f	North America
+GCGS0702	#f0027f	North America
+GCGS0501	#f0027f	North America
+GCGS0709	#f0027f	North America
+GCGS0812	#f0027f	North America
+GCGS0306	#f0027f	North America
+GCGS0726	#f0027f	North America
+GCGS0317	#f0027f	North America
+GCGS0829	#f0027f	North America
+GCGS0736	#f0027f	North America
+GCGS0830	#f0027f	North America
+GCGS0831	#f0027f	North America
+GCGS0565	#f0027f	North America
+GCGS0245	#f0027f	North America
+GCGS0845	#f0027f	North America
+GCGS0439	#f0027f	North America
+GCGS1103	#f0027f	North America
+GCGS0537	#f0027f	North America
+GCGS0727	#f0027f	North America
+GCGS0737	#f0027f	North America
+GCGS0566	#f0027f	North America
+GCGS0358	#f0027f	North America
+GCGS0385	#f0027f	North America
+GCGS0411	#f0027f	North America
+GCGS0412	#f0027f	North America
+GCGS0413	#f0027f	North America
+GCGS0414	#f0027f	North America
+GCGS0760	#f0027f	North America
+GCGS0415	#f0027f	North America
+GCGS0252	#f0027f	North America
+GCGS0288	#f0027f	North America
+GCGS0253	#f0027f	North America
+GCGS0434	#f0027f	North America
+GCGS0444	#f0027f	North America
+GCGS0652	#f0027f	North America
+GCGS0490	#f0027f	North America
+GCGS0685	#f0027f	North America
+GCGS0492	#f0027f	North America
+GCGS0687	#f0027f	North America
+GCGS0723	#f0027f	North America
+GCGS0356	#f0027f	North America
+GCGS0357	#f0027f	North America
+GCGS0741	#f0027f	North America
+GCGS0576	#f0027f	North America
+GCGS0367	#f0027f	North America
+GCGS0291	#f0027f	North America
+GCGS0622	#f0027f	North America
+GCGS0813	#f0027f	North America
+GCGS0307	#f0027f	North America
+GCGS0719	#f0027f	North America
+GCGS0724	#f0027f	North America
+GCGS0824	#f0027f	North America
+GCGS0866	#f0027f	North America
+GCGS0867	#f0027f	North America
+GCGS0258	#f0027f	North America
+GCGS0577	#f0027f	North America
+GCGS0578	#f0027f	North America
+GCGS0579	#f0027f	North America
+GCGS0580	#f0027f	North America
+GCGS0581	#f0027f	North America
+GCGS0612	#f0027f	North America
+GCGS0408	#f0027f	North America
+GCGS0409	#f0027f	North America
+GCGS0623	#f0027f	North America
+GCGS0771	#f0027f	North America
+GCGS0846	#f0027f	North America
+GCGS0441	#f0027f	North America
+GCGS0646	#f0027f	North America
+GCGS0662	#f0027f	North America
+GCGS0663	#f0027f	North America
+GCGS0295	#f0027f	North America
+GCGS0704	#f0027f	North America
+GCGS0302	#f0027f	North America
+GCGS0521	#f0027f	North America
+GCGS0527	#f0027f	North America
+GCGS0528	#f0027f	North America
+GCGS0720	#f0027f	North America
+GCGS0529	#f0027f	North America
+GCGS0721	#f0027f	North America
+GCGS0259	#f0027f	North America
+GCGS0260	#f0027f	North America
+GCGS0268	#f0027f	North America
+GCGS0573	#f0027f	North America
+GCGS0274	#f0027f	North America
+GCGS0386	#f0027f	North America
+GCGS0772	#f0027f	North America
+GCGS0649	#f0027f	North America
+GCGS0705	#f0027f	North America
+GCGS0505	#f0027f	North America
+GCGS0301	#f0027f	North America
+GCGS0519	#f0027f	North America
+GCGS0520	#f0027f	North America
+GCGS0530	#f0027f	North America
+GCGS0531	#f0027f	North America
+GCGS0532	#f0027f	North America
+GCGS0533	#f0027f	North America
+GCGS0308	#f0027f	North America
+GCGS0534	#f0027f	North America
+GCGS0535	#f0027f	North America
+GCGS0539	#f0027f	North America
+GCGS0825	#f0027f	North America
+GCGS0826	#f0027f	North America
+GCGS0323	#f0027f	North America
+GCGS0325	#f0027f	North America
+GCGS0555	#f0027f	North America
+GCGS0729	#f0027f	North America
+GCGS1094	#f0027f	North America
+GCGS0264	#f0027f	North America
+GCGS0266	#f0027f	North America
+GCGS0340	#f0027f	North America
+GCGS0341	#f0027f	North America
+GCGS0269	#f0027f	North America
+GCGS0342	#f0027f	North America
+GCGS0343	#f0027f	North America
+GCGS0738	#f0027f	North America
+GCGS0570	#f0027f	North America
+GCGS0589	#f0027f	North America
+GCGS0280	#f0027f	North America
+GCGS0387	#f0027f	North America
+GCGS0597	#f0027f	North America
+GCGS0598	#f0027f	North America
+GCGS0388	#f0027f	North America
+GCGS0282	#f0027f	North America
+GCGS0600	#f0027f	North America
+GCGS0283	#f0027f	North America
+GCGS0607	#f0027f	North America
+GCGS0001	#f0027f	North America
+GCGS0002	#f0027f	North America
+GCGS0003	#f0027f	North America
+GCGS0004	#f0027f	North America
+GCGS0005	#f0027f	North America
+GCGS0006	#f0027f	North America
+GCGS0007	#f0027f	North America
+GCGS0008	#f0027f	North America
+GCGS0009	#f0027f	North America
+GCGS0010	#f0027f	North America
+GCGS0012	#f0027f	North America
+GCGS0014	#f0027f	North America
+GCGS0017	#f0027f	North America
+GCGS0018	#f0027f	North America
+GCGS0019	#f0027f	North America
+GCGS0020	#f0027f	North America
+GCGS0021	#f0027f	North America
+GCGS0022	#f0027f	North America
+GCGS0023	#f0027f	North America
+GCGS0024	#f0027f	North America
+GCGS0026	#f0027f	North America
+GCGS0027	#f0027f	North America
+GCGS0028	#f0027f	North America
+GCGS0030	#f0027f	North America
+GCGS0031	#f0027f	North America
+GCGS0032	#f0027f	North America
+GCGS0033	#f0027f	North America
+GCGS0034	#f0027f	North America
+GCGS0035	#f0027f	North America
+GCGS0036	#f0027f	North America
+GCGS0037	#f0027f	North America
+GCGS0038	#f0027f	North America
+GCGS0039	#f0027f	North America
+GCGS0040	#f0027f	North America
+GCGS0041	#f0027f	North America
+GCGS0042	#f0027f	North America
+GCGS0043	#f0027f	North America
+GCGS0044	#f0027f	North America
+GCGS0045	#f0027f	North America
+GCGS0046	#f0027f	North America
+GCGS0047	#f0027f	North America
+GCGS0049	#f0027f	North America
+GCGS0050	#f0027f	North America
+GCGS0051	#f0027f	North America
+GCGS0052	#f0027f	North America
+GCGS0053	#f0027f	North America
+GCGS0054	#f0027f	North America
+GCGS0055	#f0027f	North America
+GCGS0056	#f0027f	North America
+GCGS0057	#f0027f	North America
+GCGS0058	#f0027f	North America
+GCGS0059	#f0027f	North America
+GCGS0060	#f0027f	North America
+GCGS0062	#f0027f	North America
+GCGS0063	#f0027f	North America
+GCGS0064	#f0027f	North America
+GCGS0065	#f0027f	North America
+GCGS0066	#f0027f	North America
+GCGS0067	#f0027f	North America
+GCGS0068	#f0027f	North America
+GCGS0069	#f0027f	North America
+GCGS0070	#f0027f	North America
+GCGS0071	#f0027f	North America
+GCGS0072	#f0027f	North America
+GCGS0073	#f0027f	North America
+GCGS0074	#f0027f	North America
+GCGS0075	#f0027f	North America
+GCGS0076	#f0027f	North America
+GCGS0077	#f0027f	North America
+GCGS0078	#f0027f	North America
+GCGS0079	#f0027f	North America
+GCGS0080	#f0027f	North America
+GCGS0081	#f0027f	North America
+GCGS0082	#f0027f	North America
+GCGS0083	#f0027f	North America
+GCGS0084	#f0027f	North America
+GCGS0085	#f0027f	North America
+GCGS0086	#f0027f	North America
+GCGS0087	#f0027f	North America
+GCGS0088	#f0027f	North America
+GCGS0089	#f0027f	North America
+GCGS0090	#f0027f	North America
+GCGS0091	#f0027f	North America
+GCGS0092	#f0027f	North America
+GCGS0093	#f0027f	North America
+GCGS0094	#f0027f	North America
+GCGS0095	#f0027f	North America
+GCGS0096	#f0027f	North America
+GCGS0193	#f0027f	North America
+GCGS0194	#f0027f	North America
+GCGS0195	#f0027f	North America
+GCGS0196	#f0027f	North America
+GCGS0197	#f0027f	North America
+GCGS0198	#f0027f	North America
+GCGS0199	#f0027f	North America
+GCGS0200	#f0027f	North America
+GCGS0201	#f0027f	North America
+GCGS0202	#f0027f	North America
+GCGS0203	#f0027f	North America
+GCGS0204	#f0027f	North America
+GCGS0205	#f0027f	North America
+GCGS0206	#f0027f	North America
+GCGS0207	#f0027f	North America
+GCGS0208	#f0027f	North America
+GCGS0209	#f0027f	North America
+GCGS0210	#f0027f	North America
+GCGS0211	#f0027f	North America
+GCGS0212	#f0027f	North America
+GCGS0213	#f0027f	North America
+GCGS0214	#f0027f	North America
+GCGS0215	#f0027f	North America
+GCGS0216	#f0027f	North America
+GCGS0217	#f0027f	North America
+GCGS0218	#f0027f	North America
+GCGS0219	#f0027f	North America
+GCGS0220	#f0027f	North America
+GCGS0221	#f0027f	North America
+GCGS0223	#f0027f	North America
+GCGS0224	#f0027f	North America
+GCGS0225	#f0027f	North America
+GCGS0226	#f0027f	North America
+GCGS0227	#f0027f	North America
+GCGS0228	#f0027f	North America
+GCGS0229	#f0027f	North America
+GCGS0230	#f0027f	North America
+GCGS0231	#f0027f	North America
+GCGS0232	#f0027f	North America
+GCGS0233	#f0027f	North America
+GCGS0234	#f0027f	North America
+GCGS0235	#f0027f	North America
+GCGS0236	#f0027f	North America
+GCGS0237	#f0027f	North America
+GCGS0238	#f0027f	North America
+GCGS0240	#f0027f	North America
+GCGS0241	#f0027f	North America
+GCGS0242	#f0027f	North America
+GCGS0097	#f0027f	North America
+GCGS0098	#f0027f	North America
+GCGS0099	#f0027f	North America
+GCGS0100	#f0027f	North America
+GCGS0101	#f0027f	North America
+GCGS0102	#f0027f	North America
+GCGS0103	#f0027f	North America
+GCGS0104	#f0027f	North America
+GCGS0105	#f0027f	North America
+GCGS0106	#f0027f	North America
+GCGS0107	#f0027f	North America
+GCGS0108	#f0027f	North America
+GCGS0109	#f0027f	North America
+GCGS0110	#f0027f	North America
+GCGS0111	#f0027f	North America
+GCGS0113	#f0027f	North America
+GCGS0114	#f0027f	North America
+GCGS0115	#f0027f	North America
+GCGS0116	#f0027f	North America
+GCGS0117	#f0027f	North America
+GCGS0118	#f0027f	North America
+GCGS0119	#f0027f	North America
+GCGS0120	#f0027f	North America
+GCGS0121	#f0027f	North America
+GCGS0122	#f0027f	North America
+GCGS0123	#f0027f	North America
+GCGS0124	#f0027f	North America
+GCGS0125	#f0027f	North America
+GCGS0126	#f0027f	North America
+GCGS0127	#f0027f	North America
+GCGS0128	#f0027f	North America
+GCGS0129	#f0027f	North America
+GCGS0130	#f0027f	North America
+GCGS0131	#f0027f	North America
+GCGS0132	#f0027f	North America
+GCGS0134	#f0027f	North America
+GCGS0135	#f0027f	North America
+GCGS0136	#f0027f	North America
+GCGS0137	#f0027f	North America
+GCGS0138	#f0027f	North America
+GCGS0139	#f0027f	North America
+GCGS0141	#f0027f	North America
+GCGS0142	#f0027f	North America
+GCGS0143	#f0027f	North America
+GCGS0144	#f0027f	North America
+GCGS0145	#f0027f	North America
+GCGS0146	#f0027f	North America
+GCGS0147	#f0027f	North America
+GCGS0149	#f0027f	North America
+GCGS0150	#f0027f	North America
+GCGS0151	#f0027f	North America
+GCGS0152	#f0027f	North America
+GCGS0153	#f0027f	North America
+GCGS0155	#f0027f	North America
+GCGS0156	#f0027f	North America
+GCGS0157	#f0027f	North America
+GCGS0158	#f0027f	North America
+GCGS0160	#f0027f	North America
+GCGS0161	#f0027f	North America
+GCGS0162	#f0027f	North America
+GCGS0163	#f0027f	North America
+GCGS0164	#f0027f	North America
+GCGS0165	#f0027f	North America
+GCGS0166	#f0027f	North America
+GCGS0167	#f0027f	North America
+GCGS0168	#f0027f	North America
+GCGS0169	#f0027f	North America
+GCGS0170	#f0027f	North America
+GCGS0171	#f0027f	North America
+GCGS0172	#f0027f	North America
+GCGS0173	#f0027f	North America
+GCGS0174	#f0027f	North America
+GCGS0175	#f0027f	North America
+GCGS0176	#f0027f	North America
+GCGS0177	#f0027f	North America
+GCGS0178	#f0027f	North America
+GCGS0179	#f0027f	North America
+GCGS0180	#f0027f	North America
+GCGS0181	#f0027f	North America
+GCGS0182	#f0027f	North America
+GCGS0183	#f0027f	North America
+GCGS0184	#f0027f	North America
+GCGS0185	#f0027f	North America
+GCGS0186	#f0027f	North America
+GCGS0187	#f0027f	North America
+GCGS0188	#f0027f	North America
+GCGS0189	#f0027f	North America
+GCGS0190	#f0027f	North America
+GCGS0191	#f0027f	North America
+GCGS0192	#f0027f	North America
+GCGS0013	#f0027f	North America
+GCGS0015	#f0027f	North America
+GCGS0016	#f0027f	North America
+GCGS0112	#f0027f	North America
+GCGS0962	#f0027f	North America
+GCGS0981	#f0027f	North America
+GCGS0883	#f0027f	North America
+GCGS0903	#f0027f	North America
+GCGS0399	#f0027f	North America
+GCGS0567	#f0027f	North America
+GCGS0392	#f0027f	North America
+GCGS0417	#f0027f	North America
+GCGS0289	#f0027f	North America
+GCGS0285	#f0027f	North America
+GCGS1026	#f0027f	North America
+GCGS1039	#f0027f	North America
+GCGS0763	#f0027f	North America
+GCGS0907	#f0027f	North America
+GCGS0920	#f0027f	North America
+GCGS0944	#f0027f	North America
+GCGS0861	#f0027f	North America
+GCGS1015	#f0027f	North America
+GCGS0930	#f0027f	North America
+GCGS1042	#f0027f	North America
+GCGS1029	#f0027f	North America
+GCGS1036	#f0027f	North America
+GCGS1035	#f0027f	North America
+GCGS1024	#f0027f	North America
+GCGS1061	#f0027f	North America
+GCGS1057	#f0027f	North America
+GCGS1078	#f0027f	North America
+GCGS0558	#f0027f	North America
+GCGS0877	#f0027f	North America
+GCGS0906	#f0027f	North America
+GCGS0927	#f0027f	North America
+GCGS0881	#f0027f	North America
+GCGS0887	#f0027f	North America
+GCGS1006	#f0027f	North America
+GCGS0922	#f0027f	North America
+GCGS0943	#f0027f	North America
+GCGS1095	#f0027f	North America
+GCGS0879	#f0027f	North America
+GCGS0880	#f0027f	North America
+GCGS0961	#f0027f	North America
+GCGS0244	#f0027f	North America
+GCGS0985	#f0027f	North America
+GCGS0984	#f0027f	North America
+GCGS0960	#f0027f	North America
+GCGS0894	#f0027f	North America
+GCGS0875	#f0027f	North America
+GCGS0932	#f0027f	North America
+GCGS0905	#f0027f	North America
+GCGS0929	#f0027f	North America
+GCGS0863	#f0027f	North America
+GCGS0912	#f0027f	North America
+GCGS0997	#f0027f	North America
+GCGS0864	#f0027f	North America
+GCGS0876	#f0027f	North America
+GCGS0915	#f0027f	North America
+GCGS0872	#f0027f	North America
+GCGS0446	#f0027f	North America
+GCGS0979	#f0027f	North America
+GCGS0938	#f0027f	North America
+GCGS0933	#f0027f	North America
+GCGS0959	#f0027f	North America
+GCGS0982	#f0027f	North America
+GCGS0986	#f0027f	North America
+GCGS0914	#f0027f	North America
+GCGS0983	#f0027f	North America
+GCGS0990	#f0027f	North America
+GCGS0998	#f0027f	North America
+GCGS1007	#f0027f	North America
+GCGS0878	#f0027f	North America
+GCGS0862	#f0027f	North America
+GCGS0996	#f0027f	North America
+GCGS0917	#f0027f	North America
+GCGS0989	#f0027f	North America
+GCGS1011	#f0027f	North America
+GCGS0940	#f0027f	North America
+GCGS0935	#f0027f	North America
+GCGS0916	#f0027f	North America
+GCGS0934	#f0027f	North America
+GCGS0868	#f0027f	North America
+GCGS0882	#f0027f	North America
+GCGS0313	#f0027f	North America
+GCGS0545	#f0027f	North America
+GCGS0551	#f0027f	North America
+GCGS0552	#f0027f	North America
+GCGS0335	#f0027f	North America
+GCGS0560	#f0027f	North America
+GCGS0732	#f0027f	North America
+GCGS0347	#f0027f	North America
+GCGS0571	#f0027f	North America
+GCGS0348	#f0027f	North America
+GCGS0349	#f0027f	North America
+GCGS0572	#f0027f	North America
+GCGS0350	#f0027f	North America
+GCGS0740	#f0027f	North America
+GCGS0376	#f0027f	North America
+GCGS0377	#f0027f	North America
+GCGS0378	#f0027f	North America
+GCGS0379	#f0027f	North America
+GCGS0395	#f0027f	North America
+GCGS0397	#f0027f	North America
+GCGS0398	#f0027f	North America
+GCGS0758	#f0027f	North America
+GCGS0542	#f0027f	North America
+GCGS0381	#f0027f	North America
+GCGS0633	#f0027f	North America
+GCGS0756	#f0027f	North America
+GCGS0393	#f0027f	North America
+GCGS0292	#f0027f	North America
+GCGS1058	#f0027f	North America
+GCGS1065	#f0027f	North America
+GCGS1076	#f0027f	North America
+GCGS1091	#f0027f	North America
+GCGS1092	#f0027f	North America
+GCGS1073	#f0027f	North America
+GCGS0543	#f0027f	North America
+GCGS0548	#f0027f	North America
+GCGS0549	#f0027f	North America
+GCGS0319	#f0027f	North America
+GCGS0320	#f0027f	North America
+GCGS0321	#f0027f	North America
+GCGS0333	#f0027f	North America
+GCGS0334	#f0027f	North America
+GCGS0731	#f0027f	North America
+GCGS0346	#f0027f	North America
+GCGS0739	#f0027f	North America
+GCGS0353	#f0027f	North America
+GCGS0369	#f0027f	North America
+GCGS0383	#f0027f	North America
+GCGS0384	#f0027f	North America
+GCGS0593	#f0027f	North America
+GCGS0754	#f0027f	North America
+GCGS0755	#f0027f	North America
+GCGS0594	#f0027f	North America
+GCGS0757	#f0027f	North America
+GCGS0428	#f0027f	North America
+GCGS0639	#f0027f	North America
+GCGS0640	#f0027f	North America
+GCGS0450	#f0027f	North America
+GCGS0656	#f0027f	North America
+GCGS0451	#f0027f	North America
+GCGS0312	#f0027f	North America
+GCGS0730	#f0027f	North America
+GCGS0559	#f0027f	North America
+GCGS0375	#f0027f	North America
+GCGS0592	#f0027f	North America
+GCGS0603	#f0027f	North America
+GCGS0764	#f0027f	North America
+GCGS0767	#f0027f	North America
+GCGS0768	#f0027f	North America
+GCGS0779	#f0027f	North America
+GCGS0437	#f0027f	North America
+GCGS0449	#f0027f	North America
+GCGS0452	#f0027f	North America
+GCGS0465	#f0027f	North America
+GCGS0466	#f0027f	North America
+GCGS0667	#f0027f	North America
+GCGS0469	#f0027f	North America
+GCGS0675	#f0027f	North America
+GCGS0483	#f0027f	North America
+GCGS0794	#f0027f	North America
+GCGS0494	#f0027f	North America
+GCGS0806	#f0027f	North America
+GCGS0808	#f0027f	North America
+GCGS0809	#f0027f	North America
+GCGS0700	#f0027f	North America
+GCGS0615	#f0027f	North America
+GCGS0423	#f0027f	North America
+GCGS0429	#f0027f	North America
+GCGS0769	#f0027f	North America
+GCGS0430	#f0027f	North America
+GCGS0431	#f0027f	North America
+GCGS0453	#f0027f	North America
+GCGS0454	#f0027f	North America
+GCGS0658	#f0027f	North America
+GCGS0787	#f0027f	North America
+GCGS0456	#f0027f	North America
+GCGS0457	#f0027f	North America
+GCGS0471	#f0027f	North America
+GCGS0668	#f0027f	North America
+GCGS0472	#f0027f	North America
+GCGS0479	#f0027f	North America
+GCGS0488	#f0027f	North America
+GCGS0489	#f0027f	North America
+GCGS0678	#f0027f	North America
+GCGS0495	#f0027f	North America
+GCGS0496	#f0027f	North America
+GCGS0553	#f0027f	North America
+GCGS0336	#f0027f	North America
+GCGS0337	#f0027f	North America
+GCGS0643	#f0027f	North America
+GCGS0679	#f0027f	North America
+GCGS0811	#f0027f	North America
+GCGS0311	#f0027f	North America
+GCGS0257	#f0027f	North America
+GCGS0247	#f0027f	North America
+GCGS0267	#f0027f	North America
+GCGS0327	#f0027f	North America
+GCGS0328	#f0027f	North America
+GCGS0329	#f0027f	North America
+GCGS0556	#f0027f	North America
+GCGS0271	#f0027f	North America
+GCGS0272	#f0027f	North America
+GCGS0751	#f0027f	North America
+GCGS0380	#f0027f	North America
+GCGS0391	#f0027f	North America
+GCGS0416	#f0027f	North America
+GCGS0653	#f0027f	North America
+GCGS0296	#f0027f	North America
+GCGS0297	#f0027f	North America
+GCGS0298	#f0027f	North America
+GCGS0691	#f0027f	North America
+GCGS0299	#f0027f	North America
+GCGS0254	#f0027f	North America
+GCGS0713	#f0027f	North America
+GCGS0352	#f0027f	North America
+GCGS0591	#f0027f	North America
+GCGS0290	#f0027f	North America
+GCGS0435	#f0027f	North America
+GCGS0382	#f0027f	North America
+GCGS0447	#f0027f	North America
+GCGS0246	#f0027f	North America
+GCGS0300	#f0027f	North America
+GCGS1018	#f0027f	North America
+GCGS1022	#f0027f	North America
+GCGS1025	#f0027f	North America
+GCGS1030	#f0027f	North America
+GCGS1031	#f0027f	North America
+GCGS1032	#f0027f	North America
+GCGS1033	#f0027f	North America
+GCGS0140	#f0027f	North America
+GCGS1043	#f0027f	North America
+GCGS1044	#f0027f	North America
+GCGS1045	#f0027f	North America
+GCGS1047	#f0027f	North America
+GCGS0836	#f0027f	North America
+GCGS1049	#f0027f	North America
+GCGS1051	#f0027f	North America
+GCGS1052	#f0027f	North America
+GCGS1054	#f0027f	North America
+GCGS1055	#f0027f	North America
+GCGS1056	#f0027f	North America
+GCGS0841	#f0027f	North America
+GCGS1082	#f0027f	North America
+GCGS1083	#f0027f	North America
+GCGS1087	#f0027f	North America
+GCGS1040	#f0027f	North America
+GCGS1077	#f0027f	North America
+GCGS1081	#f0027f	North America
+GCGS0330	#f0027f	North America
+GCGS0844	#f0027f	North America
+GCGS0665	#f0027f	North America
+GCGS0609	#f0027f	North America
+GCGS0610	#f0027f	North America
+GCGS0401	#f0027f	North America
+GCGS0481	#f0027f	North America
+GCGS0332	#f0027f	North America
+GCGS0363	#f0027f	North America
+GCGS0394	#f0027f	North America
+GCGS0842	#f0027f	North America
+GCGS0467	#f0027f	North America
+GCGS0852	#f0027f	North America
+GCGS0468	#f0027f	North America
+GCGS0470	#f0027f	North America
+GCGS0482	#f0027f	North America
+GCGS0856	#f0027f	North America
+GCGS0484	#f0027f	North America
+GCGS0696	#f0027f	North America
+GCGS0698	#f0027f	North America
+GCGS0708	#f0027f	North America
+GCGS0516	#f0027f	North America
+GCGS0823	#f0027f	North America
+GCGS0262	#f0027f	North America
+GCGS0263	#f0027f	North America
+GCGS0828	#f0027f	North America
+GCGS0326	#f0027f	North America
+GCGS0568	#f0027f	North America
+GCGS0585	#f0027f	North America
+GCGS0250	#f0027f	North America
+GCGS0590	#f0027f	North America
+GCGS0752	#f0027f	North America
+GCGS0601	#f0027f	North America
+GCGS0608	#f0027f	North America
+GCGS0418	#f0027f	North America
+GCGS0419	#f0027f	North America
+GCGS0420	#f0027f	North America
+GCGS0421	#f0027f	North America
+GCGS0617	#f0027f	North America
+GCGS0632	#f0027f	North America
+GCGS0776	#f0027f	North America
+GCGS0785	#f0027f	North America
+GCGS0786	#f0027f	North America
+GCGS0445	#f0027f	North America
+GCGS0463	#f0027f	North America
+GCGS0493	#f0027f	North America
+GCGS0800	#f0027f	North America
+GCGS0801	#f0027f	North America
+GCGS0802	#f0027f	North America
+GCGS0803	#f0027f	North America
+GCGS0690	#f0027f	North America
+GCGS0712	#f0027f	North America
+GCGS0510	#f0027f	North America
+GCGS0368	#f0027f	North America
+GCGS0753	#f0027f	North America
+GCGS0596	#f0027f	North America
+GCGS0243	#f0027f	North America
+GCGS0618	#f0027f	North America
+GCGS0634	#f0027f	North America
+GCGS0778	#f0027f	North America
+GCGS0636	#f0027f	North America
+GCGS0464	#f0027f	North America
+GCGS0674	#f0027f	North America
+GCGS0511	#f0027f	North America
+GCGS1020	#f0027f	North America
+GCGS1021	#f0027f	North America
+GCGS1023	#f0027f	North America
+GCGS1028	#f0027f	North America
+GCGS1037	#f0027f	North America
+GCGS1041	#f0027f	North America
+GCGS1046	#f0027f	North America
+GCGS1050	#f0027f	North America
+GCGS1053	#f0027f	North America
+GCGS1059	#f0027f	North America
+GCGS1060	#f0027f	North America
+GCGS1066	#f0027f	North America
+GCGS1067	#f0027f	North America
+GCGS1070	#f0027f	North America
+GCGS1071	#f0027f	North America
+GCGS1072	#f0027f	North America
+GCGS1074	#f0027f	North America
+GCGS1075	#f0027f	North America
+GCGS1084	#f0027f	North America
+GCGS1085	#f0027f	North America
+GCGS1086	#f0027f	North America
+GCGS1088	#f0027f	North America
+GCGS1089	#f0027f	North America
+GCGS1027	#f0027f	North America
+GCGS1063	#f0027f	North America
+GCGS1064	#f0027f	North America
+GCGS1068	#f0027f	North America
+GCGS1069	#f0027f	North America
+GCGS1079	#f0027f	North America
+GCGS0025	#f0027f	North America
+GCGS0029	#f0027f	North America
+GCGS0835	#f0027f	North America
+GCGS1093	#f0027f	North America
+GCGS0762	#f0027f	North America
+GCGS0222	#f0027f	North America
+GCGS0654	#f0027f	North America
+GCGS0847	#f0027f	North America
+GCGS0851	#f0027f	North America
+GCGS0061	#f0027f	North America
+GCGS0154	#f0027f	North America
+GCGS0148	#f0027f	North America
+GCGS0820	#f0027f	North America
+GCGS0725	#f0027f	North America
+GCGS0557	#f0027f	North America
+GCGS0344	#f0027f	North America
+GCGS0345	#f0027f	North America
+GCGS0742	#f0027f	North America
+GCGS0743	#f0027f	North America
+GCGS0744	#f0027f	North America
+GCGS0133	#f0027f	North America
+GCGS1090	#f0027f	North America
+GCGS1080	#f0027f	North America
+GCGS0817	#f0027f	North America
+GCGS0816	#f0027f	North America
+GCGS0515	#f0027f	North America
+GCGS0815	#f0027f	North America
+GCGS0517	#f0027f	North America
+GCGS0717	#f0027f	North America
+GCGS0514	#f0027f	North America
+GCGS0818	#f0027f	North America
+GCGS0716	#f0027f	North America
+GCGS0714	#f0027f	North America
+GCGS0487	#f0027f	North America
+GCGS0805	#f0027f	North America
+GCGS0814	#f0027f	North America
+GCGS0715	#f0027f	North America
+GCGS0513	#f0027f	North America
+GCGS0512	#f0027f	North America
+GCGS0921	#f0027f	North America
+GCGS0964	#f0027f	North America
+GCGS1013	#f0027f	North America
+GCGS1001	#f0027f	North America
+GCGS0971	#f0027f	North America
+GCGS0969	#f0027f	North America
+GCGS0993	#f0027f	North America
+GCGS0976	#f0027f	North America
+GCGS0952	#f0027f	North America
+GCGS0954	#f0027f	North America
+GCGS0956	#f0027f	North America
+GCGS0967	#f0027f	North America
+GCGS0873	#f0027f	North America
+GCGS0925	#f0027f	North America
+GCGS0953	#f0027f	North America
+GCGS0972	#f0027f	North America
+GCGS0893	#f0027f	North America
+GCGS0888	#f0027f	North America
+GCGS0973	#f0027f	North America
+GCGS0942	#f0027f	North America
+GCGS0977	#f0027f	North America
+GCGS0926	#f0027f	North America
+GCGS0889	#f0027f	North America
+GCGS0848	#f0027f	North America
+GCGS0706	#f0027f	North America
+GCGS0159	#f0027f	North America
+GCGS0693	#f0027f	North America
+GCGS0655	#f0027f	North America
+GCGS0448	#f0027f	North America
+GCGS0239	#f0027f	North America
+GCGS0637	#f0027f	North America
+GCGS0692	#f0027f	North America
+GCGS0486	#f0027f	North America
+GCGS0707	#f0027f	North America
+GCGS0677	#f0027f	North America
+GCGS0360	#f0027f	North America
+GCGS0699	#f0027f	North America
+GCGS0858	#f0027f	North America
+GCGS0804	#f0027f	North America
+GCGS0857	#f0027f	North America
+GCGS0602	#f0027f	North America
+GCGS0807	#f0027f	North America
+GCGS0810	#f0027f	North America
+GCGS0821	#f0027f	North America
+GCGS0853	#f0027f	North America
+GCGS0666	#f0027f	North America
+GCGS0695	#f0027f	North America
+GCGS0901	#f0027f	North America
+GCGS0832	#f0027f	North America
+GCGS0676	#f0027f	North America
+GCGS0614	#f0027f	North America
+GCGS0701	#f0027f	North America
+GCGS0750	#f0027f	North America
+GCGS0722	#f0027f	North America
+GCGS0837	#f0027f	North America
+GCGS0657	#f0027f	North America
+GCGS0822	#f0027f	North America
+GCGS0642	#f0027f	North America
+GCGS0422	#f0027f	North America
+GCGS0455	#f0027f	North America
+GCGS0544	#f0027f	North America
+GCGS0833	#f0027f	North America
+GCGS0659	#f0027f	North America
+GCGS0458	#f0027f	North America
+GCGS0770	#f0027f	North America
+GCGS1010	#f0027f	North America
+GCGS0780	#f0027f	North America
+GCGS0426	#f0027f	North America
+GCGS0670	#f0027f	North America
+GCGS0474	#f0027f	North America
+GCGS0660	#f0027f	North America
+GCGS0644	#f0027f	North America
+GCGS0645	#f0027f	North America
+GCGS0859	#f0027f	North America
+GCGS0850	#f0027f	North America
+GCGS0884	#f0027f	North America
+GCGS0661	#f0027f	North America
+GCGS0681	#f0027f	North America
+GCGS0424	#f0027f	North America
+GCGS0436	#f0027f	North America
+GCGS0694	#f0027f	North America
+GCGS0638	#f0027f	North America
+GCGS0619	#f0027f	North America
+GCGS0550	#f0027f	North America
+GCGS0849	#f0027f	North America
+GCGS0371	#f0027f	North America
+GCGS0574	#f0027f	North America
+GCGS0354	#f0027f	North America
+GCGS0745	#f0027f	North America
+GCGS0671	#f0027f	North America
+GCGS0485	#f0027f	North America
+GCGS0834	#f0027f	North America
+GCGS0604	#f0027f	North America
+GCGS0523	#f0027f	North America
+GCGS0473	#f0027f	North America
+GCGS0338	#f0027f	North America
+GCGS0402	#f0027f	North America
+GCGS0561	#f0027f	North America
+GCGS0587	#f0027f	North America
+GCGS0611	#f0027f	North America
+GCGS0476	#f0027f	North America
+GCGS0733	#f0027f	North America
+GCGS0372	#f0027f	North America
+GCGS0518	#f0027f	North America
+GCGS0406	#f0027f	North America
+GCGS0563	#f0027f	North America
+GCGS0404	#f0027f	North America
+GCGS0477	#f0027f	North America
+GCGS0403	#f0027f	North America
+GCGS0672	#f0027f	North America
+GCGS0791	#f0027f	North America
+GCGS0793	#f0027f	North America
+GCGS0562	#f0027f	North America
+GCGS0564	#f0027f	North America
+GCGS0790	#f0027f	North America
+GCGS0355	#f0027f	North America
+GCGS0924	#f0027f	North America
+GCGS0838	#f0027f	North America
+GCGS0575	#f0027f	North America
+GCGS0765	#f0027f	North America
+GCGS0497	#f0027f	North America
+GCGS0792	#f0027f	North America
+GCGS0339	#f0027f	North America
+GCGS0478	#f0027f	North America
+GCGS0460	#f0027f	North America
+GCGS0759	#f0027f	North America
+GCGS0361	#f0027f	North America
+GCGS0405	#f0027f	North America
+GCGS0438	#f0027f	North America
+GCGS1008	#f0027f	North America
+GCGS0918	#f0027f	North America
+GCGS1009	#f0027f	North America
+GCGS0947	#f0027f	North America
+GCGS0988	#f0027f	North America
+GCGS0939	#f0027f	North America
+GCGS0987	#f0027f	North America
+GCGS0923	#f0027f	North America
+GCGS0991	#f0027f	North America
+GCGS0946	#f0027f	North America
+GCGS1000	#f0027f	North America
+GCGS0948	#f0027f	North America
+GCGS0931	#f0027f	North America
+GCGS0890	#f0027f	North America
+GCGS0911	#f0027f	North America
+GCGS0885	#f0027f	North America
+GCGS0936	#f0027f	North America
+GCGS0891	#f0027f	North America
+GCGS0968	#f0027f	North America
+GCGS0937	#f0027f	North America
+GCGS0898	#f0027f	North America
+GCGS1016	#f0027f	North America
+GCGS0958	#f0027f	North America
+GCGS0892	#f0027f	North America
+GCGS0910	#f0027f	North America
+GCGS0897	#f0027f	North America
+GCGS0945	#f0027f	North America
+GCGS0871	#f0027f	North America
+GCGS1017	#f0027f	North America
+GCGS0895	#f0027f	North America
+GCGS0966	#f0027f	North America
+GCGS0970	#f0027f	North America
+GCGS0874	#f0027f	North America
+GCGS1005	#f0027f	North America
+GCGS0999	#f0027f	North America
+GCGS0955	#f0027f	North America
+GCGS0908	#f0027f	North America
+GCGS0635	#f0027f	North America
+GCGS0994	#f0027f	North America
+GCGS0902	#f0027f	North America
+GCGS0951	#f0027f	North America
+GCGS0975	#f0027f	North America
+GCGS0965	#f0027f	North America
+GCGS1003	#f0027f	North America
+GCGS0950	#f0027f	North America
+GCGS0949	#f0027f	North America
+GCGS0995	#f0027f	North America
+GCGS0963	#f0027f	North America
+GCGS0909	#f0027f	North America
+GCGS0913	#f0027f	North America
+GCGS0992	#f0027f	North America
+GCGS0957	#f0027f	North America
+GCGS1012	#f0027f	North America
+GCGS0854	#f0027f	North America
+GCGS0860	#f0027f	North America
+GCGS0904	#f0027f	North America
+GCGS0869	#f0027f	North America
+GCGS1014	#f0027f	North America
+GCGS0978	#f0027f	North America
+GCGS0980	#f0027f	North America
+GCGS1034	#f0027f	North America
+GCGS1048	#f0027f	North America
+GCGS1062	#f0027f	North America
+GCGS0777	#f0027f	North America
+GCGS1038	#f0027f	North America
+GCGS1002	#f0027f	North America
+GCGS0900	#f0027f	North America
+GCGS0899	#f0027f	North America
+GCGS0886	#f0027f	North America
+GCGS0896	#f0027f	North America
+GCGS0974	#f0027f	North America
+GCGS0941	#f0027f	North America
+GCGS0928	#f0027f	North America
+GCGS1004	#f0027f	North America
+SRR5827018	#beaed4	Oceania
+SRR5827019	#beaed4	Oceania
+SRR5827020	#beaed4	Oceania
+SRR5827021	#beaed4	Oceania
+SRR5827022	#beaed4	Oceania
+SRR5827023	#beaed4	Oceania
+SRR5827024	#beaed4	Oceania
+SRR5827025	#beaed4	Oceania
+SRR5827026	#beaed4	Oceania
+SRR5827027	#beaed4	Oceania
+SRR5827028	#beaed4	Oceania
+SRR5827029	#beaed4	Oceania
+SRR5827030	#beaed4	Oceania
+SRR5827031	#beaed4	Oceania
+SRR5827032	#beaed4	Oceania
+SRR5827033	#beaed4	Oceania
+SRR5827034	#beaed4	Oceania
+SRR5827035	#beaed4	Oceania
+SRR5827036	#beaed4	Oceania
+SRR5827037	#beaed4	Oceania
+SRR5827038	#beaed4	Oceania
+SRR5827039	#beaed4	Oceania
+SRR5827040	#beaed4	Oceania
+SRR5827041	#beaed4	Oceania
+SRR5827042	#beaed4	Oceania
+SRR5827043	#beaed4	Oceania
+SRR5827044	#beaed4	Oceania
+SRR5827045	#beaed4	Oceania
+SRR5827046	#beaed4	Oceania
+SRR5827047	#beaed4	Oceania
+SRR5827048	#beaed4	Oceania
+SRR5827049	#beaed4	Oceania
+SRR5827050	#beaed4	Oceania
+SRR5827051	#beaed4	Oceania
+SRR5827052	#beaed4	Oceania
+SRR5827053	#beaed4	Oceania
+SRR5827054	#beaed4	Oceania
+SRR5827055	#beaed4	Oceania
+SRR5827056	#beaed4	Oceania
+SRR5827057	#beaed4	Oceania
+SRR5827058	#beaed4	Oceania
+SRR5827059	#beaed4	Oceania
+SRR5827060	#beaed4	Oceania
+SRR5827061	#beaed4	Oceania
+SRR5827062	#beaed4	Oceania
+SRR5827063	#beaed4	Oceania
+SRR5827064	#beaed4	Oceania
+SRR5827065	#beaed4	Oceania
+SRR5827066	#beaed4	Oceania
+SRR5827067	#beaed4	Oceania
+SRR5827068	#beaed4	Oceania
+SRR5827069	#beaed4	Oceania
+SRR5827070	#beaed4	Oceania
+SRR5827071	#beaed4	Oceania
+SRR5827072	#beaed4	Oceania
+SRR5827073	#beaed4	Oceania
+SRR5827074	#beaed4	Oceania
+SRR5827075	#beaed4	Oceania
+SRR5827076	#beaed4	Oceania
+SRR5827077	#beaed4	Oceania
+SRR5827078	#beaed4	Oceania
+SRR5827079	#beaed4	Oceania
+SRR5827080	#beaed4	Oceania
+SRR5827081	#beaed4	Oceania
+SRR5827082	#beaed4	Oceania
+SRR5827083	#beaed4	Oceania
+SRR5827084	#beaed4	Oceania
+SRR5827085	#beaed4	Oceania
+SRR5827086	#beaed4	Oceania
+SRR5827087	#beaed4	Oceania
+SRR5827088	#beaed4	Oceania
+SRR5827089	#beaed4	Oceania
+SRR5827090	#beaed4	Oceania
+SRR5827091	#beaed4	Oceania
+SRR5827092	#beaed4	Oceania
+SRR5827093	#beaed4	Oceania
+SRR5827094	#beaed4	Oceania
+SRR5827095	#beaed4	Oceania
+SRR5827096	#beaed4	Oceania
+SRR5827097	#beaed4	Oceania
+SRR5827098	#beaed4	Oceania
+SRR5827099	#beaed4	Oceania
+SRR5827100	#beaed4	Oceania
+SRR5827101	#beaed4	Oceania
+SRR5827102	#beaed4	Oceania
+SRR5827103	#beaed4	Oceania
+SRR5827104	#beaed4	Oceania
+SRR5827105	#beaed4	Oceania
+SRR5827106	#beaed4	Oceania
+SRR5827107	#beaed4	Oceania
+SRR5827108	#beaed4	Oceania
+SRR5827109	#beaed4	Oceania
+SRR5827110	#beaed4	Oceania
+SRR5827111	#beaed4	Oceania
+SRR5827112	#beaed4	Oceania
+SRR5827113	#beaed4	Oceania
+SRR5827114	#beaed4	Oceania
+SRR5827115	#beaed4	Oceania
+SRR5827116	#beaed4	Oceania
+SRR5827117	#beaed4	Oceania
+SRR5827118	#beaed4	Oceania
+SRR5827119	#beaed4	Oceania
+SRR5827120	#beaed4	Oceania
+SRR5827121	#beaed4	Oceania
+SRR5827122	#beaed4	Oceania
+SRR5827123	#beaed4	Oceania
+SRR5827124	#beaed4	Oceania
+SRR5827125	#beaed4	Oceania
+SRR5827126	#beaed4	Oceania
+SRR5827127	#beaed4	Oceania
+SRR5827128	#beaed4	Oceania
+SRR5827129	#beaed4	Oceania
+SRR5827130	#beaed4	Oceania
+SRR5827131	#beaed4	Oceania
+SRR5827132	#beaed4	Oceania
+SRR5827133	#beaed4	Oceania
+SRR5827134	#beaed4	Oceania
+SRR5827135	#beaed4	Oceania
+SRR5827136	#beaed4	Oceania
+SRR5827137	#beaed4	Oceania
+SRR5827138	#beaed4	Oceania
+SRR5827140	#beaed4	Oceania
+SRR5827141	#beaed4	Oceania
+SRR5827142	#beaed4	Oceania
+SRR5827143	#beaed4	Oceania
+SRR5827144	#beaed4	Oceania
+SRR5827145	#beaed4	Oceania
+SRR5827146	#beaed4	Oceania
+SRR5827147	#beaed4	Oceania
+SRR5827148	#beaed4	Oceania
+SRR5827149	#beaed4	Oceania
+SRR5827150	#beaed4	Oceania
+SRR5827151	#beaed4	Oceania
+SRR5827152	#beaed4	Oceania
+SRR5827153	#beaed4	Oceania
+SRR5827154	#beaed4	Oceania
+SRR5827155	#beaed4	Oceania
+SRR5827156	#beaed4	Oceania
+SRR5827157	#beaed4	Oceania
+SRR5827158	#beaed4	Oceania
+SRR5827159	#beaed4	Oceania
+SRR5827160	#beaed4	Oceania
+SRR5827161	#beaed4	Oceania
+SRR5827162	#beaed4	Oceania
+SRR5827163	#beaed4	Oceania
+SRR5827164	#beaed4	Oceania
+SRR5827165	#beaed4	Oceania
+SRR5827166	#beaed4	Oceania
+SRR5827167	#beaed4	Oceania
+SRR5827168	#beaed4	Oceania
+SRR5827169	#beaed4	Oceania
+SRR5827170	#beaed4	Oceania
+SRR5827171	#beaed4	Oceania
+SRR5827172	#beaed4	Oceania
+SRR5827173	#beaed4	Oceania
+SRR5827174	#beaed4	Oceania
+SRR5827175	#beaed4	Oceania
+SRR5827176	#beaed4	Oceania
+SRR5827177	#beaed4	Oceania
+SRR5827178	#beaed4	Oceania
+SRR5827179	#beaed4	Oceania
+SRR5827180	#beaed4	Oceania
+SRR5827181	#beaed4	Oceania
+SRR5827182	#beaed4	Oceania
+SRR5827183	#beaed4	Oceania
+SRR5827184	#beaed4	Oceania
+SRR5827185	#beaed4	Oceania
+SRR5827186	#beaed4	Oceania
+SRR5827187	#beaed4	Oceania
+SRR5827188	#beaed4	Oceania
+SRR5827189	#beaed4	Oceania
+SRR5827190	#beaed4	Oceania
+SRR5827191	#beaed4	Oceania
+SRR5827192	#beaed4	Oceania
+SRR5827193	#beaed4	Oceania
+SRR5827194	#beaed4	Oceania
+SRR5827195	#beaed4	Oceania
+SRR5827196	#beaed4	Oceania
+SRR5827197	#beaed4	Oceania
+SRR5827198	#beaed4	Oceania
+SRR5827199	#beaed4	Oceania
+SRR5827200	#beaed4	Oceania
+SRR5827202	#beaed4	Oceania
+SRR5827203	#beaed4	Oceania
+SRR5827204	#beaed4	Oceania
+SRR5827205	#beaed4	Oceania
+SRR5827206	#beaed4	Oceania
+SRR5827207	#beaed4	Oceania
+SRR5827208	#beaed4	Oceania
+SRR5827210	#beaed4	Oceania
+SRR5827211	#beaed4	Oceania
+SRR5827212	#beaed4	Oceania
+SRR5827213	#beaed4	Oceania
+SRR5827214	#beaed4	Oceania
+SRR5827215	#beaed4	Oceania
+SRR5827216	#beaed4	Oceania
+SRR5827218	#beaed4	Oceania
+SRR5827219	#beaed4	Oceania
+SRR5827220	#beaed4	Oceania
+SRR5827221	#beaed4	Oceania
+SRR5827222	#beaed4	Oceania
+SRR5827223	#beaed4	Oceania
+SRR5827224	#beaed4	Oceania
+SRR5827225	#beaed4	Oceania
+SRR5827226	#beaed4	Oceania
+SRR5827227	#beaed4	Oceania
+SRR5827228	#beaed4	Oceania
+SRR5827229	#beaed4	Oceania
+SRR5827230	#beaed4	Oceania
+SRR5827231	#beaed4	Oceania
+SRR5827232	#beaed4	Oceania
+SRR5827233	#beaed4	Oceania
+SRR5827234	#beaed4	Oceania
+SRR5827235	#beaed4	Oceania
+SRR5827236	#beaed4	Oceania
+SRR5827237	#beaed4	Oceania
+SRR5827239	#beaed4	Oceania
+SRR5827240	#beaed4	Oceania
+SRR5827241	#beaed4	Oceania
+SRR5827242	#beaed4	Oceania
+SRR5827243	#beaed4	Oceania
+SRR5827244	#beaed4	Oceania
+SRR5827245	#beaed4	Oceania
+SRR5827246	#beaed4	Oceania
+SRR5827247	#beaed4	Oceania
+SRR5827248	#beaed4	Oceania
+SRR5827249	#beaed4	Oceania
+SRR5827250	#beaed4	Oceania
+SRR5827251	#beaed4	Oceania
+SRR5827252	#beaed4	Oceania
+SRR5827253	#beaed4	Oceania
+SRR5827254	#beaed4	Oceania
+SRR5827255	#beaed4	Oceania
+SRR5827256	#beaed4	Oceania
+SRR5827257	#beaed4	Oceania
+SRR5827258	#beaed4	Oceania
+SRR5827259	#beaed4	Oceania
+SRR5827260	#beaed4	Oceania
+SRR5827261	#beaed4	Oceania
+SRR5827262	#beaed4	Oceania
+SRR5827263	#beaed4	Oceania
+SRR5827264	#beaed4	Oceania
+SRR5827265	#beaed4	Oceania
+SRR5827266	#beaed4	Oceania
+SRR5827267	#beaed4	Oceania
+SRR5827268	#beaed4	Oceania
+SRR5827269	#beaed4	Oceania
+SRR5827270	#beaed4	Oceania
+SRR5827271	#beaed4	Oceania
+SRR5827272	#beaed4	Oceania
+SRR5827273	#beaed4	Oceania
+SRR5827274	#beaed4	Oceania
+SRR5827275	#beaed4	Oceania
+SRR5827276	#beaed4	Oceania
+SRR5827277	#beaed4	Oceania
+SRR5827278	#beaed4	Oceania
+SRR5827279	#beaed4	Oceania
+SRR5827280	#beaed4	Oceania
+SRR5827281	#beaed4	Oceania
+SRR5827282	#beaed4	Oceania
+SRR5827283	#beaed4	Oceania
+SRR5827284	#beaed4	Oceania
+SRR5827285	#beaed4	Oceania
+SRR5827286	#beaed4	Oceania
+SRR5827287	#beaed4	Oceania
+SRR5827290	#beaed4	Oceania
+SRR5827291	#beaed4	Oceania
+SRR5827292	#beaed4	Oceania
+SRR5827293	#beaed4	Oceania
+SRR5827294	#beaed4	Oceania
+SRR5827295	#beaed4	Oceania
+SRR5827296	#beaed4	Oceania
+SRR5827297	#beaed4	Oceania
+SRR5827298	#beaed4	Oceania
+SRR5827299	#beaed4	Oceania
+SRR5827300	#beaed4	Oceania
+SRR5827301	#beaed4	Oceania
+SRR5827302	#beaed4	Oceania
+SRR5827303	#beaed4	Oceania
+SRR5827304	#beaed4	Oceania
+SRR5827305	#beaed4	Oceania
+SRR5827306	#beaed4	Oceania
+SRR5827307	#beaed4	Oceania
+SRR5827308	#beaed4	Oceania
+SRR5827309	#beaed4	Oceania
+SRR5827310	#beaed4	Oceania
+SRR5827311	#beaed4	Oceania
+SRR5827313	#beaed4	Oceania
+SRR5827314	#beaed4	Oceania
+SRR5827315	#beaed4	Oceania
+SRR5827316	#beaed4	Oceania
+SRR5827317	#beaed4	Oceania
+SRR5827318	#beaed4	Oceania
+SRR5827319	#beaed4	Oceania
+SRR5827320	#beaed4	Oceania
+SRR5827321	#beaed4	Oceania
+SRR5827322	#beaed4	Oceania
+SRR5827323	#beaed4	Oceania
+SRR5827324	#beaed4	Oceania
+SRR5827325	#beaed4	Oceania
+SRR5827326	#beaed4	Oceania
+SRR5827327	#beaed4	Oceania
+SRR5827328	#beaed4	Oceania
+SRR5827329	#beaed4	Oceania
+SRR5827330	#beaed4	Oceania
+SRR5827331	#beaed4	Oceania
+SRR5827332	#beaed4	Oceania
+SRR5827333	#beaed4	Oceania
+SRR5827334	#beaed4	Oceania
+SRR5827335	#beaed4	Oceania
+SRR5827336	#beaed4	Oceania
+SRR5827337	#beaed4	Oceania
+SRR5827338	#beaed4	Oceania
+SRR5827339	#beaed4	Oceania
+SRR5827340	#beaed4	Oceania
+SRR5827341	#beaed4	Oceania
+SRR5827342	#beaed4	Oceania
+SRR5827343	#beaed4	Oceania
+SRR5827344	#beaed4	Oceania
+SRR5827345	#beaed4	Oceania
+SRR5827346	#beaed4	Oceania
+SRR5827347	#beaed4	Oceania
+SRR5827348	#beaed4	Oceania
+SRR5827349	#beaed4	Oceania
+SRR5827350	#beaed4	Oceania
+SRR5827351	#beaed4	Oceania
+SRR5827352	#beaed4	Oceania
+SRR5827353	#beaed4	Oceania
+SRR5827354	#beaed4	Oceania
+SRR5827355	#beaed4	Oceania
+SRR5827356	#beaed4	Oceania
+SRR5827357	#beaed4	Oceania
+SRR5827358	#beaed4	Oceania
+SRR5827359	#beaed4	Oceania
+SRR5827360	#beaed4	Oceania
+SRR5827361	#beaed4	Oceania
+SRR5827362	#beaed4	Oceania
+SRR5827363	#beaed4	Oceania
+SRR5827364	#beaed4	Oceania
+SRR5827365	#beaed4	Oceania
+SRR5827366	#beaed4	Oceania
+SRR5827367	#beaed4	Oceania
+SRR5827368	#beaed4	Oceania
+SRR5827369	#beaed4	Oceania
+SRR5827370	#beaed4	Oceania
+SRR5827371	#beaed4	Oceania
+SRR5827372	#beaed4	Oceania
+SRR5827373	#beaed4	Oceania
+SRR5827374	#beaed4	Oceania
+SRR5827375	#beaed4	Oceania
+SRR5827376	#beaed4	Oceania
+SRR5827377	#beaed4	Oceania
+SRR5827378	#beaed4	Oceania
+SRR5827379	#beaed4	Oceania
+SRR5827380	#beaed4	Oceania
+SRR5827382	#beaed4	Oceania
+SRR5827383	#beaed4	Oceania
+SRR5827384	#beaed4	Oceania
+SRR5827385	#beaed4	Oceania
+SRR5827386	#beaed4	Oceania
+SRR5827387	#beaed4	Oceania
+SRR5827388	#beaed4	Oceania
+SRR5827389	#beaed4	Oceania
+SRR5827390	#beaed4	Oceania
+SRR5827391	#beaed4	Oceania
+SRR5827392	#beaed4	Oceania
+SRR5827393	#beaed4	Oceania
+SRR5827394	#beaed4	Oceania
+SRR5827395	#beaed4	Oceania
+SRR5827396	#beaed4	Oceania
+SRR5827397	#beaed4	Oceania
+SRR5827398	#beaed4	Oceania
+SRR5827399	#beaed4	Oceania
+SRR5827400	#beaed4	Oceania
+SRR5827401	#beaed4	Oceania
+SRR5827402	#beaed4	Oceania
+SRR5827403	#beaed4	Oceania
+SRR5827404	#beaed4	Oceania
+SRR5827405	#beaed4	Oceania
+SRR5827406	#beaed4	Oceania
+SRR5827407	#beaed4	Oceania
+SRR5827408	#beaed4	Oceania
+SRR5827409	#beaed4	Oceania
+SRR5827410	#beaed4	Oceania
+SRR5827411	#beaed4	Oceania
+SRR5827412	#beaed4	Oceania
+SRR5827413	#beaed4	Oceania
+SRR5827414	#beaed4	Oceania
+SRR5827415	#beaed4	Oceania
+ERR349886	#fdc086	South America
+ERR349895	#fdc086	South America
+ERR349896	#fdc086	South America
+ERR349897	#fdc086	South America
+ERR349900	#f0027f	North America
+ERR349901	#f0027f	North America
+ERR349903	#f0027f	North America
+ERR349904	#f0027f	North America
+ERR349887	#f0027f	North America
+ERR349906	#f0027f	North America
+ERR349908	#386cb0	Europe
+ERR349909	#386cb0	Europe
+ERR349910	#386cb0	Europe
+ERR349912	#386cb0	Europe
+ERR349914	#386cb0	Europe
+ERR349888	#f0027f	North America
+ERR349915	#386cb0	Europe
+ERR349916	#386cb0	Europe
+ERR349918	#386cb0	Europe
+ERR349920	#386cb0	Europe
+ERR349921	#386cb0	Europe
+ERR349922	#386cb0	Europe
+ERR349923	#386cb0	Europe
+ERR349924	#386cb0	Europe
+ERR349889	#f0027f	North America
+ERR349925	#386cb0	Europe
+ERR349926	#386cb0	Europe
+ERR349927	#386cb0	Europe
+ERR349928	#386cb0	Europe
+ERR349929	#386cb0	Europe
+ERR349930	#386cb0	Europe
+ERR349932	#386cb0	Europe
+ERR349933	#386cb0	Europe
+ERR349934	#386cb0	Europe
+ERR349890	#f0027f	North America
+ERR349935	#386cb0	Europe
+ERR349936	#386cb0	Europe
+ERR349937	#386cb0	Europe
+ERR349939	#386cb0	Europe
+ERR349942	#386cb0	Europe
+ERR349943	#386cb0	Europe
+ERR349891	#f0027f	North America
+ERR349945	#386cb0	Europe
+ERR349948	#ffff99	Asia
+ERR349951	#386cb0	Europe
+ERR349952	#386cb0	Europe
+ERR349953	#386cb0	Europe
+ERR349954	#386cb0	Europe
+ERR349892	#f0027f	North America
+ERR349956	#386cb0	Europe
+ERR349957	#386cb0	Europe
+ERR349959	#386cb0	Europe
+ERR349960	#ffff99	Asia
+ERR349961	#ffff99	Asia
+ERR349962	#386cb0	Europe
+ERR349963	#386cb0	Europe
+ERR349893	#f0027f	North America
+ERR349965	#386cb0	Europe
+ERR349967	#386cb0	Europe
+ERR349968	#386cb0	Europe
+ERR349969	#386cb0	Europe
+ERR349970	#386cb0	Europe
+ERR349971	#386cb0	Europe
+ERR349972	#386cb0	Europe
+ERR349973	#386cb0	Europe
+ERR349974	#386cb0	Europe
+ERR349894	#fdc086	South America
+ERR349976	#386cb0	Europe
+ERR349977	#386cb0	Europe
+ERR349978	#386cb0	Europe
+ERR349979	#386cb0	Europe
+ERR363576	#ffff99	Asia
+ERR363585	#ffff99	Asia
+ERR363587	#ffff99	Asia
+ERR363588	#ffff99	Asia
+ERR363589	#ffff99	Asia
+ERR363591	#ffff99	Asia
+ERR363592	#ffff99	Asia
+ERR363593	#ffff99	Asia
+ERR363594	#ffff99	Asia
+ERR363577	#ffff99	Asia
+ERR363596	#beaed4	Oceania
+ERR363597	#beaed4	Oceania
+ERR363598	#beaed4	Oceania
+ERR363599	#beaed4	Oceania
+ERR363600	#beaed4	Oceania
+ERR363601	#beaed4	Oceania
+ERR363602	#beaed4	Oceania
+ERR363603	#beaed4	Oceania
+ERR363604	#ffff99	Asia
+ERR363578	#ffff99	Asia
+ERR363605	#ffff99	Asia
+ERR363607	#ffff99	Asia
+ERR363608	#ffff99	Asia
+ERR363609	#ffff99	Asia
+ERR363610	#ffff99	Asia
+ERR363611	#ffff99	Asia
+ERR363612	#ffff99	Asia
+ERR363613	#ffff99	Asia
+ERR363614	#ffff99	Asia
+ERR363579	#ffff99	Asia
+ERR363615	#ffff99	Asia
+ERR363616	#ffff99	Asia
+ERR363619	#ffff99	Asia
+ERR363620	#ffff99	Asia
+ERR363621	#ffff99	Asia
+ERR363622	#ffff99	Asia
+ERR363623	#ffff99	Asia
+ERR363624	#ffff99	Asia
+ERR363625	#ffff99	Asia
+ERR363627	#ffff99	Asia
+ERR363628	#ffff99	Asia
+ERR363629	#ffff99	Asia
+ERR363630	#ffff99	Asia
+ERR363631	#ffff99	Asia
+ERR363633	#ffff99	Asia
+ERR363634	#ffff99	Asia
+ERR363581	#ffff99	Asia
+ERR363635	#ffff99	Asia
+ERR363636	#ffff99	Asia
+ERR363638	#ffff99	Asia
+ERR363639	#ffff99	Asia
+ERR363640	#ffff99	Asia
+ERR363641	#ffff99	Asia
+ERR363642	#ffff99	Asia
+ERR363643	#ffff99	Asia
+ERR363644	#ffff99	Asia
+ERR363645	#ffff99	Asia
+ERR363646	#ffff99	Asia
+ERR363647	#ffff99	Asia
+ERR363648	#ffff99	Asia
+ERR363649	#ffff99	Asia
+ERR363650	#ffff99	Asia
+ERR363652	#ffff99	Asia
+ERR363653	#ffff99	Asia
+ERR363583	#ffff99	Asia
+ERR363655	#ffff99	Asia
+ERR363656	#ffff99	Asia
+ERR363657	#ffff99	Asia
+ERR363658	#ffff99	Asia
+ERR363659	#ffff99	Asia
+ERR363660	#ffff99	Asia
+ERR363662	#ffff99	Asia
+ERR363664	#ffff99	Asia
+ERR363584	#ffff99	Asia
+ERR363665	#ffff99	Asia
+ERR363666	#ffff99	Asia
+ERR363667	#ffff99	Asia
+ERR363668	#ffff99	Asia
+ERR363669	#ffff99	Asia
+ERR363670	#ffff99	Asia
+ERR388280	#386cb0	Europe
+ERR388289	#386cb0	Europe
+ERR388290	#386cb0	Europe
+ERR388291	#386cb0	Europe
+ERR388294	#386cb0	Europe
+ERR388295	#386cb0	Europe
+ERR388296	#386cb0	Europe
+ERR388297	#386cb0	Europe
+ERR388298	#386cb0	Europe
+ERR388281	#386cb0	Europe
+ERR388299	#386cb0	Europe
+ERR388300	#386cb0	Europe
+ERR388302	#ffff99	Asia
+ERR388303	#386cb0	Europe
+ERR388306	#386cb0	Europe
+ERR388307	#386cb0	Europe
+ERR388308	#386cb0	Europe
+ERR388282	#386cb0	Europe
+ERR388309	#386cb0	Europe
+ERR388310	#386cb0	Europe
+ERR388311	#386cb0	Europe
+ERR388312	#386cb0	Europe
+ERR388313	#386cb0	Europe
+ERR388314	#386cb0	Europe
+ERR388316	#386cb0	Europe
+ERR388317	#386cb0	Europe
+ERR388318	#386cb0	Europe
+ERR388319	#386cb0	Europe
+ERR388320	#386cb0	Europe
+ERR388321	#386cb0	Europe
+ERR388322	#386cb0	Europe
+ERR388323	#386cb0	Europe
+ERR388324	#386cb0	Europe
+ERR388325	#386cb0	Europe
+ERR388326	#386cb0	Europe
+ERR388327	#386cb0	Europe
+ERR388328	#386cb0	Europe
+ERR388284	#ffff99	Asia
+ERR388329	#386cb0	Europe
+ERR388330	#386cb0	Europe
+ERR388331	#386cb0	Europe
+ERR388332	#386cb0	Europe
+ERR388333	#386cb0	Europe
+ERR388334	#386cb0	Europe
+ERR388335	#386cb0	Europe
+ERR388336	#386cb0	Europe
+ERR388337	#386cb0	Europe
+ERR388338	#386cb0	Europe
+ERR388285	#386cb0	Europe
+ERR388339	#386cb0	Europe
+ERR388340	#386cb0	Europe
+ERR388341	#386cb0	Europe
+ERR388342	#386cb0	Europe
+ERR388343	#386cb0	Europe
+ERR388345	#386cb0	Europe
+ERR388346	#386cb0	Europe
+ERR388347	#386cb0	Europe
+ERR388348	#386cb0	Europe
+ERR388286	#386cb0	Europe
+ERR388349	#386cb0	Europe
+ERR388350	#386cb0	Europe
+ERR388351	#386cb0	Europe
+ERR388352	#386cb0	Europe
+ERR388353	#386cb0	Europe
+ERR388354	#386cb0	Europe
+ERR388355	#386cb0	Europe
+ERR388356	#386cb0	Europe
+ERR388357	#386cb0	Europe
+ERR388358	#386cb0	Europe
+ERR388287	#386cb0	Europe
+ERR388359	#386cb0	Europe
+ERR388360	#386cb0	Europe
+ERR388361	#386cb0	Europe
+ERR388362	#386cb0	Europe
+ERR388363	#386cb0	Europe
+ERR388364	#386cb0	Europe
+ERR388366	#386cb0	Europe
+ERR388367	#386cb0	Europe
+ERR388368	#386cb0	Europe
+ERR388288	#386cb0	Europe
+ERR388369	#386cb0	Europe
+ERR388371	#386cb0	Europe
+ERR388372	#386cb0	Europe
+ERR388373	#386cb0	Europe
+ERR388374	#386cb0	Europe
+ERR388375	#386cb0	Europe
+ERR388384	#386cb0	Europe
+ERR388385	#386cb0	Europe
+ERR388386	#386cb0	Europe
+ERR388387	#386cb0	Europe
+ERR388388	#386cb0	Europe
+ERR388389	#386cb0	Europe
+ERR388390	#386cb0	Europe
+ERR388391	#386cb0	Europe
+ERR388392	#386cb0	Europe
+ERR388393	#386cb0	Europe
+ERR388376	#386cb0	Europe
+ERR388394	#386cb0	Europe
+ERR388395	#386cb0	Europe
+ERR388396	#386cb0	Europe
+ERR388397	#386cb0	Europe
+ERR388398	#386cb0	Europe
+ERR388399	#386cb0	Europe
+ERR388400	#386cb0	Europe
+ERR388401	#386cb0	Europe
+ERR388402	#386cb0	Europe
+ERR388403	#386cb0	Europe
+ERR388377	#386cb0	Europe
+ERR388404	#386cb0	Europe
+ERR388405	#386cb0	Europe
+ERR388406	#386cb0	Europe
+ERR388407	#386cb0	Europe
+ERR388408	#386cb0	Europe
+ERR388409	#386cb0	Europe
+ERR388411	#386cb0	Europe
+ERR388412	#386cb0	Europe
+ERR388413	#386cb0	Europe
+ERR388414	#386cb0	Europe
+ERR388415	#386cb0	Europe
+ERR388416	#386cb0	Europe
+ERR388417	#386cb0	Europe
+ERR388418	#386cb0	Europe
+ERR388419	#ffff99	Asia
+ERR388422	#beaed4	Oceania
+ERR388423	#beaed4	Oceania
+ERR388379	#386cb0	Europe
+ERR388424	#ffff99	Asia
+ERR388425	#ffff99	Asia
+ERR388426	#ffff99	Asia
+ERR388427	#ffff99	Asia
+ERR388428	#ffff99	Asia
+ERR388429	#ffff99	Asia
+ERR388430	#ffff99	Asia
+ERR388431	#ffff99	Asia
+ERR388432	#ffff99	Asia
+ERR388433	#ffff99	Asia
+ERR388380	#386cb0	Europe
+ERR388434	#ffff99	Asia
+ERR388435	#ffff99	Asia
+ERR388436	#ffff99	Asia
+ERR388437	#ffff99	Asia
+ERR388438	#ffff99	Asia
+ERR388439	#ffff99	Asia
+ERR388440	#ffff99	Asia
+ERR388441	#ffff99	Asia
+ERR388442	#ffff99	Asia
+ERR388443	#ffff99	Asia
+ERR388445	#ffff99	Asia
+ERR388446	#ffff99	Asia
+ERR388447	#ffff99	Asia
+ERR388448	#ffff99	Asia
+ERR388449	#ffff99	Asia
+ERR388450	#ffff99	Asia
+ERR388451	#ffff99	Asia
+ERR388452	#ffff99	Asia
+ERR388453	#ffff99	Asia
+ERR388454	#ffff99	Asia
+ERR388455	#ffff99	Asia
+ERR449465	#ffff99	Asia
+ERR449466	#ffff99	Asia
+ERR449467	#ffff99	Asia
+ERR449468	#ffff99	Asia
+ERR449469	#ffff99	Asia
+ERR449457	#ffff99	Asia
+ERR449480	#7fc97f	Africa
+ERR449481	#7fc97f	Africa
+ERR449482	#7fc97f	Africa
+ERR449483	#7fc97f	Africa
+ERR449458	#ffff99	Asia
+ERR449484	#7fc97f	Africa
+ERR449485	#7fc97f	Africa
+ERR449486	#7fc97f	Africa
+ERR449487	#7fc97f	Africa
+ERR449488	#7fc97f	Africa
+ERR449489	#7fc97f	Africa
+ERR449490	#7fc97f	Africa
+ERR449491	#7fc97f	Africa
+ERR449492	#7fc97f	Africa
+ERR449459	#ffff99	Asia
+ERR449493	#7fc97f	Africa
+ERR449494	#7fc97f	Africa
+ERR449495	#7fc97f	Africa
+ERR449496	#7fc97f	Africa
+ERR449497	#7fc97f	Africa
+ERR449498	#7fc97f	Africa
+ERR449499	#7fc97f	Africa
+ERR449500	#7fc97f	Africa
+ERR449501	#7fc97f	Africa
+ERR449460	#ffff99	Asia
+ERR449502	#7fc97f	Africa
+ERR449503	#7fc97f	Africa
+ERR449504	#7fc97f	Africa
+ERR449505	#7fc97f	Africa
+ERR449506	#7fc97f	Africa
+ERR449507	#7fc97f	Africa
+ERR449508	#7fc97f	Africa
+ERR449509	#7fc97f	Africa
+ERR449510	#7fc97f	Africa
+ERR449511	#7fc97f	Africa
+ERR449461	#ffff99	Asia
+ERR449512	#7fc97f	Africa
+ERR449513	#7fc97f	Africa
+ERR449514	#7fc97f	Africa
+ERR449515	#7fc97f	Africa
+ERR449516	#7fc97f	Africa
+ERR449521	#7fc97f	Africa
+ERR449522	#7fc97f	Africa
+ERR449523	#7fc97f	Africa
+ERR449524	#7fc97f	Africa
+ERR449525	#7fc97f	Africa
+ERR485166	#ffff99	Asia
+ERR485167	#386cb0	Europe
+ERR485168	#386cb0	Europe
+ERR485169	#386cb0	Europe
+ERR485170	#386cb0	Europe
+ERR485171	#386cb0	Europe
+ERR485172	#ffff99	Asia
+ERR502238	#ffff99	Asia
+ERR502239	#ffff99	Asia
+ERR349898	#f0027f	North America
+ERR349899	#f0027f	North America
+ERR349905	#f0027f	North America
+ERR363586	#beaed4	Oceania
+ERR363606	#beaed4	Oceania
+ERR388420	#beaed4	Oceania
+ERR388421	#beaed4	Oceania
+ERR388381	#386cb0	Europe
+AUNG1963	#beaed4	Oceania
+ERR3623490	#ffff99	Asia
+ERR3623489	#ffff99	Asia
+ERR3623488	#ffff99	Asia
+ERR3623487	#ffff99	Asia
+ERR3623486	#ffff99	Asia
+ERR3623485	#ffff99	Asia
+ERR3623484	#ffff99	Asia
+ERR3623483	#ffff99	Asia
+ERR3623482	#ffff99	Asia
+ERR3623481	#ffff99	Asia
+ERR3623480	#ffff99	Asia
+ERR3623479	#ffff99	Asia
+ERR3623478	#ffff99	Asia
+ERR3623477	#ffff99	Asia
+ERR3623476	#ffff99	Asia
+ERR3623475	#ffff99	Asia
+ERR3623474	#ffff99	Asia
+ERR3623473	#ffff99	Asia
+ERR3623472	#ffff99	Asia
+ERR3623471	#ffff99	Asia
+ERR3623470	#ffff99	Asia
+ERR3623469	#ffff99	Asia
+ERR3623467	#ffff99	Asia
+ERR3623466	#ffff99	Asia
+ERR3623465	#ffff99	Asia
+ERR3623464	#ffff99	Asia
+ERR3623463	#ffff99	Asia
+ERR3623462	#ffff99	Asia
+ERR3623460	#ffff99	Asia
+ERR3623459	#ffff99	Asia
+ERR3623458	#ffff99	Asia
+ERR3623457	#ffff99	Asia
+ERR3623456	#ffff99	Asia
+ERR3623455	#ffff99	Asia
+ERR3623454	#ffff99	Asia
+ERR3623453	#ffff99	Asia
+ERR3623452	#ffff99	Asia
+ERR3623451	#ffff99	Asia
+ERR3623450	#ffff99	Asia
+ERR3623449	#ffff99	Asia
+ERR3623448	#ffff99	Asia
+ERR3623447	#ffff99	Asia
+ERR3623446	#ffff99	Asia
+ERR3623445	#ffff99	Asia
+ERR3623444	#ffff99	Asia
+ERR3623443	#ffff99	Asia
+ERR3623442	#ffff99	Asia
+ERR3623441	#ffff99	Asia
+ERR3623440	#ffff99	Asia
+ERR3623439	#ffff99	Asia
+ERR3623438	#ffff99	Asia
+ERR3623437	#ffff99	Asia
+ERR3623436	#ffff99	Asia
+ERR3623435	#ffff99	Asia
+ERR3623434	#ffff99	Asia
+ERR3623433	#ffff99	Asia
+ERR3623432	#ffff99	Asia
+ERR3623431	#ffff99	Asia
+ERR3623430	#ffff99	Asia
+ERR3623429	#ffff99	Asia
+ERR3623428	#ffff99	Asia
+ERR3623426	#ffff99	Asia
+ERR3623425	#ffff99	Asia
+ERR3623424	#ffff99	Asia
+ERR3623423	#ffff99	Asia
+ERR3623422	#ffff99	Asia
+ERR3623421	#ffff99	Asia
+ERR3623420	#ffff99	Asia
+ERR3623419	#ffff99	Asia
+ERR3623418	#ffff99	Asia
+ERR3623417	#ffff99	Asia
+ERR3623416	#ffff99	Asia
+ERR3623415	#ffff99	Asia
+ERR3623414	#ffff99	Asia
+ERR3623413	#ffff99	Asia
+ERR3623412	#ffff99	Asia
+ERR3623411	#ffff99	Asia
+ERR3623410	#ffff99	Asia
+ERR3623409	#ffff99	Asia
+ERR3623391	#ffff99	Asia
+ERR3623390	#ffff99	Asia
+ERR3623389	#ffff99	Asia
+ERR3623388	#ffff99	Asia
+ERR3623387	#ffff99	Asia
+ERR3623386	#ffff99	Asia
+ERR3623385	#ffff99	Asia
+ERR3623384	#ffff99	Asia
+ERR3623383	#ffff99	Asia
+ERR3623382	#ffff99	Asia
+ERR3623381	#ffff99	Asia
+ERR3623380	#ffff99	Asia
+ERR3623379	#ffff99	Asia
+ERR3623378	#ffff99	Asia
+ERR3623377	#ffff99	Asia
+ERR3623376	#ffff99	Asia
+ERR3623375	#ffff99	Asia
+ERR3623374	#ffff99	Asia
+ERR3623373	#ffff99	Asia
+ERR3623372	#ffff99	Asia
+ERR3623371	#ffff99	Asia
+ERR3623370	#ffff99	Asia
+ERR3623369	#ffff99	Asia
+ERR3623368	#ffff99	Asia
+ERR3623367	#ffff99	Asia
+ERR3623366	#ffff99	Asia
+ERR3623365	#ffff99	Asia
+ERR3623364	#ffff99	Asia
+ERR3623363	#ffff99	Asia
+ERR3623362	#ffff99	Asia
+ERR3623361	#ffff99	Asia
+ERR3623360	#ffff99	Asia
+ERR3623359	#ffff99	Asia
+ERR3623358	#ffff99	Asia
+ERR3623357	#ffff99	Asia
+ERR3623356	#ffff99	Asia
+ERR3623355	#ffff99	Asia
+ERR3623354	#ffff99	Asia
+ERR3623353	#ffff99	Asia
+ERR3623352	#ffff99	Asia
+ERR3623351	#ffff99	Asia
+ERR3623350	#ffff99	Asia
+ERR3623237	#ffff99	Asia
+ERR3623236	#ffff99	Asia
+ERR3623235	#ffff99	Asia
+ERR3623234	#ffff99	Asia
+ERR3623233	#ffff99	Asia
+ERR3623232	#ffff99	Asia
+ERR3623231	#ffff99	Asia
+ERR3623230	#ffff99	Asia
+ERR3623229	#ffff99	Asia
+ERR3623228	#ffff99	Asia
+ERR3623227	#ffff99	Asia
+ERR3623226	#ffff99	Asia
+ERR3623225	#ffff99	Asia
+ERR3623224	#ffff99	Asia
+ERR3623223	#ffff99	Asia
+ERR3623222	#ffff99	Asia
+ERR3623221	#ffff99	Asia
+ERR3623220	#ffff99	Asia
+ERR3623219	#ffff99	Asia
+ERR3623218	#ffff99	Asia
+ERR3623217	#ffff99	Asia
+ERR3623216	#ffff99	Asia
+ERR3623215	#ffff99	Asia
+ERR3623214	#ffff99	Asia
+ERR3623213	#ffff99	Asia
+ERR3623212	#ffff99	Asia
+ERR3623211	#ffff99	Asia
+ERR3623210	#ffff99	Asia
+ERR3623209	#ffff99	Asia
+ERR3623208	#ffff99	Asia
+ERR3623206	#ffff99	Asia
+ERR3623205	#ffff99	Asia
+ERR3623204	#ffff99	Asia
+ERR3623203	#ffff99	Asia
+ERR3623202	#ffff99	Asia
+ERR3623201	#ffff99	Asia
+ERR3623200	#ffff99	Asia
+ERR3623199	#ffff99	Asia
+ERR3623198	#ffff99	Asia
+ERR3623197	#ffff99	Asia
+ERR3623196	#ffff99	Asia
+ERR3623195	#ffff99	Asia
+ERR3623194	#ffff99	Asia
+ERR3623193	#ffff99	Asia
+ERR3623192	#ffff99	Asia
+ERR3623191	#ffff99	Asia
+ERR3623190	#ffff99	Asia
+ERR3623189	#ffff99	Asia
+ERR3623188	#ffff99	Asia
+ERR3623187	#ffff99	Asia
+ERR3623186	#ffff99	Asia
+ERR3623185	#ffff99	Asia
+ERR3623184	#ffff99	Asia
+ERR3623183	#ffff99	Asia
+ERR3623182	#ffff99	Asia
+ERR3623181	#ffff99	Asia
+ERR3623180	#ffff99	Asia
+ERR3623179	#ffff99	Asia
+ERR3623178	#ffff99	Asia
+ERR3623177	#ffff99	Asia
+ERR3623176	#ffff99	Asia
+ERR3623175	#ffff99	Asia
+ERR3623174	#ffff99	Asia
+ERR3623173	#ffff99	Asia
+ERR3623172	#ffff99	Asia
+ERR3623171	#ffff99	Asia
+ERR3623170	#ffff99	Asia
+ERR3623169	#ffff99	Asia
+ERR3623168	#ffff99	Asia
+ERR3623167	#ffff99	Asia
+ERR3623166	#ffff99	Asia
+ERR3623165	#ffff99	Asia
+ERR3623164	#ffff99	Asia
+ERR3623163	#ffff99	Asia
+ERR3623162	#ffff99	Asia
+ERR3623161	#ffff99	Asia
+ERR3623160	#ffff99	Asia
+ERR3623159	#ffff99	Asia
+ERR3623158	#ffff99	Asia
+ERR3623157	#ffff99	Asia
+ERR3623155	#ffff99	Asia
+ERR3623154	#ffff99	Asia
+ERR3623153	#ffff99	Asia
+ERR3623152	#ffff99	Asia
+ERR3623151	#ffff99	Asia
+ERR3623150	#ffff99	Asia
+ERR3623147	#ffff99	Asia
+ERR3623146	#ffff99	Asia
+ERR3623145	#ffff99	Asia
+ERR3623144	#ffff99	Asia
+ERR3623143	#ffff99	Asia
+ERR3623142	#ffff99	Asia
+ERR3623139	#ffff99	Asia
+ERR3623138	#ffff99	Asia
+ERR3623137	#ffff99	Asia
+ERR3623136	#ffff99	Asia
+ERR3623135	#ffff99	Asia
+ERR3623134	#ffff99	Asia
+ERR3623133	#ffff99	Asia
+ERR3623132	#ffff99	Asia
+ERR3623131	#ffff99	Asia
+ERR3623130	#ffff99	Asia
+ERR3623129	#ffff99	Asia
+ERR3623128	#ffff99	Asia
+ERR3623127	#ffff99	Asia
+ERR3325797	#386cb0	Europe
+ERR3325798	#386cb0	Europe
+ERR3325799	#386cb0	Europe
+ERR3325800	#386cb0	Europe
+ERR3325801	#386cb0	Europe
+ERR3325803	#386cb0	Europe
+ERR3325804	#386cb0	Europe
+ERR3325805	#386cb0	Europe
+ERR3325806	#386cb0	Europe
+ERR3325807	#386cb0	Europe
+ERR3325808	#386cb0	Europe
+ERR3325809	#386cb0	Europe
+ERR3325810	#386cb0	Europe
+ERR3325811	#386cb0	Europe
+ERR3325812	#386cb0	Europe
+ERR3325813	#386cb0	Europe
+ERR3325814	#386cb0	Europe
+ERR3325815	#386cb0	Europe
+ERR3325816	#386cb0	Europe
+ERR3325817	#386cb0	Europe
+ERR3325818	#386cb0	Europe
+ERR3325819	#386cb0	Europe
+ERR3325820	#386cb0	Europe
+ERR3325821	#386cb0	Europe
+ERR3325822	#386cb0	Europe
+ERR3325823	#386cb0	Europe
+ERR3325824	#386cb0	Europe
+ERR3325825	#386cb0	Europe
+ERR3325826	#386cb0	Europe
+ERR3325827	#386cb0	Europe
+ERR3325828	#386cb0	Europe
+ERR3325829	#386cb0	Europe
+ERR3325830	#386cb0	Europe
+ERR3325832	#386cb0	Europe
+ERR3325833	#386cb0	Europe
+ERR3325834	#386cb0	Europe
+ERR3325836	#386cb0	Europe
+ERR3325839	#386cb0	Europe
+ERR3325840	#386cb0	Europe
+ERR3325841	#386cb0	Europe
+ERR3325842	#386cb0	Europe
+ERR3325843	#386cb0	Europe
+ERR3325844	#386cb0	Europe
+ERR3325845	#386cb0	Europe
+ERR3325846	#386cb0	Europe
+ERR3325847	#386cb0	Europe
+ERR3325848	#386cb0	Europe
+ERR3325849	#386cb0	Europe
+ERR3325850	#386cb0	Europe
+ERR3325851	#386cb0	Europe
+ERR3325852	#386cb0	Europe
+ERR3325853	#386cb0	Europe
+ERR3325854	#386cb0	Europe
+ERR3325855	#386cb0	Europe
+ERR3325857	#386cb0	Europe
+ERR3325858	#386cb0	Europe
+ERR3325859	#386cb0	Europe
+ERR3325860	#386cb0	Europe
+ERR3325861	#386cb0	Europe
+ERR3325862	#386cb0	Europe
+ERR3325863	#386cb0	Europe
+ERR3325864	#386cb0	Europe
+ERR3325865	#386cb0	Europe
+ERR3325868	#386cb0	Europe
+ERR3325869	#386cb0	Europe
+ERR3325870	#386cb0	Europe
+ERR3325871	#386cb0	Europe
+ERR3325872	#386cb0	Europe
+ERR3325873	#386cb0	Europe
+ERR3325874	#386cb0	Europe
+ERR3325875	#386cb0	Europe
+ERR3325876	#386cb0	Europe
+ERR3325877	#386cb0	Europe
+ERR3325878	#386cb0	Europe
+ERR3325880	#386cb0	Europe
+ERR3325881	#386cb0	Europe
+ERR3325882	#386cb0	Europe
+ERR3325883	#386cb0	Europe
+ERR3325884	#386cb0	Europe
+ERR3325885	#386cb0	Europe
+ERR3325886	#386cb0	Europe
+ERR3325887	#386cb0	Europe
+ERR3325888	#386cb0	Europe
+ERR3325889	#386cb0	Europe
+ERR3325890	#386cb0	Europe
+ERR3325891	#386cb0	Europe
+ERR3325892	#386cb0	Europe
+ERR3325893	#386cb0	Europe
+ERR3325894	#386cb0	Europe
+ERR3325895	#386cb0	Europe
+ERR3325896	#386cb0	Europe
+ERR3325897	#386cb0	Europe
+ERR3325898	#386cb0	Europe
+ERR3325899	#386cb0	Europe
+ERR3325900	#386cb0	Europe
+ERR3325901	#386cb0	Europe
+ERR3325902	#386cb0	Europe
+ERR3325903	#386cb0	Europe
+ERR3325904	#386cb0	Europe
+ERR3325905	#386cb0	Europe
+ERR3325906	#386cb0	Europe
+ERR3325907	#386cb0	Europe
+ERR3325908	#386cb0	Europe
+ERR3325909	#386cb0	Europe
+ERR3325911	#386cb0	Europe
+ERR3325912	#386cb0	Europe
+ERR3325913	#386cb0	Europe
+ERR3325914	#386cb0	Europe
+ERR3325915	#386cb0	Europe
+ERR3325916	#386cb0	Europe
+ERR3325917	#386cb0	Europe
+ERR3325919	#386cb0	Europe
+ERR3325921	#386cb0	Europe
+ERR3325923	#386cb0	Europe
+ERR3325925	#386cb0	Europe
+ERR3325926	#386cb0	Europe
+ERR3325927	#386cb0	Europe
+ERR3325928	#386cb0	Europe
+ERR3325929	#386cb0	Europe
+ERR3325930	#386cb0	Europe
+ERR3325931	#386cb0	Europe
+ERR3325932	#386cb0	Europe
+ERR3325933	#386cb0	Europe
+ERR3325934	#386cb0	Europe
+ERR3325936	#386cb0	Europe
+ERR3325937	#386cb0	Europe
+ERR3325938	#386cb0	Europe
+ERR3325939	#386cb0	Europe
+ERR3325940	#386cb0	Europe
+ERR3325941	#386cb0	Europe
+ERR3325942	#386cb0	Europe
+ERR3325943	#386cb0	Europe
+ERR3325944	#386cb0	Europe
+ERR3325945	#386cb0	Europe
+ERR3325947	#386cb0	Europe
+ERR3325948	#386cb0	Europe
+ERR3325949	#386cb0	Europe
+ERR3325950	#386cb0	Europe
+ERR3325951	#386cb0	Europe
+ERR3325953	#386cb0	Europe
+ERR3325955	#386cb0	Europe
+ERR3325956	#386cb0	Europe
+ERR3325957	#386cb0	Europe
+ERR3325958	#386cb0	Europe
+ERR3325959	#386cb0	Europe
+ERR3325960	#386cb0	Europe
+ERR3325961	#386cb0	Europe
+ERR3325962	#386cb0	Europe
+ERR3325963	#386cb0	Europe
+ERR3325964	#386cb0	Europe
+ERR3325965	#386cb0	Europe
+ERR3325966	#386cb0	Europe
+ERR3325967	#386cb0	Europe
+ERR3325968	#386cb0	Europe
+ERR3325969	#386cb0	Europe
+ERR3325970	#386cb0	Europe
+ERR3325971	#386cb0	Europe
+ERR3325972	#386cb0	Europe
+ERR3325973	#386cb0	Europe
+ERR3325974	#386cb0	Europe
+ERR3325975	#386cb0	Europe
+ERR3325977	#386cb0	Europe
+ERR3325978	#386cb0	Europe
+ERR3325979	#386cb0	Europe
+ERR3325980	#386cb0	Europe
+ERR3325981	#386cb0	Europe
+ERR3325982	#386cb0	Europe
+ERR3325983	#386cb0	Europe
+ERR3325984	#386cb0	Europe
+ERR3325985	#386cb0	Europe
+ERR3325986	#386cb0	Europe
+ERR3325987	#386cb0	Europe
+ERR3325988	#386cb0	Europe
+ERR3325989	#386cb0	Europe
+ERR3325990	#386cb0	Europe
+ERR3325991	#386cb0	Europe
+ERR3325992	#386cb0	Europe
+ERR3325993	#386cb0	Europe
+ERR3325994	#386cb0	Europe
+ERR3325995	#386cb0	Europe
+ERR3325997	#386cb0	Europe
+ERR3325998	#386cb0	Europe
+ERR3325999	#386cb0	Europe
+ERR3326000	#386cb0	Europe
+ERR3326002	#386cb0	Europe
+ERR3326005	#386cb0	Europe
+ERR3326006	#386cb0	Europe
+ERR3326007	#386cb0	Europe
+ERR3326009	#386cb0	Europe
+ERR3326011	#386cb0	Europe
+ERR3326012	#386cb0	Europe
+ERR3326013	#386cb0	Europe
+ERR3326014	#386cb0	Europe
+ERR3326015	#386cb0	Europe
+ERR3326016	#386cb0	Europe
+ERR3326017	#386cb0	Europe
+ERR3326018	#386cb0	Europe
+ERR3326019	#386cb0	Europe
+ERR3326020	#386cb0	Europe
+ERR3326021	#386cb0	Europe
+ERR3326022	#386cb0	Europe
+ERR3326024	#386cb0	Europe
+ERR3326025	#386cb0	Europe
+ERR3326026	#386cb0	Europe
+ERR3326027	#386cb0	Europe
+ERR3326028	#386cb0	Europe
+ERR3326029	#386cb0	Europe
+ERR3326030	#386cb0	Europe
+ERR3326031	#386cb0	Europe
+ERR3326032	#386cb0	Europe
+ERR3326033	#386cb0	Europe
+ERR3326034	#386cb0	Europe
+ERR3326035	#386cb0	Europe
+ERR3326036	#386cb0	Europe
+ERR3326037	#386cb0	Europe
+ERR3326038	#386cb0	Europe
+ERR3326039	#386cb0	Europe
+ERR3326040	#386cb0	Europe
+ERR3326041	#386cb0	Europe
+ERR3326042	#386cb0	Europe
+ERR3326043	#386cb0	Europe
+ERR3326044	#386cb0	Europe
+ERR3326045	#386cb0	Europe
+ERR3326046	#386cb0	Europe
+ERR3326047	#386cb0	Europe
+ERR3326048	#386cb0	Europe
+ERR3326049	#386cb0	Europe
+ERR3326050	#386cb0	Europe
+ERR3326051	#386cb0	Europe
+ERR3326052	#386cb0	Europe
+ERR3326053	#386cb0	Europe
+ERR3326054	#386cb0	Europe
+ERR3326055	#386cb0	Europe
+ERR3326057	#386cb0	Europe
+ERR3326058	#386cb0	Europe
+ERR3326059	#386cb0	Europe
+ERR3326060	#386cb0	Europe
+ERR3326061	#386cb0	Europe
+ERR3326062	#386cb0	Europe
+ERR3326063	#386cb0	Europe
+ERR3326064	#386cb0	Europe
+ERR3326065	#386cb0	Europe
+ERR3326066	#386cb0	Europe
+ERR3326067	#386cb0	Europe
+ERR3326070	#386cb0	Europe
+ERR3326071	#386cb0	Europe
+ERR3326072	#386cb0	Europe
+ERR3326073	#386cb0	Europe
+ERR3326074	#386cb0	Europe
+ERR3326075	#386cb0	Europe
+ERR3326076	#386cb0	Europe
+ERR3326077	#386cb0	Europe
+ERR3326078	#386cb0	Europe
+ERR3326079	#386cb0	Europe
+ERR3326082	#386cb0	Europe
+ERR3326083	#386cb0	Europe
+ERR3326084	#386cb0	Europe
+ERR3326085	#386cb0	Europe
+ERR3326086	#386cb0	Europe
+ERR3326089	#386cb0	Europe
+ERR3326090	#386cb0	Europe
+ERR3326091	#386cb0	Europe
+ERR3326092	#386cb0	Europe
+ERR3326094	#386cb0	Europe
+ERR3326095	#386cb0	Europe
+ERR3326096	#386cb0	Europe
+ERR3326097	#386cb0	Europe
+ERR3326098	#386cb0	Europe
+ERR3326099	#386cb0	Europe
+ERR3326100	#386cb0	Europe
+ERR3326101	#386cb0	Europe
+ERR3326102	#386cb0	Europe
+ERR3326103	#386cb0	Europe
+ERR3326104	#386cb0	Europe
+ERR3326105	#386cb0	Europe
+ERR3326106	#386cb0	Europe
+ERR3326107	#386cb0	Europe
+ERR3326108	#386cb0	Europe
+ERR3326109	#386cb0	Europe
+ERR3326110	#386cb0	Europe
+ERR3326111	#386cb0	Europe
+ERR3326112	#386cb0	Europe
+ERR3326113	#386cb0	Europe
+ERR3326114	#386cb0	Europe
+ERR3326115	#386cb0	Europe
+ERR3326116	#386cb0	Europe
+ERR3326117	#386cb0	Europe
+ERR3326118	#386cb0	Europe
+ERR3326119	#386cb0	Europe
+ERR3326120	#386cb0	Europe
+ERR3326121	#386cb0	Europe
+ERR3326122	#386cb0	Europe
+ERR3326123	#386cb0	Europe
+ERR3326124	#386cb0	Europe
+ERR3326125	#386cb0	Europe
+ERR3326126	#386cb0	Europe
+ERR3326127	#386cb0	Europe
+ERR3326128	#386cb0	Europe
+ERR3326129	#386cb0	Europe
+ERR3326130	#386cb0	Europe
+ERR3326131	#386cb0	Europe
+ERR3326132	#386cb0	Europe
+ERR3326133	#386cb0	Europe
+ERR3326134	#386cb0	Europe
+ERR3326135	#386cb0	Europe
+ERR3326136	#386cb0	Europe
+ERR3326137	#386cb0	Europe
+ERR3326138	#386cb0	Europe
+ERR3326139	#386cb0	Europe
+ERR3326141	#386cb0	Europe
+ERR3326142	#386cb0	Europe
+ERR3326143	#386cb0	Europe
+ERR3325188	#386cb0	Europe
+ERR3325191	#386cb0	Europe
+ERR3325192	#386cb0	Europe
+ERR3325193	#386cb0	Europe
+ERR3325195	#386cb0	Europe
+ERR3325196	#386cb0	Europe
+ERR3325197	#386cb0	Europe
+ERR3325200	#386cb0	Europe
+ERR3325202	#386cb0	Europe
+ERR3325203	#386cb0	Europe
+ERR3325205	#386cb0	Europe
+ERR3325209	#386cb0	Europe
+ERR3325222	#386cb0	Europe
+ERR3325223	#386cb0	Europe
+ERR3325245	#386cb0	Europe
+ERR3325248	#386cb0	Europe
+ERR3325252	#386cb0	Europe
+ERR3325253	#386cb0	Europe
+ERR3325255	#386cb0	Europe
+ERR3325258	#386cb0	Europe
+ERR3325260	#386cb0	Europe
+ERR3325261	#386cb0	Europe
+ERR3325263	#386cb0	Europe
+ERR3325273	#386cb0	Europe
+ERR3325275	#386cb0	Europe
+ERR3325276	#386cb0	Europe
+ERR3325280	#386cb0	Europe
+ERR3325284	#386cb0	Europe
+ERR3325291	#386cb0	Europe
+ERR3325297	#386cb0	Europe
+ERR3325301	#386cb0	Europe
+ERR3325304	#386cb0	Europe
+ERR3325311	#386cb0	Europe
+ERR3325315	#386cb0	Europe
+ERR3325316	#386cb0	Europe
+ERR3325319	#386cb0	Europe
+ERR3325324	#386cb0	Europe
+ERR3325333	#386cb0	Europe
+ERR3325334	#386cb0	Europe
+ERR3325336	#386cb0	Europe
+ERR3325337	#386cb0	Europe
+ERR3325339	#386cb0	Europe
+ERR3325340	#386cb0	Europe
+ERR3325343	#386cb0	Europe
+ERR3325345	#386cb0	Europe
+ERR3325352	#386cb0	Europe
+ERR3325355	#386cb0	Europe
+ERR3325361	#386cb0	Europe
+ERR3325365	#386cb0	Europe
+ERR3325366	#386cb0	Europe
+ERR3325368	#386cb0	Europe
+ERR3325370	#386cb0	Europe
+ERR3325372	#386cb0	Europe
+ERR3325373	#386cb0	Europe
+ERR3325375	#386cb0	Europe
+ERR3325379	#386cb0	Europe
+ERR3325381	#386cb0	Europe
+ERR3325382	#386cb0	Europe
+ERR3325385	#386cb0	Europe
+ERR3325388	#386cb0	Europe
+ERR3325392	#386cb0	Europe
+ERR3325396	#386cb0	Europe
+ERR3325397	#386cb0	Europe
+ERR3325398	#386cb0	Europe
+ERR3325399	#386cb0	Europe
+ERR3325400	#386cb0	Europe
+ERR3325402	#386cb0	Europe
+ERR3325405	#386cb0	Europe
+ERR3325408	#386cb0	Europe
+ERR3325410	#386cb0	Europe
+ERR3325411	#386cb0	Europe
+ERR3325412	#386cb0	Europe
+ERR3325414	#386cb0	Europe
+ERR3325415	#386cb0	Europe
+ERR3325417	#386cb0	Europe
+ERR3325421	#386cb0	Europe
+ERR3325423	#386cb0	Europe
+ERR3325425	#386cb0	Europe
+ERR3325426	#386cb0	Europe
+ERR3325427	#386cb0	Europe
+ERR3325428	#386cb0	Europe
+ERR3325429	#386cb0	Europe
+ERR3325430	#386cb0	Europe
+ERR3325431	#386cb0	Europe
+ERR3325432	#386cb0	Europe
+ERR3325434	#386cb0	Europe
+ERR3325438	#386cb0	Europe
+ERR3325441	#386cb0	Europe
+ERR3325442	#386cb0	Europe
+ERR3325443	#386cb0	Europe
+ERR3325444	#386cb0	Europe
+ERR3325445	#386cb0	Europe
+ERR3325449	#386cb0	Europe
+ERR3325451	#386cb0	Europe
+ERR3325452	#386cb0	Europe
+ERR3325455	#386cb0	Europe
+ERR3325457	#386cb0	Europe
+ERR3325460	#386cb0	Europe
+ERR3325461	#386cb0	Europe
+ERR3325462	#386cb0	Europe
+ERR3325465	#386cb0	Europe
+ERR3325467	#386cb0	Europe
+ERR3325468	#386cb0	Europe
+ERR3325470	#386cb0	Europe
+ERR3325472	#386cb0	Europe
+ERR3325473	#386cb0	Europe
+ERR3325474	#386cb0	Europe
+ERR3325476	#386cb0	Europe
+ERR3325478	#386cb0	Europe
+ERR3325486	#386cb0	Europe
+ERR3325487	#386cb0	Europe
+ERR3325490	#386cb0	Europe
+ERR3325493	#386cb0	Europe
+ERR3325495	#386cb0	Europe
+ERR3325496	#386cb0	Europe
+ERR3325498	#386cb0	Europe
+ERR3325499	#386cb0	Europe
+ERR3325503	#386cb0	Europe
+ERR3325504	#386cb0	Europe
+ERR3325507	#386cb0	Europe
+ERR3325508	#386cb0	Europe
+ERR3325509	#386cb0	Europe
+ERR3325510	#386cb0	Europe
+ERR3325515	#386cb0	Europe
+ERR3325516	#386cb0	Europe
+ERR3325517	#386cb0	Europe
+ERR3325522	#386cb0	Europe
+ERR3325523	#386cb0	Europe
+ERR3325526	#386cb0	Europe
+ERR3325527	#386cb0	Europe
+ERR3325528	#386cb0	Europe
+ERR3325533	#386cb0	Europe
+ERR3325537	#386cb0	Europe
+ERR3325538	#386cb0	Europe
+ERR3325539	#386cb0	Europe
+ERR3325540	#386cb0	Europe
+ERR3325541	#386cb0	Europe
+ERR3325546	#386cb0	Europe
+ERR3325547	#386cb0	Europe
+ERR3325551	#386cb0	Europe
+ERR3325553	#386cb0	Europe
+ERR3325558	#386cb0	Europe
+ERR3325570	#386cb0	Europe
+ERR3325573	#386cb0	Europe
+ERR3325574	#386cb0	Europe
+ERR3325576	#386cb0	Europe
+ERR3325577	#386cb0	Europe
+ERR3325578	#386cb0	Europe
+ERR3325580	#386cb0	Europe
+ERR3325582	#386cb0	Europe
+ERR3325587	#386cb0	Europe
+ERR3325588	#386cb0	Europe
+ERR3325589	#386cb0	Europe
+ERR3325590	#386cb0	Europe
+ERR3325591	#386cb0	Europe
+ERR3325593	#386cb0	Europe
+ERR3325596	#386cb0	Europe
+ERR3325597	#386cb0	Europe
+ERR3325598	#386cb0	Europe
+ERR3325599	#386cb0	Europe
+ERR3325600	#386cb0	Europe
+ERR3325601	#386cb0	Europe
+ERR3325602	#386cb0	Europe
+ERR3325603	#386cb0	Europe
+ERR3325611	#386cb0	Europe
+ERR3325612	#386cb0	Europe
+ERR3325613	#386cb0	Europe
+ERR3325614	#386cb0	Europe
+ERR3325621	#386cb0	Europe
+ERR3325622	#386cb0	Europe
+ERR3325623	#386cb0	Europe
+ERR3325628	#386cb0	Europe
+ERR3325629	#386cb0	Europe
+ERR3325631	#386cb0	Europe
+ERR3325632	#386cb0	Europe
+ERR3325634	#386cb0	Europe
+ERR3325635	#386cb0	Europe
+ERR3325636	#386cb0	Europe
+ERR3325637	#386cb0	Europe
+ERR3325641	#386cb0	Europe
+ERR3325642	#386cb0	Europe
+ERR3325644	#386cb0	Europe
+ERR3325647	#386cb0	Europe
+ERR3325649	#386cb0	Europe
+ERR3325650	#386cb0	Europe
+ERR3325656	#386cb0	Europe
+ERR3325657	#386cb0	Europe
+ERR3325658	#386cb0	Europe
+ERR3325659	#386cb0	Europe
+ERR3325668	#386cb0	Europe
+ERR3325669	#386cb0	Europe
+ERR3325671	#386cb0	Europe
+ERR3325672	#386cb0	Europe
+ERR3325673	#386cb0	Europe
+ERR3325674	#386cb0	Europe
+ERR3325681	#386cb0	Europe
+ERR3325682	#386cb0	Europe
+ERR3325683	#386cb0	Europe
+ERR3325687	#386cb0	Europe
+ERR3325689	#386cb0	Europe
+ERR3325694	#386cb0	Europe
+ERR3325700	#386cb0	Europe
+ERR3325701	#386cb0	Europe
+ERR3325704	#386cb0	Europe
+ERR3325706	#386cb0	Europe
+ERR3325707	#386cb0	Europe
+ERR3325708	#386cb0	Europe
+ERR3325709	#386cb0	Europe
+ERR3325710	#386cb0	Europe
+ERR3325714	#386cb0	Europe
+ERR3325715	#386cb0	Europe
+ERR3325716	#386cb0	Europe
+ERR3325717	#386cb0	Europe
+ERR3325718	#386cb0	Europe
+ERR3325719	#386cb0	Europe
+ERR3325720	#386cb0	Europe
+ERR3325721	#386cb0	Europe
+ERR3325722	#386cb0	Europe
+ERR3325724	#386cb0	Europe
+ERR3325728	#386cb0	Europe
+ERR3325729	#386cb0	Europe
+ERR3325730	#386cb0	Europe
+ERR3325733	#386cb0	Europe
+ERR3325734	#386cb0	Europe
+ERR3325735	#386cb0	Europe
+ERR3325739	#386cb0	Europe
+ERR3325742	#386cb0	Europe
+ERR3325744	#386cb0	Europe
+ERR3325747	#386cb0	Europe
+ERR3325749	#386cb0	Europe
+ERR3325751	#386cb0	Europe
+ERR3325752	#386cb0	Europe
+ERR3325757	#386cb0	Europe
+ERR3325758	#386cb0	Europe
+ERR3325760	#386cb0	Europe
+ERR3325761	#386cb0	Europe
+ERR3325762	#386cb0	Europe
+ERR3325764	#386cb0	Europe
+ERR3325772	#386cb0	Europe
+ERR3325776	#386cb0	Europe
+ERR3325777	#386cb0	Europe
+ERR3325778	#386cb0	Europe
+ERR3325779	#386cb0	Europe
+ERR3325780	#386cb0	Europe
+ERR3325781	#386cb0	Europe
+ERR3325782	#386cb0	Europe
+ERR3325785	#386cb0	Europe
+ERR3325786	#386cb0	Europe
+ERR3325787	#386cb0	Europe
+ERR3325788	#386cb0	Europe
+ERR3325789	#386cb0	Europe
+ERR3325790	#386cb0	Europe
+ERR3325791	#386cb0	Europe
+ERR3325792	#386cb0	Europe
+ERR3325794	#386cb0	Europe
+ERR3325187	#386cb0	Europe
+ERR3325189	#386cb0	Europe
+ERR3325190	#386cb0	Europe
+ERR3325194	#386cb0	Europe
+ERR3325199	#386cb0	Europe
+ERR3325201	#386cb0	Europe
+ERR3325204	#386cb0	Europe
+ERR3325207	#386cb0	Europe
+ERR3325208	#386cb0	Europe
+ERR3325211	#386cb0	Europe
+ERR3325212	#386cb0	Europe
+ERR3325213	#386cb0	Europe
+ERR3325215	#386cb0	Europe
+ERR3325216	#386cb0	Europe
+ERR3325218	#386cb0	Europe
+ERR3325221	#386cb0	Europe
+ERR3325227	#386cb0	Europe
+ERR3325228	#386cb0	Europe
+ERR3325230	#386cb0	Europe
+ERR3325231	#386cb0	Europe
+ERR3325232	#386cb0	Europe
+ERR3325233	#386cb0	Europe
+ERR3325234	#386cb0	Europe
+ERR3325235	#386cb0	Europe
+ERR3325236	#386cb0	Europe
+ERR3325237	#386cb0	Europe
+ERR3325240	#386cb0	Europe
+ERR3325244	#386cb0	Europe
+ERR3325249	#386cb0	Europe
+ERR3325250	#386cb0	Europe
+ERR3325251	#386cb0	Europe
+ERR3325265	#386cb0	Europe
+ERR3325266	#386cb0	Europe
+ERR3325267	#386cb0	Europe
+ERR3325268	#386cb0	Europe
+ERR3325270	#386cb0	Europe
+ERR3325271	#386cb0	Europe
+ERR3325277	#386cb0	Europe
+ERR3325278	#386cb0	Europe
+ERR3325279	#386cb0	Europe
+ERR3325281	#386cb0	Europe
+ERR3325288	#386cb0	Europe
+ERR3325289	#386cb0	Europe
+ERR3325292	#386cb0	Europe
+ERR3325298	#386cb0	Europe
+ERR3325303	#386cb0	Europe
+ERR3325307	#386cb0	Europe
+ERR3325318	#386cb0	Europe
+ERR3325320	#386cb0	Europe
+ERR3325321	#386cb0	Europe
+ERR3325322	#386cb0	Europe
+ERR3325323	#386cb0	Europe
+ERR3325326	#386cb0	Europe
+ERR3325327	#386cb0	Europe
+ERR3325328	#386cb0	Europe
+ERR3325329	#386cb0	Europe
+ERR3325330	#386cb0	Europe
+ERR3325331	#386cb0	Europe
+ERR3325332	#386cb0	Europe
+ERR3325335	#386cb0	Europe
+ERR3325338	#386cb0	Europe
+ERR3325341	#386cb0	Europe
+ERR3325342	#386cb0	Europe
+ERR3325344	#386cb0	Europe
+ERR3325346	#386cb0	Europe
+ERR3325347	#386cb0	Europe
+ERR3325348	#386cb0	Europe
+ERR3325349	#386cb0	Europe
+ERR3325350	#386cb0	Europe
+ERR3325351	#386cb0	Europe
+ERR3325353	#386cb0	Europe
+ERR3325354	#386cb0	Europe
+ERR3325357	#386cb0	Europe
+ERR3325359	#386cb0	Europe
+ERR3325360	#386cb0	Europe
+ERR3325362	#386cb0	Europe
+ERR3325363	#386cb0	Europe
+ERR3325364	#386cb0	Europe
+ERR3325367	#386cb0	Europe
+ERR3325369	#386cb0	Europe
+ERR3325371	#386cb0	Europe
+ERR3325374	#386cb0	Europe
+ERR3325376	#386cb0	Europe
+ERR3325377	#386cb0	Europe
+ERR3325378	#386cb0	Europe
+ERR3325380	#386cb0	Europe
+ERR3325383	#386cb0	Europe
+ERR3325384	#386cb0	Europe
+ERR3325386	#386cb0	Europe
+ERR3325387	#386cb0	Europe
+ERR3325389	#386cb0	Europe
+ERR3325390	#386cb0	Europe
+ERR3325391	#386cb0	Europe
+ERR3325394	#386cb0	Europe
+ERR3325395	#386cb0	Europe
+ERR3325401	#386cb0	Europe
+ERR3325403	#386cb0	Europe
+ERR3325404	#386cb0	Europe
+ERR3325406	#386cb0	Europe
+ERR3325407	#386cb0	Europe
+ERR3325409	#386cb0	Europe
+ERR3325416	#386cb0	Europe
+ERR3325418	#386cb0	Europe
+ERR3325419	#386cb0	Europe
+ERR3325422	#386cb0	Europe
+ERR3325433	#386cb0	Europe
+ERR3325435	#386cb0	Europe
+ERR3325436	#386cb0	Europe
+ERR3325437	#386cb0	Europe
+ERR3325439	#386cb0	Europe
+ERR3325440	#386cb0	Europe
+ERR3325446	#386cb0	Europe
+ERR3325447	#386cb0	Europe
+ERR3325448	#386cb0	Europe
+ERR3325450	#386cb0	Europe
+ERR3325453	#386cb0	Europe
+ERR3325454	#386cb0	Europe
+ERR3325458	#386cb0	Europe
+ERR3325459	#386cb0	Europe
+ERR3325463	#386cb0	Europe
+ERR3325464	#386cb0	Europe
+ERR3325466	#386cb0	Europe
+ERR3325469	#386cb0	Europe
+ERR3325475	#386cb0	Europe
+ERR3325479	#386cb0	Europe
+ERR3325480	#386cb0	Europe
+ERR3325481	#386cb0	Europe
+ERR3325482	#386cb0	Europe
+ERR3325483	#386cb0	Europe
+ERR3325484	#386cb0	Europe
+ERR3325485	#386cb0	Europe
+ERR3325488	#386cb0	Europe
+ERR3325489	#386cb0	Europe
+ERR3325491	#386cb0	Europe
+ERR3325492	#386cb0	Europe
+ERR3325494	#386cb0	Europe
+ERR3325497	#386cb0	Europe
+ERR3325500	#386cb0	Europe
+ERR3325501	#386cb0	Europe
+ERR3325502	#386cb0	Europe
+ERR3325505	#386cb0	Europe
+ERR3325506	#386cb0	Europe
+ERR3325511	#386cb0	Europe
+ERR3325512	#386cb0	Europe
+ERR3325518	#386cb0	Europe
+ERR3325519	#386cb0	Europe
+ERR3325520	#386cb0	Europe
+ERR3325521	#386cb0	Europe
+ERR3325524	#386cb0	Europe
+ERR3325525	#386cb0	Europe
+ERR3325531	#386cb0	Europe
+ERR3325534	#386cb0	Europe
+ERR3325542	#386cb0	Europe
+ERR3325543	#386cb0	Europe
+ERR3325544	#386cb0	Europe
+ERR3325545	#386cb0	Europe
+ERR3325548	#386cb0	Europe
+ERR3325552	#386cb0	Europe
+ERR3325557	#386cb0	Europe
+ERR3325559	#386cb0	Europe
+ERR3325560	#386cb0	Europe
+ERR3325561	#386cb0	Europe
+ERR3325562	#386cb0	Europe
+ERR3325563	#386cb0	Europe
+ERR3325564	#386cb0	Europe
+ERR3325565	#386cb0	Europe
+ERR3325567	#386cb0	Europe
+ERR3325569	#386cb0	Europe
+ERR3325571	#386cb0	Europe
+ERR3325579	#386cb0	Europe
+ERR3325581	#386cb0	Europe
+ERR3325584	#386cb0	Europe
+ERR3325585	#386cb0	Europe
+ERR3325586	#386cb0	Europe
+ERR3325592	#386cb0	Europe
+ERR3325594	#386cb0	Europe
+ERR3325595	#386cb0	Europe
+ERR3325604	#386cb0	Europe
+ERR3325605	#386cb0	Europe
+ERR3325607	#386cb0	Europe
+ERR3325609	#386cb0	Europe
+ERR3325615	#386cb0	Europe
+ERR3325616	#386cb0	Europe
+ERR3325617	#386cb0	Europe
+ERR3325618	#386cb0	Europe
+ERR3325619	#386cb0	Europe
+ERR3325620	#386cb0	Europe
+ERR3325625	#386cb0	Europe
+ERR3325626	#386cb0	Europe
+ERR3325627	#386cb0	Europe
+ERR3325630	#386cb0	Europe
+ERR3325633	#386cb0	Europe
+ERR3325639	#386cb0	Europe
+ERR3325640	#386cb0	Europe
+ERR3325643	#386cb0	Europe
+ERR3325645	#386cb0	Europe
+ERR3325648	#386cb0	Europe
+ERR3325651	#386cb0	Europe
+ERR3325652	#386cb0	Europe
+ERR3325653	#386cb0	Europe
+ERR3325654	#386cb0	Europe
+ERR3325655	#386cb0	Europe
+ERR3325660	#386cb0	Europe
+ERR3325661	#386cb0	Europe
+ERR3325664	#386cb0	Europe
+ERR3325665	#386cb0	Europe
+ERR3325666	#386cb0	Europe
+ERR3325667	#386cb0	Europe
+ERR3325675	#386cb0	Europe
+ERR3325677	#386cb0	Europe
+ERR3325678	#386cb0	Europe
+ERR3325679	#386cb0	Europe
+ERR3325680	#386cb0	Europe
+ERR3325684	#386cb0	Europe
+ERR3325685	#386cb0	Europe
+ERR3325686	#386cb0	Europe
+ERR3325688	#386cb0	Europe
+ERR3325693	#386cb0	Europe
+ERR3325695	#386cb0	Europe
+ERR3325696	#386cb0	Europe
+ERR3325698	#386cb0	Europe
+ERR3325702	#386cb0	Europe
+ERR3325703	#386cb0	Europe
+ERR3325705	#386cb0	Europe
+ERR3325711	#386cb0	Europe
+ERR3325712	#386cb0	Europe
+ERR3325723	#386cb0	Europe
+ERR3325725	#386cb0	Europe
+ERR3325726	#386cb0	Europe
+ERR3325727	#386cb0	Europe
+ERR3325731	#386cb0	Europe
+ERR3325732	#386cb0	Europe
+ERR3325736	#386cb0	Europe
+ERR3325737	#386cb0	Europe
+ERR3325738	#386cb0	Europe
+ERR3325740	#386cb0	Europe
+ERR3325741	#386cb0	Europe
+ERR3325743	#386cb0	Europe
+ERR3325748	#386cb0	Europe
+ERR3325754	#386cb0	Europe
+ERR3325759	#386cb0	Europe
+ERR3325765	#386cb0	Europe
+ERR3325769	#386cb0	Europe
+ERR3325771	#386cb0	Europe
+ERR3325773	#386cb0	Europe
+ERR3325774	#386cb0	Europe
+ERR3325783	#386cb0	Europe
+ERR3325784	#386cb0	Europe
+ERR3325793	#386cb0	Europe
+ERR3325795	#386cb0	Europe
+ERR3325796	#386cb0	Europe
+BH02	#fdc086	South America
+BH04	#fdc086	South America
+BH05	#fdc086	South America
+BH06	#fdc086	South America
+BH07	#fdc086	South America
+BH08	#fdc086	South America
+BH10	#fdc086	South America
+BH11	#fdc086	South America
+BH13	#fdc086	South America
+BH14	#fdc086	South America
+BH18	#fdc086	South America
+BH19	#fdc086	South America
+BH21	#fdc086	South America
+BH23	#fdc086	South America
+BH25	#fdc086	South America
+BH26	#fdc086	South America
+BH27	#fdc086	South America
+BH28	#fdc086	South America
+BH29	#fdc086	South America
+BH32	#fdc086	South America
+BH33	#fdc086	South America
+BH34	#fdc086	South America
+BH36	#fdc086	South America
+BH37	#fdc086	South America
+BH38	#fdc086	South America
+BH39	#fdc086	South America
+BH40	#fdc086	South America
+BH41	#fdc086	South America
+BH42	#fdc086	South America
+BH43	#fdc086	South America
+BH44	#fdc086	South America
+BH46	#fdc086	South America
+BH47	#fdc086	South America
+BH48	#fdc086	South America
+BH49	#fdc086	South America
+BH51	#fdc086	South America
+BH52	#fdc086	South America
+BH53	#fdc086	South America
+BH54	#fdc086	South America
+BH55	#fdc086	South America
+BH57	#fdc086	South America
+BH60	#fdc086	South America
+BH62	#fdc086	South America
+BH64	#fdc086	South America
+BH65	#fdc086	South America
+BH66	#fdc086	South America
+BH68	#fdc086	South America
+BH69	#fdc086	South America
+BH70	#fdc086	South America
+BH71	#fdc086	South America
+BH72	#fdc086	South America
+BH75	#fdc086	South America
+BH76	#fdc086	South America
+BH78	#fdc086	South America
+BH79	#fdc086	South America
+BH83	#fdc086	South America
+BH86	#fdc086	South America
+BH91	#fdc086	South America
+BH92	#fdc086	South America
+BH93	#fdc086	South America
+BH94	#fdc086	South America
+BH95	#fdc086	South America
+BH96	#fdc086	South America
+BH97	#fdc086	South America
+BH98	#fdc086	South America
+BH99	#fdc086	South America
+BH100	#fdc086	South America
+BH101	#fdc086	South America
+BH102	#fdc086	South America
+BH103	#fdc086	South America
+BH104	#fdc086	South America
+BH105	#fdc086	South America
+BR01	#fdc086	South America
+BR02	#fdc086	South America
+BR03	#fdc086	South America
+BR04	#fdc086	South America
+BR05	#fdc086	South America
+BR06	#fdc086	South America
+BR07	#fdc086	South America
+BR09	#fdc086	South America
+BR10	#fdc086	South America
+BR11	#fdc086	South America
+BR12	#fdc086	South America
+BR13	#fdc086	South America
+BR14	#fdc086	South America
+BR15	#fdc086	South America
+BR16	#fdc086	South America
+BR17	#fdc086	South America
+BR18	#fdc086	South America
+BR19	#fdc086	South America
+BR20	#fdc086	South America
+BR21	#fdc086	South America
+BR26	#fdc086	South America
+BR27	#fdc086	South America
+BR29	#fdc086	South America
+BR30	#fdc086	South America
+BR32	#fdc086	South America
+BR33	#fdc086	South America
+BR34	#fdc086	South America
+BR35	#fdc086	South America
+BR36	#fdc086	South America
+BR37	#fdc086	South America
+BR38	#fdc086	South America
+BR39	#fdc086	South America
+BR40	#fdc086	South America
+BR41	#fdc086	South America
+BR42	#fdc086	South America
+BR43	#fdc086	South America
+BR44	#fdc086	South America
+BR45	#fdc086	South America
+BR46	#fdc086	South America
+BR47	#fdc086	South America
+BR48	#fdc086	South America
+BR49	#fdc086	South America
+BR50	#fdc086	South America
+BR51	#fdc086	South America
+BR52	#fdc086	South America
+BR53	#fdc086	South America
+BR54	#fdc086	South America
+BR55	#fdc086	South America
+BR56	#fdc086	South America
+BR57	#fdc086	South America
+BR59	#fdc086	South America
+BR60	#fdc086	South America
+BR61	#fdc086	South America
+BR62	#fdc086	South America
+BR63	#fdc086	South America
+BR64	#fdc086	South America
+BR66	#fdc086	South America
+BR68	#fdc086	South America
+BR69	#fdc086	South America
+BR71	#fdc086	South America
+FL1	#fdc086	South America
+FL2	#fdc086	South America
+FL3	#fdc086	South America
+FL4	#fdc086	South America
+FL5	#fdc086	South America
+FL6	#fdc086	South America
+FL7	#fdc086	South America
+FL8	#fdc086	South America
+FL9	#fdc086	South America
+FL10	#fdc086	South America
+FL11	#fdc086	South America
+FL12	#fdc086	South America
+FL13	#fdc086	South America
+FL14	#fdc086	South America
+FL15	#fdc086	South America
+FL16	#fdc086	South America
+FL17	#fdc086	South America
+FL18	#fdc086	South America
+FL19	#fdc086	South America
+FL20	#fdc086	South America
+FL21	#fdc086	South America
+FL22	#fdc086	South America
+FL23	#fdc086	South America
+FL24	#fdc086	South America
+FL25	#fdc086	South America
+FL26	#fdc086	South America
+FL27	#fdc086	South America
+FL28	#fdc086	South America
+FL29	#fdc086	South America
+FL31	#fdc086	South America
+FL32	#fdc086	South America
+FL33	#fdc086	South America
+FL34	#fdc086	South America
+FL35	#fdc086	South America
+FL36	#fdc086	South America
+FL37	#fdc086	South America
+FL38	#fdc086	South America
+FL39	#fdc086	South America
+FL41	#fdc086	South America
+FL42	#fdc086	South America
+FL43	#fdc086	South America
+FL44	#fdc086	South America
+FL45	#fdc086	South America
+FL46	#fdc086	South America
+FL47	#fdc086	South America
+FL48	#fdc086	South America
+FL49	#fdc086	South America
+FL50	#fdc086	South America
+FL51	#fdc086	South America
+FL52	#fdc086	South America
+FL53	#fdc086	South America
+FL54	#fdc086	South America
+FL55	#fdc086	South America
+FL56	#fdc086	South America
+FL57	#fdc086	South America
+FL58	#fdc086	South America
+FL61	#fdc086	South America
+FL62	#fdc086	South America
+FL63	#fdc086	South America
+FL64	#fdc086	South America
+FL65	#fdc086	South America
+FL66	#fdc086	South America
+FL67	#fdc086	South America
+FL68	#fdc086	South America
+FL69	#fdc086	South America
+FL70	#fdc086	South America
+FL71	#fdc086	South America
+FL72	#fdc086	South America
+FL73	#fdc086	South America
+FL74	#fdc086	South America
+MA01	#fdc086	South America
+MA02	#fdc086	South America
+MA04	#fdc086	South America
+MA05	#fdc086	South America
+MA06	#fdc086	South America
+MA07	#fdc086	South America
+MA08	#fdc086	South America
+MA10	#fdc086	South America
+MA11	#fdc086	South America
+MA12	#fdc086	South America
+MA13	#fdc086	South America
+MA14	#fdc086	South America
+MA15	#fdc086	South America
+MA16	#fdc086	South America
+MA17	#fdc086	South America
+MA18	#fdc086	South America
+MA19	#fdc086	South America
+MA21	#fdc086	South America
+MA23	#fdc086	South America
+MA24	#fdc086	South America
+MA25	#fdc086	South America
+MA26	#fdc086	South America
+MA27	#fdc086	South America
+MA29	#fdc086	South America
+MA31	#fdc086	South America
+MA32	#fdc086	South America
+MA33	#fdc086	South America
+MA34	#fdc086	South America
+MA35	#fdc086	South America
+MA37	#fdc086	South America
+MA38	#fdc086	South America
+MA39	#fdc086	South America
+MA40	#fdc086	South America
+MA41	#fdc086	South America
+MA42	#fdc086	South America
+MA44	#fdc086	South America
+MA45	#fdc086	South America
+MA46	#fdc086	South America
+MA47	#fdc086	South America
+MA48	#fdc086	South America
+MA49	#fdc086	South America
+MA51	#fdc086	South America
+MA53	#fdc086	South America
+MA55	#fdc086	South America
+MA56	#fdc086	South America
+MA57	#fdc086	South America
+MA58	#fdc086	South America
+MA59	#fdc086	South America
+MA60	#fdc086	South America
+MA62	#fdc086	South America
+MA63	#fdc086	South America
+MA64	#fdc086	South America
+MA65	#fdc086	South America
+MA66	#fdc086	South America
+MA67	#fdc086	South America
+MA68	#fdc086	South America
+MA69	#fdc086	South America
+MA70	#fdc086	South America
+MA71	#fdc086	South America
+MA72	#fdc086	South America
+MA73	#fdc086	South America
+MA75	#fdc086	South America
+MA78	#fdc086	South America
+MA79	#fdc086	South America
+MA80	#fdc086	South America
+MA81	#fdc086	South America
+MA82	#fdc086	South America
+MA83	#fdc086	South America
+MA84	#fdc086	South America
+MA85	#fdc086	South America
+MA86	#fdc086	South America
+MA87	#fdc086	South America
+MA88	#fdc086	South America
+MA90	#fdc086	South America
+MA92	#fdc086	South America
+MA93	#fdc086	South America
+MA95	#fdc086	South America
+MA97	#fdc086	South America
+MA98	#fdc086	South America
+MA99	#fdc086	South America
+MA100	#fdc086	South America
+POA03	#fdc086	South America
+POA05	#fdc086	South America
+POA06	#fdc086	South America
+POA07	#fdc086	South America
+POA08	#fdc086	South America
+POA09	#fdc086	South America
+POA11	#fdc086	South America
+POA12	#fdc086	South America
+POA13	#fdc086	South America
+POA14	#fdc086	South America
+POA15	#fdc086	South America
+POA16	#fdc086	South America
+POA18	#fdc086	South America
+POA19	#fdc086	South America
+POA20	#fdc086	South America
+POA21	#fdc086	South America
+POA22	#fdc086	South America
+POA23	#fdc086	South America
+POA25	#fdc086	South America
+POA26	#fdc086	South America
+POA27	#fdc086	South America
+POA28	#fdc086	South America
+POA30	#fdc086	South America
+POA31	#fdc086	South America
+POA32	#fdc086	South America
+POA34	#fdc086	South America
+POA36	#fdc086	South America
+POA37	#fdc086	South America
+POA38	#fdc086	South America
+POA39	#fdc086	South America
+POA40	#fdc086	South America
+POA41	#fdc086	South America
+POA42	#fdc086	South America
+POA43	#fdc086	South America
+POA44	#fdc086	South America
+POA45	#fdc086	South America
+POA46	#fdc086	South America
+POA48	#fdc086	South America
+POA49	#fdc086	South America
+POA51	#fdc086	South America
+POA52	#fdc086	South America
+POA54	#fdc086	South America
+POA55	#fdc086	South America
+POA56	#fdc086	South America
+POA57	#fdc086	South America
+POA59	#fdc086	South America
+POA60	#fdc086	South America
+POA61	#fdc086	South America
+POA62	#fdc086	South America
+POA63	#fdc086	South America
+POA64	#fdc086	South America
+POA66	#fdc086	South America
+POA67	#fdc086	South America
+POA68	#fdc086	South America
+POA69	#fdc086	South America
+POA71	#fdc086	South America
+POA72	#fdc086	South America
+POA73	#fdc086	South America
+POA74	#fdc086	South America
+POA75	#fdc086	South America
+POA77	#fdc086	South America
+POA78	#fdc086	South America
+SA04	#fdc086	South America
+SA05	#fdc086	South America
+SA06	#fdc086	South America
+SA09	#fdc086	South America
+SA10	#fdc086	South America
+SA13	#fdc086	South America
+SA15	#fdc086	South America
+SA16	#fdc086	South America
+SA17	#fdc086	South America
+SA19	#fdc086	South America
+SA20	#fdc086	South America
+SA21	#fdc086	South America
+SA22	#fdc086	South America
+SA23	#fdc086	South America
+SA28	#fdc086	South America
+SA29	#fdc086	South America
+SA30	#fdc086	South America
+SA32	#fdc086	South America
+SA34	#fdc086	South America
+SA35	#fdc086	South America
+SA36	#fdc086	South America
+SA37	#fdc086	South America
+SA38	#fdc086	South America
+SA40	#fdc086	South America
+SA42	#fdc086	South America
+SA43	#fdc086	South America
+SA44	#fdc086	South America
+SA47	#fdc086	South America
+SA48	#fdc086	South America
+SA49	#fdc086	South America
+SA50	#fdc086	South America
+SA52	#fdc086	South America
+SA53	#fdc086	South America
+SA56	#fdc086	South America
+SA59	#fdc086	South America
+SA61	#fdc086	South America
+SA63	#fdc086	South America
+SA64	#fdc086	South America
+SA68	#fdc086	South America
+SA69	#fdc086	South America
+SA70	#fdc086	South America
+SA71	#fdc086	South America
+SA72	#fdc086	South America
+SA74	#fdc086	South America
+SA75	#fdc086	South America
+SA76	#fdc086	South America
+SA77	#fdc086	South America
+SA78	#fdc086	South America
+SA79	#fdc086	South America
+SA80	#fdc086	South America
+SA82	#fdc086	South America
+SA84	#fdc086	South America
+SA85	#fdc086	South America
+SA89	#fdc086	South America
+SA90	#fdc086	South America
+SA91	#fdc086	South America
+SA93	#fdc086	South America
+SA95	#fdc086	South America
+SA96	#fdc086	South America
+SA98	#fdc086	South America
+SA99	#fdc086	South America
+SA101	#fdc086	South America
+SA104	#fdc086	South America
+SA106	#fdc086	South America
+SA108	#fdc086	South America
+SA110	#fdc086	South America
+SA111	#fdc086	South America
+SA114	#fdc086	South America
+SA115	#fdc086	South America
+SA116	#fdc086	South America
+SA117	#fdc086	South America
+SP01	#fdc086	South America
+SP02	#fdc086	South America
+SP04	#fdc086	South America
+SP05	#fdc086	South America
+SP06	#fdc086	South America
+SP11	#fdc086	South America
+SP12	#fdc086	South America
+SP13	#fdc086	South America
+SP15	#fdc086	South America
+SP16	#fdc086	South America
+SP17	#fdc086	South America
+SP22	#fdc086	South America
+SP24	#fdc086	South America
+SP25	#fdc086	South America
+SP26	#fdc086	South America
+SP27	#fdc086	South America
+SP34	#fdc086	South America
+SP35	#fdc086	South America
+SP36	#fdc086	South America
+SP37	#fdc086	South America
+SP42	#fdc086	South America
+ERR3990991	#fdc086	South America
+ERR4160187	#fdc086	South America
+ERR4160188	#fdc086	South America
+ERR4160189	#fdc086	South America
+ERR4160190	#fdc086	South America
+ERR4160191	#fdc086	South America
+ERR4160192	#fdc086	South America
+ERR4160193	#fdc086	South America
+ERR4160194	#fdc086	South America
+ERR4161269	#fdc086	South America
+ERR4160205	#fdc086	South America
+ERR4160213	#fdc086	South America
+ERR4160220	#fdc086	South America
+ERR4160226	#fdc086	South America
+ERR4161270	#fdc086	South America
+ERR4160246	#fdc086	South America
+ERR4161393	#fdc086	South America
+ERR4160255	#fdc086	South America
+ERR4160256	#fdc086	South America
+ERR4160258	#fdc086	South America
+ERR4160263	#fdc086	South America
+ERR4160264	#fdc086	South America
+ERR4160265	#fdc086	South America
+ERR4160266	#fdc086	South America
+ERR4160267	#fdc086	South America
+ERR4160268	#fdc086	South America
+ERR4160660	#fdc086	South America
+ERR4161394	#fdc086	South America
+ERR4160661	#fdc086	South America
+ERR4160662	#fdc086	South America
+ERR4160663	#fdc086	South America
+ERR4160664	#fdc086	South America
+ERR4160665	#fdc086	South America
+ERR4160666	#fdc086	South America
+ERR4160667	#fdc086	South America
+ERR4160668	#fdc086	South America
+ERR4160669	#fdc086	South America
+ERR4160670	#fdc086	South America
+ERR4160671	#fdc086	South America
+ERR4160672	#fdc086	South America
+ERR4160673	#fdc086	South America
+ERR4161395	#fdc086	South America
+ERR4161396	#fdc086	South America
+ERR4160674	#fdc086	South America
+ERR4160675	#fdc086	South America
+ERR4160676	#fdc086	South America
+ERR4160677	#fdc086	South America
+ERR4160678	#fdc086	South America
+ERR4160679	#fdc086	South America
+ERR4160680	#fdc086	South America
+ERR4160681	#fdc086	South America
+ERR4160682	#fdc086	South America
+ERR4160683	#fdc086	South America
+ERR4160688	#fdc086	South America
+ERR4160689	#fdc086	South America
+ERR4160690	#fdc086	South America
+ERR4160691	#fdc086	South America
+ERR4160692	#fdc086	South America
+ERR4160693	#fdc086	South America
+ERR4160695	#fdc086	South America
+ERR4160696	#fdc086	South America
+ERR4160697	#fdc086	South America
+ERR4160698	#fdc086	South America
+ERR4160699	#fdc086	South America
+ERR4160701	#fdc086	South America
+ERR4160702	#fdc086	South America
+ERR4160703	#fdc086	South America
+ERR4160704	#fdc086	South America
+ERR4160705	#fdc086	South America
+ERR4160706	#fdc086	South America
+ERR4160707	#fdc086	South America
+ERR4160708	#fdc086	South America
+ERR4160709	#fdc086	South America
+ERR4160710	#fdc086	South America
+ERR4160711	#fdc086	South America
+ERR4160712	#fdc086	South America
+ERR4160713	#fdc086	South America
+ERR4160714	#fdc086	South America
+ERR4160715	#fdc086	South America
+ERR4160717	#fdc086	South America
+ERR4160718	#fdc086	South America
+ERR4160719	#fdc086	South America
+ERR4160730	#fdc086	South America
+ERR4160732	#fdc086	South America
+ERR4160734	#fdc086	South America
+ERR4160748	#fdc086	South America
+ERR4160749	#fdc086	South America
+ERR4160750	#fdc086	South America
+ERR4160751	#fdc086	South America
+ERR4160752	#fdc086	South America
+ERR4160753	#fdc086	South America
+ERR4160754	#fdc086	South America
+ERR4160755	#fdc086	South America
+ERR4160756	#fdc086	South America
+ERR4160757	#fdc086	South America
+ERR4160758	#fdc086	South America
+ERR4160759	#fdc086	South America
+ERR4160760	#fdc086	South America
+ERR4160761	#fdc086	South America
+ERR4160762	#fdc086	South America
+ERR4160763	#fdc086	South America
+ERR4160764	#fdc086	South America
+ERR4160765	#fdc086	South America
+ERR4160766	#fdc086	South America
+ERR4160767	#fdc086	South America
+ERR4160768	#fdc086	South America
+ERR4160769	#fdc086	South America
+ERR4160770	#fdc086	South America
+ERR4160771	#fdc086	South America
+ERR4160772	#fdc086	South America
+ERR4160773	#fdc086	South America
+ERR4160774	#fdc086	South America
+ERR4160775	#fdc086	South America
+ERR4160776	#fdc086	South America
+ERR4160777	#fdc086	South America
+ERR4161169	#fdc086	South America
+ERR4161170	#fdc086	South America
+ERR4161171	#fdc086	South America
+ERR4161172	#fdc086	South America
+ERR4161173	#fdc086	South America
+ERR4161174	#fdc086	South America
+ERR4161175	#fdc086	South America
+ERR4161224	#fdc086	South America
+ERR4161225	#fdc086	South America
+ERR4161226	#fdc086	South America
+ERR4161227	#fdc086	South America
+ERR4161228	#fdc086	South America
+ERR4161229	#fdc086	South America
+ERR4161230	#fdc086	South America
+ERR4161231	#fdc086	South America
+ERR4161232	#fdc086	South America
+ERR4161233	#fdc086	South America
+ERR4161234	#fdc086	South America
+ERR4161235	#fdc086	South America
+ERR4161236	#fdc086	South America
+ERR4161237	#fdc086	South America
+ERR4161238	#fdc086	South America
+ERR4161239	#fdc086	South America
+ERR4161240	#fdc086	South America
+ERR4161241	#fdc086	South America
+ERR4161242	#fdc086	South America
+ERR4161243	#fdc086	South America
+ERR4161244	#fdc086	South America
+ERR4161245	#fdc086	South America
+ERR4161246	#fdc086	South America
+ERR4161247	#fdc086	South America
+ERR4161249	#fdc086	South America
+ERR4161250	#fdc086	South America
+ERR4161251	#fdc086	South America
+ERR4161252	#fdc086	South America
+ERR4161253	#fdc086	South America
+ERR4161254	#fdc086	South America
+ERR4161255	#fdc086	South America
+ERR4161256	#fdc086	South America
+ERR4161257	#fdc086	South America
+ERR4161258	#fdc086	South America
+ERR3851416	#386cb0	Europe
+ERR3851418	#386cb0	Europe
+ERR3851420	#386cb0	Europe
+ERR3851423	#386cb0	Europe
+ERR3851424	#386cb0	Europe
+ERR3851428	#386cb0	Europe
+ERR3851431	#386cb0	Europe
+ERR3851432	#386cb0	Europe
+ERR3851435	#386cb0	Europe
+ERR3851440	#386cb0	Europe
+ERR3851442	#386cb0	Europe
+ERR3851447	#386cb0	Europe
+ERR3851448	#386cb0	Europe
+ERR3851467	#386cb0	Europe
+ERR3851471	#386cb0	Europe
+ERR3851474	#386cb0	Europe
+ERR3851477	#386cb0	Europe
+ERR3851479	#386cb0	Europe
+ERR3851488	#386cb0	Europe
+ERR3851499	#386cb0	Europe
+ERR3851503	#386cb0	Europe
+ERR3851504	#386cb0	Europe
+ERR3851507	#386cb0	Europe
+ERR3851509	#386cb0	Europe
+ERR3851512	#386cb0	Europe
+ERR3851517	#386cb0	Europe
+ERR3851518	#386cb0	Europe
+ERR3851520	#386cb0	Europe
+ERR3851521	#386cb0	Europe
+ERR3851523	#386cb0	Europe
+ERR3851529	#386cb0	Europe
+ERR3851534	#386cb0	Europe
+ERR3851538	#386cb0	Europe
+ERR3851540	#386cb0	Europe
+ERR3851545	#386cb0	Europe
+ERR3851551	#386cb0	Europe
+ERR3851554	#386cb0	Europe
+ERR3851560	#386cb0	Europe
+ERR3851563	#386cb0	Europe
+ERR3851564	#386cb0	Europe
+ERR3851571	#386cb0	Europe
+ERR3851581	#386cb0	Europe
+ERR3851587	#386cb0	Europe
+ERR3851589	#386cb0	Europe
+ERR3851590	#386cb0	Europe
+ERR3851594	#386cb0	Europe
+ERR3851596	#386cb0	Europe
+ERR3851606	#386cb0	Europe
+ERR3851609	#386cb0	Europe
+ERR3851613	#386cb0	Europe
+ERR3851615	#386cb0	Europe
+ERR3851621	#386cb0	Europe
+ERR3851623	#386cb0	Europe
+ERR3851626	#386cb0	Europe
+ERR3851627	#386cb0	Europe
+ERR3851634	#386cb0	Europe
+ERR3851638	#386cb0	Europe
+ERR3851642	#386cb0	Europe
+ERR3851643	#386cb0	Europe
+ERR3851644	#386cb0	Europe
+ERR3851646	#386cb0	Europe
+ERR3851647	#386cb0	Europe
+ERR3851656	#386cb0	Europe
+ERR3851662	#386cb0	Europe
+ERR3851666	#386cb0	Europe
+ERR3851671	#386cb0	Europe
+ERR3851673	#386cb0	Europe
+ERR3851677	#386cb0	Europe
+ERR3851683	#386cb0	Europe
+ERR3851684	#386cb0	Europe
+ERR3851687	#386cb0	Europe
+ERR3851692	#386cb0	Europe
+ERR3851693	#386cb0	Europe
+ERR3851703	#386cb0	Europe
+ERR3851706	#386cb0	Europe
+ERR3851708	#386cb0	Europe
+ERR3851711	#386cb0	Europe
+ERR3851716	#386cb0	Europe
+ERR3851717	#386cb0	Europe
+ERR3851718	#386cb0	Europe
+ERR3851719	#386cb0	Europe
+ERR3851720	#386cb0	Europe
+ERR3851722	#386cb0	Europe
+ERR3851733	#386cb0	Europe
+ERR3851734	#386cb0	Europe
+ERR3851736	#386cb0	Europe
+ERR3851737	#386cb0	Europe
+ERR3851738	#386cb0	Europe
+ERR3851740	#386cb0	Europe
+ERR3851742	#386cb0	Europe
+ERR3851745	#386cb0	Europe
+ERR3851750	#386cb0	Europe
+ERR3851756	#386cb0	Europe
+ERR3851757	#386cb0	Europe
+ERR3851759	#386cb0	Europe
+ERR3851775	#386cb0	Europe
+ERR3851777	#386cb0	Europe
+ERR3851779	#386cb0	Europe
+ERR3851786	#386cb0	Europe
+ERR3851791	#386cb0	Europe
+ERR3851795	#386cb0	Europe
+ERR3851799	#386cb0	Europe
+ERR3851800	#386cb0	Europe
+ERR3851802	#386cb0	Europe
+ERR3851810	#386cb0	Europe
+ERR3851811	#386cb0	Europe
+ERR3851820	#386cb0	Europe
+ERR3851824	#386cb0	Europe
+ERR3851830	#386cb0	Europe
+ERR3851831	#386cb0	Europe
+ERR3851832	#386cb0	Europe
+ERR3851833	#386cb0	Europe
+ERR3851844	#386cb0	Europe
+ERR3851851	#386cb0	Europe
+ERR3851855	#386cb0	Europe
+ERR3851870	#386cb0	Europe
+ERR3851872	#386cb0	Europe
+ERR3851874	#386cb0	Europe
+ERR3851877	#386cb0	Europe
+ERR3851878	#386cb0	Europe
+ERR3851881	#386cb0	Europe
+ERR3851883	#386cb0	Europe
+ERR3851887	#386cb0	Europe
+ERR3851892	#386cb0	Europe
+ERR3851896	#386cb0	Europe
+ERR3851897	#386cb0	Europe
+ERR3851900	#386cb0	Europe
+ERR3851904	#386cb0	Europe
+CCC001	#ffff99	Asia
+CCC002	#ffff99	Asia
+CCC003	#ffff99	Asia
+CCC004	#ffff99	Asia
+CCC005	#ffff99	Asia
+CCC006	#ffff99	Asia
+CCC007	#ffff99	Asia
+CCC008	#ffff99	Asia
+CCC009	#ffff99	Asia
+CCC010	#ffff99	Asia
+CCC011	#ffff99	Asia
+CCC012	#ffff99	Asia
+CCC013	#ffff99	Asia
+CCC014	#ffff99	Asia
+CCC015	#ffff99	Asia
+CCC016	#ffff99	Asia
+CCC018	#ffff99	Asia
+CCC019	#ffff99	Asia
+CCC020	#ffff99	Asia
+CCC021	#ffff99	Asia
+CCC022	#ffff99	Asia
+CCC023	#ffff99	Asia
+CCC024	#ffff99	Asia
+CCC025	#ffff99	Asia
+CCC026	#ffff99	Asia
+CCC027	#ffff99	Asia
+CCC028	#ffff99	Asia
+CCC029	#ffff99	Asia
+CCC030	#ffff99	Asia
+CCC031	#ffff99	Asia
+CCC032	#ffff99	Asia
+CCC033	#ffff99	Asia
+CCC034	#ffff99	Asia
+CCC035	#ffff99	Asia
+CCC036	#ffff99	Asia
+CCC037	#ffff99	Asia
+CCC038	#ffff99	Asia
+CCC039	#ffff99	Asia
+CCC040	#ffff99	Asia
+CCC041	#ffff99	Asia
+CCC042	#ffff99	Asia
+CCC044	#ffff99	Asia
+CCC045	#ffff99	Asia
+CCC046	#ffff99	Asia
+CCC047	#ffff99	Asia
+CCC048	#ffff99	Asia
+CCC049	#ffff99	Asia
+CCC050	#ffff99	Asia
+DDD001	#ffff99	Asia
+DDD002	#ffff99	Asia
+DDD003	#ffff99	Asia
+DDD004	#ffff99	Asia
+DDD006	#ffff99	Asia
+DDD008	#ffff99	Asia
+DDD010	#ffff99	Asia
+DDD011	#ffff99	Asia
+DDD012	#ffff99	Asia
+DDD013	#ffff99	Asia
+DDD014	#ffff99	Asia
+DDD015	#ffff99	Asia
+DDD016	#ffff99	Asia
+DDD017	#ffff99	Asia
+DDD018	#ffff99	Asia
+DDD019	#ffff99	Asia
+DDD020	#ffff99	Asia
+DDD021	#ffff99	Asia
+DDD022	#ffff99	Asia
+DDD023	#ffff99	Asia
+DDD024	#ffff99	Asia
+DDD025	#ffff99	Asia
+DDD026	#ffff99	Asia
+DDD027	#ffff99	Asia
+DDD028	#ffff99	Asia
+DDD029	#ffff99	Asia
+DDD030	#ffff99	Asia
+DDD031	#ffff99	Asia
+DDD032	#ffff99	Asia
+DDD033	#ffff99	Asia
+DDD034	#ffff99	Asia
+DDD035	#ffff99	Asia
+DDD036	#ffff99	Asia
+DDD037	#ffff99	Asia
+DDD038	#ffff99	Asia
+DDD039	#ffff99	Asia
+DDD040	#ffff99	Asia
+DDD041	#ffff99	Asia
+DDD042	#ffff99	Asia
+DDD043	#ffff99	Asia
+DDD044	#ffff99	Asia
+DDD045	#ffff99	Asia
+DDD046	#ffff99	Asia
+DDD047	#ffff99	Asia
+DDD048	#ffff99	Asia
+DDD049	#ffff99	Asia
+DDD050	#ffff99	Asia
+EEE001	#ffff99	Asia
+EEE002	#ffff99	Asia
+EEE003	#ffff99	Asia
+EEE004	#ffff99	Asia
+EEE005	#ffff99	Asia
+EEE006	#ffff99	Asia
+EEE007	#ffff99	Asia
+EEE008	#ffff99	Asia
+EEE009	#ffff99	Asia
+EEE010	#ffff99	Asia
+EEE011	#ffff99	Asia
+EEE012	#ffff99	Asia
+EEE013	#ffff99	Asia
+EEE014	#ffff99	Asia
+EEE015	#ffff99	Asia
+EEE016	#ffff99	Asia
+EEE017	#ffff99	Asia
+EEE018	#ffff99	Asia
+EEE019	#ffff99	Asia
+EEE020	#ffff99	Asia
+EEE021	#ffff99	Asia
+EEE022	#ffff99	Asia
+EEE023	#ffff99	Asia
+EEE024	#ffff99	Asia
+EEE025	#ffff99	Asia
+EEE026	#ffff99	Asia
+EEE027	#ffff99	Asia
+EEE028	#ffff99	Asia
+EEE029	#ffff99	Asia
+EEE030	#ffff99	Asia
+EEE031	#ffff99	Asia
+EEE032	#ffff99	Asia
+EEE033	#ffff99	Asia
+EEE034	#ffff99	Asia
+EEE035	#ffff99	Asia
+EEE036	#ffff99	Asia
+EEE037	#ffff99	Asia
+EEE038	#ffff99	Asia
+EEE039	#ffff99	Asia
+EEE040	#ffff99	Asia
+EEE041	#ffff99	Asia
+EEE042	#ffff99	Asia
+EEE043	#ffff99	Asia
+EEE044	#ffff99	Asia
+EEE045	#ffff99	Asia
+EEE046	#ffff99	Asia
+EEE047	#ffff99	Asia
+EEE048	#ffff99	Asia
+EEE049	#ffff99	Asia
+EEE050	#ffff99	Asia
+FFF001	#ffff99	Asia
+FFF002	#ffff99	Asia
+FFF003	#ffff99	Asia
+FFF004	#ffff99	Asia
+FFF005	#ffff99	Asia
+FFF006	#ffff99	Asia
+FFF007	#ffff99	Asia
+FFF008	#ffff99	Asia
+FFF009	#ffff99	Asia
+FFF010	#ffff99	Asia
+FFF011	#ffff99	Asia
+FFF012	#ffff99	Asia
+FFF013	#ffff99	Asia
+FFF014	#ffff99	Asia
+FFF015	#ffff99	Asia
+FFF016	#ffff99	Asia
+FFF017	#ffff99	Asia
+FFF018	#ffff99	Asia
+FFF019	#ffff99	Asia
+FFF020	#ffff99	Asia
+FFF021	#ffff99	Asia
+FFF022	#ffff99	Asia
+FFF023	#ffff99	Asia
+FFF024	#ffff99	Asia
+FFF025	#ffff99	Asia
+FFF027	#ffff99	Asia
+FFF028	#ffff99	Asia
+FFF029	#ffff99	Asia
+FFF030	#ffff99	Asia
+FFF031	#ffff99	Asia
+FFF032	#ffff99	Asia
+FFF033	#ffff99	Asia
+FFF034	#ffff99	Asia
+FFF035	#ffff99	Asia
+FFF036	#ffff99	Asia
+FFF037	#ffff99	Asia
+FFF038	#ffff99	Asia
+FFF039	#ffff99	Asia
+FFF040	#ffff99	Asia
+FFF041	#ffff99	Asia
+FFF042	#ffff99	Asia
+FFF043	#ffff99	Asia
+FFF044	#ffff99	Asia
+FFF045	#ffff99	Asia
+FFF046	#ffff99	Asia
+FFF047	#ffff99	Asia
+FFF048	#ffff99	Asia
+FFF049	#ffff99	Asia
+FFF050	#ffff99	Asia
+JJJ001	#ffff99	Asia
+JJJ002	#ffff99	Asia
+JJJ003	#ffff99	Asia
+JJJ004	#ffff99	Asia
+JJJ005	#ffff99	Asia
+JJJ006	#ffff99	Asia
+JJJ007	#ffff99	Asia
+JJJ008	#ffff99	Asia
+JJJ009	#ffff99	Asia
+JJJ010	#ffff99	Asia
+JJJ011	#ffff99	Asia
+JJJ012	#ffff99	Asia
+JJJ013	#ffff99	Asia
+JJJ014	#ffff99	Asia
+JJJ015	#ffff99	Asia
+JJJ016	#ffff99	Asia
+JJJ017	#ffff99	Asia
+JJJ018	#ffff99	Asia
+JJJ019	#ffff99	Asia
+JJJ020	#ffff99	Asia
+JJJ021	#ffff99	Asia
+JJJ023	#ffff99	Asia
+JJJ024	#ffff99	Asia
+JJJ025	#ffff99	Asia
+SRR11904061	#f0027f	North America
+SRR11904435	#f0027f	North America
+SRR11904382	#f0027f	North America
+SRR8833684	#f0027f	North America
+SRR8833686	#f0027f	North America
+SRR11904677	#f0027f	North America
+SRR11904958	#f0027f	North America
+SRR8903155	#f0027f	North America
+SRR9878239	#f0027f	North America
+SRR11904231	#f0027f	North America
+SRR11904081	#f0027f	North America
+SRR11904659	#f0027f	North America
+SRR8172313	#f0027f	North America
+SRR11904755	#f0027f	North America
+SRR8833591	#f0027f	North America
+SRR8833602	#f0027f	North America
+SRR8833488	#f0027f	North America
+SRR8903160	#f0027f	North America
+SRR11904332	#f0027f	North America
+SRR11904300	#f0027f	North America
+SRR11904229	#f0027f	North America
+SRR8172101	#f0027f	North America
+SRR8833522	#f0027f	North America
+SRR11904804	#f0027f	North America
+SRR11904607	#f0027f	North America
+SRR11904441	#f0027f	North America
+SRR11903978	#f0027f	North America
+SRR11904671	#f0027f	North America
+SRR8833660	#f0027f	North America
+SRR11904792	#f0027f	North America
+SRR8833401	#f0027f	North America
+SRR11904141	#f0027f	North America
+SRR11903921	#f0027f	North America
+SRR11904126	#f0027f	North America
+SRR11904124	#f0027f	North America
+SRR11903991	#f0027f	North America
+SRR11903975	#f0027f	North America
+SRR11903970	#f0027f	North America
+SRR11903890	#f0027f	North America
+SRR11904419	#f0027f	North America
+SRR11904162	#f0027f	North America
+SRR11904161	#f0027f	North America
+SRR11904339	#f0027f	North America
+SRR11904338	#f0027f	North America
+SRR11904308	#f0027f	North America
+SRR11904262	#f0027f	North America
+SRR11904260	#f0027f	North America
+SRR11904806	#f0027f	North America
+SRR8903228	#f0027f	North America
+SRR11903866	#f0027f	North America
+SRR11904412	#f0027f	North America
+SRR11903949	#f0027f	North America
+SRR11904373	#f0027f	North America
+SRR8833658	#f0027f	North America
+SRR11904548	#f0027f	North America
+SRR11904727	#f0027f	North America
+SRR11904092	#f0027f	North America
+SRR8172099	#f0027f	North America
+SRR8903337	#f0027f	North America
+SRR9878334	#f0027f	North America
+SRR9877819	#f0027f	North America
+SRR9877821	#f0027f	North America
+SRR9878038	#f0027f	North America
+SRR9878031	#f0027f	North America
+SRR11904782	#f0027f	North America
+SRR11904096	#f0027f	North America
+SRR11903936	#f0027f	North America
+SRR11904352	#f0027f	North America
+SRR11904196	#f0027f	North America
+SRR8903322	#f0027f	North America
+SRR11904030	#f0027f	North America
+SRR11903931	#f0027f	North America
+SRR11904364	#f0027f	North America
+SRR11904533	#f0027f	North America
+SRR11904488	#f0027f	North America
+SRR8833604	#f0027f	North America
+SRR11904564	#f0027f	North America
+SRR11904570	#f0027f	North America
+SRR11904868	#f0027f	North America
+SRR11904602	#f0027f	North America
+SRR11904569	#f0027f	North America
+SRR11904482	#f0027f	North America
+SRR11904921	#f0027f	North America
+SRR11904920	#f0027f	North America
+SRR8903105	#f0027f	North America
+SRR11904322	#f0027f	North America
+SRR8903346	#f0027f	North America
+SRR11904692	#f0027f	North America
+SRR8172348	#f0027f	North America
+SRR8172349	#f0027f	North America
+SRR11904090	#f0027f	North America
+SRR11904031	#f0027f	North America
+SRR11904189	#f0027f	North America
+SRR11904415	#f0027f	North America
+SRR11904099	#f0027f	North America
+SRR11904185	#f0027f	North America
+SRR11904438	#f0027f	North America
+SRR8172046	#f0027f	North America
+SRR8833599	#f0027f	North America
+SRR8903161	#f0027f	North America
+SRR11904393	#f0027f	North America
+SRR11904233	#f0027f	North America
+SRR9878045	#f0027f	North America
+SRR11904173	#f0027f	North America
+SRR11903996	#f0027f	North America
+SRR11903844	#f0027f	North America
+SRR11903973	#f0027f	North America
+SRR11903907	#f0027f	North America
+SRR11904420	#f0027f	North America
+SRR11904256	#f0027f	North America
+SRR11904255	#f0027f	North America
+SRR9877764	#f0027f	North America
+SRR11904674	#f0027f	North America
+SRR11904328	#f0027f	North America
+SRR11904103	#f0027f	North America
+SRR9877775	#f0027f	North America
+SRR11903944	#f0027f	North America
+SRR11904633	#f0027f	North America
+SRR11904303	#f0027f	North America
+SRR11904915	#f0027f	North America
+SRR11904801	#f0027f	North America
+SRR8903219	#f0027f	North America
+SRR8903271	#f0027f	North America
+SRR8903174	#f0027f	North America
+SRR11903980	#f0027f	North America
+SRR11903948	#f0027f	North America
+SRR11904892	#f0027f	North America
+SRR11904379	#f0027f	North America
+SRR11904707	#f0027f	North America
+SRR11904703	#f0027f	North America
+SRR11903997	#f0027f	North America
+SRR11903917	#f0027f	North America
+SRR11903915	#f0027f	North America
+SRR11904330	#f0027f	North America
+SRR11904296	#f0027f	North America
+SRR11904164	#f0027f	North America
+SRR11904160	#f0027f	North America
+SRR11904149	#f0027f	North America
+SRR11904368	#f0027f	North America
+SRR11904688	#f0027f	North America
+SRR11904360	#f0027f	North America
+SRR11904200	#f0027f	North America
+SRR11904584	#f0027f	North America
+SRR8903266	#f0027f	North America
+SRR11904822	#f0027f	North America
+SRR11904675	#f0027f	North America
+SRR11904909	#f0027f	North America
+SRR11904689	#f0027f	North America
+SRR11904694	#f0027f	North America
+SRR11904253	#f0027f	North America
+SRR8172170	#f0027f	North America
+SRR11904117	#f0027f	North America
+SRR11904197	#f0027f	North America
+SRR11904562	#f0027f	North America
+SRR11904793	#f0027f	North America
+SRR11904791	#f0027f	North America
+SRR8903139	#f0027f	North America
+SRR11904514	#f0027f	North America
+SRR8833446	#f0027f	North America
+SRR11904961	#f0027f	North America
+SRR11904962	#f0027f	North America
+SRR9878050	#f0027f	North America
+SRR11904477	#f0027f	North America
+SRR8903216	#f0027f	North America
+SRR11903871	#f0027f	North America
+SRR11904281	#f0027f	North America
+SRR11904278	#f0027f	North America
+SRR11904277	#f0027f	North America
+SRR11904171	#f0027f	North America
+SRR11904865	#f0027f	North America
+SRR11904866	#f0027f	North America
+SRR11904167	#f0027f	North America
+SRR11904165	#f0027f	North America
+SRR9877739	#f0027f	North America
+SRR11904798	#f0027f	North America
+SRR11904440	#f0027f	North America
+SRR11904617	#f0027f	North America
+SRR11904392	#f0027f	North America
+SRR9877779	#f0027f	North America
+SRR8833657	#f0027f	North America
+SRR11904462	#f0027f	North America
+SRR11904742	#f0027f	North America
+SRR11903938	#f0027f	North America
+SRR11904301	#f0027f	North America
+SRR11903882	#f0027f	North America
+SRR11903972	#f0027f	North America
+SRR8833609	#f0027f	North America
+SRR11904411	#f0027f	North America
+SRR11903940	#f0027f	North America
+SRR11904398	#f0027f	North America
+SRR11904887	#f0027f	North America
+SRR11904886	#f0027f	North America
+SRR11904885	#f0027f	North America
+SRR11903863	#f0027f	North America
+SRR11904004	#f0027f	North America
+SRR11903891	#f0027f	North America
+SRR11903889	#f0027f	North America
+SRR11904418	#f0027f	North America
+SRR11903983	#f0027f	North America
+SRR11904766	#f0027f	North America
+SRR11904177	#f0027f	North America
+SRR8833661	#f0027f	North America
+SRR11904680	#f0027f	North America
+SRR8833457	#f0027f	North America
+SRR11904622	#f0027f	North America
+SRR11904726	#f0027f	North America
+SRR11904940	#f0027f	North America
+SRR8833515	#f0027f	North America
+SRR8833513	#f0027f	North America
+SRR11903928	#f0027f	North America
+SRR11904355	#f0027f	North America
+SRR11904785	#f0027f	North America
+SRR11904353	#f0027f	North America
+SRR11903929	#f0027f	North America
+SRR11904365	#f0027f	North America
+SRR8833600	#f0027f	North America
+SRR8833445	#f0027f	North America
+SRR8903164	#f0027f	North America
+SRR11904566	#f0027f	North America
+SRR11904510	#f0027f	North America
+SRR11904045	#f0027f	North America
+SRR11904104	#f0027f	North America
+SRR11903848	#f0027f	North America
+SRR8833418	#f0027f	North America
+SRR8833681	#f0027f	North America
+SRR8833682	#f0027f	North America
+SRR11904765	#f0027f	North America
+SRR8833683	#f0027f	North America
+SRR8903272	#f0027f	North America
+SRR8903156	#f0027f	North America
+SRR11903869	#f0027f	North America
+SRR11903865	#f0027f	North America
+SRR11904151	#f0027f	North America
+SRR11904150	#f0027f	North America
+SRR11904649	#f0027f	North America
+SRR11904605	#f0027f	North America
+SRR8171877	#f0027f	North America
+SRR8171878	#f0027f	North America
+SRR8903220	#f0027f	North America
+SRR8903267	#f0027f	North America
+SRR8903265	#f0027f	North America
+SRR11903876	#f0027f	North America
+SRR11903872	#f0027f	North America
+SRR11904170	#f0027f	North America
+SRR11904039	#f0027f	North America
+SRR11904013	#f0027f	North America
+SRR11904738	#f0027f	North America
+SRR8833598	#f0027f	North America
+SRR11904230	#f0027f	North America
+SRR11904157	#f0027f	North America
+SRR11904156	#f0027f	North America
+SRR11904481	#f0027f	North America
+SRR9877946	#f0027f	North America
+SRR11904923	#f0027f	North America
+SRR11904964	#f0027f	North America
+SRR11904629	#f0027f	North America
+SRR11904626	#f0027f	North America
+SRR11904851	#f0027f	North America
+SRR11904142	#f0027f	North America
+SRR11904131	#f0027f	North America
+SRR11904129	#f0027f	North America
+SRR11904127	#f0027f	North America
+SRR11903888	#f0027f	North America
+SRR11903887	#f0027f	North America
+SRR11904294	#f0027f	North America
+SRR11904163	#f0027f	North America
+SRR11904292	#f0027f	North America
+SRR11904320	#f0027f	North America
+SRR11904318	#f0027f	North America
+SRR11904148	#f0027f	North America
+SRR11904147	#f0027f	North America
+SRR11904138	#f0027f	North America
+SRR9878155	#f0027f	North America
+SRR8903131	#f0027f	North America
+SRR11904409	#f0027f	North America
+SRR11904608	#f0027f	North America
+SRR11904473	#f0027f	North America
+SRR11904472	#f0027f	North America
+SRR11904228	#f0027f	North America
+SRR11904172	#f0027f	North America
+SRR11904280	#f0027f	North America
+SRR11904100	#f0027f	North America
+SRR11904118	#f0027f	North America
+SRR8172358	#f0027f	North America
+SRR11904764	#f0027f	North America
+SRR8833368	#f0027f	North America
+SRR9878319	#f0027f	North America
+SRR9877737	#f0027f	North America
+SRR11904612	#f0027f	North America
+SRR11903993	#f0027f	North America
+SRR11904895	#f0027f	North America
+SRR11903951	#f0027f	North America
+SRR11903919	#f0027f	North America
+SRR11904060	#f0027f	North America
+SRR11904056	#f0027f	North America
+SRR11904808	#f0027f	North America
+SRR11904466	#f0027f	North America
+SRR11904756	#f0027f	North America
+SRR11904816	#f0027f	North America
+SRR11903877	#f0027f	North America
+SRR11904341	#f0027f	North America
+SRR11904340	#f0027f	North America
+SRR11904396	#f0027f	North America
+SRR11904212	#f0027f	North America
+SRR11904870	#f0027f	North America
+SRR8903343	#f0027f	North America
+SRR8903141	#f0027f	North America
+SRR11904902	#f0027f	North America
+SRR11904691	#f0027f	North America
+SRR11903920	#f0027f	North America
+SRR11904863	#f0027f	North America
+SRR11904620	#f0027f	North America
+SRR11903838	#f0027f	North America
+SRR9877696	#f0027f	North America
+SRR11904464	#f0027f	North America
+SRR11904390	#f0027f	North America
+SRR11904532	#f0027f	North America
+SRR8833423	#f0027f	North America
+SRR11904800	#f0027f	North America
+SRR11903839	#f0027f	North America
+SRR11903963	#f0027f	North America
+SRR11903952	#f0027f	North America
+SRR11904460	#f0027f	North America
+SRR11904021	#f0027f	North America
+SRR11904463	#f0027f	North America
+SRR11904302	#f0027f	North America
+SRR11904269	#f0027f	North America
+SRR11904693	#f0027f	North America
+SRR11903913	#f0027f	North America
+SRR11904000	#f0027f	North America
+SRR11903947	#f0027f	North America
+SRR11903935	#f0027f	North America
+SRR11904439	#f0027f	North America
+SRR11904668	#f0027f	North America
+SRR11903875	#f0027f	North America
+SRR11904247	#f0027f	North America
+SRR8903172	#f0027f	North America
+SRR11904388	#f0027f	North America
+SRR11904304	#f0027f	North America
+SRR11904299	#f0027f	North America
+SRR11904135	#f0027f	North America
+SRR11904883	#f0027f	North America
+SRR11904850	#f0027f	North America
+SRR11903886	#f0027f	North America
+SRR9877937	#f0027f	North America
+SRR11904585	#f0027f	North America
+SRR11904208	#f0027f	North America
+SRR11904522	#f0027f	North America
+SRR11904134	#f0027f	North America
+SRR11904666	#f0027f	North America
+SRR11904854	#f0027f	North America
+SRR11904894	#f0027f	North America
+SRR11904434	#f0027f	North America
+SRR11904326	#f0027f	North America
+SRR11904551	#f0027f	North America
+SRR11903982	#f0027f	North America
+SRR11904306	#f0027f	North America
+SRR8833422	#f0027f	North America
+SRR11904058	#f0027f	North America
+SRR11903840	#f0027f	North America
+SRR11904374	#f0027f	North America
+SRR11904621	#f0027f	North America
+SRR11904732	#f0027f	North America
+SRR11904730	#f0027f	North America
+SRR11904729	#f0027f	North America
+SRR11904010	#f0027f	North America
+SRR11904366	#f0027f	North America
+SRR11904771	#f0027f	North America
+SRR11904908	#f0027f	North America
+SRR8833514	#f0027f	North America
+SRR8833516	#f0027f	North America
+SRR8833451	#f0027f	North America
+SRR8833573	#f0027f	North America
+SRR8833536	#f0027f	North America
+SRR11904357	#f0027f	North America
+SRR11904052	#f0027f	North America
+SRR11904119	#f0027f	North America
+SRR11904048	#f0027f	North America
+SRR11904023	#f0027f	North America
+SRR11904022	#f0027f	North America
+SRR11904020	#f0027f	North America
+SRR11903939	#f0027f	North America
+SRR11903937	#f0027f	North America
+SRR11904351	#f0027f	North America
+SRR11904627	#f0027f	North America
+SRR11904790	#f0027f	North America
+SRR11904859	#f0027f	North America
+SRR8172045	#f0027f	North America
+SRR8172044	#f0027f	North America
+SRR11904386	#f0027f	North America
+SRR11904387	#f0027f	North America
+SRR11904315	#f0027f	North America
+SRR11904805	#f0027f	North America
+SRR11904811	#f0027f	North America
+SRR11904736	#f0027f	North America
+SRR11904112	#f0027f	North America
+SRR11904422	#f0027f	North America
+SRR11904604	#f0027f	North America
+SRR11904568	#f0027f	North America
+SRR11904922	#f0027f	North America
+SRR11904853	#f0027f	North America
+SRR11904192	#f0027f	North America
+SRR11904656	#f0027f	North America
+SRR11904875	#f0027f	North America
+SRR11904846	#f0027f	North America
+SRR11904917	#f0027f	North America
+SRR11904468	#f0027f	North America
+SRR9877864	#f0027f	North America
+SRR11904937	#f0027f	North America
+SRR11904606	#f0027f	North America
+SRR11904046	#f0027f	North America
+SRR11904282	#f0027f	North America
+SRR11904113	#f0027f	North America
+SRR11904133	#f0027f	North America
+SRR11904877	#f0027f	North America
+SRR11904598	#f0027f	North America
+SRR11904587	#f0027f	North America
+SRR8903103	#f0027f	North America
+SRR11904635	#f0027f	North America
+SRR11904572	#f0027f	North America
+SRR11904498	#f0027f	North America
+SRR11904480	#f0027f	North America
+SRR8903100	#f0027f	North America
+SRR11903843	#f0027f	North America
+SRR11903864	#f0027f	North America
+SRR11904704	#f0027f	North America
+SRR11904872	#f0027f	North America
+SRR11904130	#f0027f	North America
+SRR11904259	#f0027f	North America
+SRR11904410	#f0027f	North America
+SRR11904316	#f0027f	North America
+SRR11904289	#f0027f	North America
+SRR11904057	#f0027f	North America
+SRR9877721	#f0027f	North America
+SRR9877723	#f0027f	North America
+SRR9877931	#f0027f	North America
+SRR9877930	#f0027f	North America
+SRR9877935	#f0027f	North America
+SRR9878047	#f0027f	North America
+SRR9878055	#f0027f	North America
+SRR11904140	#f0027f	North America
+SRR11904686	#f0027f	North America
+SRR11904658	#f0027f	North America
+SRR11904643	#f0027f	North America
+SRR11904907	#f0027f	North America
+SRR8172100	#f0027f	North America
+SRR11904456	#f0027f	North America
+SRR11904454	#f0027f	North America
+SRR11904430	#f0027f	North America
+SRR11904428	#f0027f	North America
+SRR11904904	#f0027f	North America
+SRR11904799	#f0027f	North America
+SRR11904063	#f0027f	North America
+SRR11904616	#f0027f	North America
+SRR8903137	#f0027f	North America
+SRR11904114	#f0027f	North America
+SRR11904015	#f0027f	North America
+SRR11904881	#f0027f	North America
+SRR11904576	#f0027f	North America
+SRR11904641	#f0027f	North America
+SRR11904596	#f0027f	North America
+SRR11904905	#f0027f	North America
+SRR11904625	#f0027f	North America
+SRR8172041	#f0027f	North America
+SRR11903950	#f0027f	North America
+SRR11904204	#f0027f	North America
+SRR11904897	#f0027f	North America
+SRR11904497	#f0027f	North America
+SRR9878156	#f0027f	North America
+SRR11904873	#f0027f	North America
+SRR11904893	#f0027f	North America
+SRR11904614	#f0027f	North America
+SRR11904005	#f0027f	North America
+SRR11904226	#f0027f	North America
+SRR11904044	#f0027f	North America
+SRR11903846	#f0027f	North America
+SRR11903845	#f0027f	North America
+SRR11904210	#f0027f	North America
+SRR11904209	#f0027f	North America
+SRR11904500	#f0027f	North America
+SRR11904735	#f0027f	North America
+SRR11904310	#f0027f	North America
+SRR11903902	#f0027f	North America
+SRR9877738	#f0027f	North America
+SRR11904122	#f0027f	North America
+SRR11903962	#f0027f	North America
+SRR11904152	#f0027f	North America
+SRR8833380	#f0027f	North America
+SRR11904347	#f0027f	North America
+SRR9878335	#f0027f	North America
+SRR9877820	#f0027f	North America
+SRR9878032	#f0027f	North America
+SRR8171844	#f0027f	North America
+SRR8833590	#f0027f	North America
+SRR8171930	#f0027f	North America
+SRR8833374	#f0027f	North America
+SRR8833415	#f0027f	North America
+SRR8833651	#f0027f	North America
+SRR9878204	#f0027f	North America
+SRR9877867	#f0027f	North America
+SRR9877857	#f0027f	North America
+SRR11903998	#f0027f	North America
+SRR11904770	#f0027f	North America
+SRR8833612	#f0027f	North America
+SRR8903227	#f0027f	North America
+SRR11904319	#f0027f	North America
+SRR11904290	#f0027f	North America
+SRR11904174	#f0027f	North America
+SRR11904305	#f0027f	North America
+SRR11904335	#f0027f	North America
+SRR11904121	#f0027f	North America
+SRR11903992	#f0027f	North America
+SRR11903971	#f0027f	North America
+SRR11904417	#f0027f	North America
+SRR11904254	#f0027f	North America
+SRR11904074	#f0027f	North America
+SRR11904159	#f0027f	North America
+SRR11904957	#f0027f	North America
+SRR11904955	#f0027f	North America
+SRR11904665	#f0027f	North America
+SRR11904049	#f0027f	North America
+SRR11904845	#f0027f	North America
+SRR11904942	#f0027f	North America
+SRR11904350	#f0027f	North America
+SRR11904051	#f0027f	North America
+SRR11904215	#f0027f	North America
+SRR11904960	#f0027f	North America
+SRR8833565	#f0027f	North America
+SRR8833571	#f0027f	North America
+SRR11903873	#f0027f	North America
+SRR9877736	#f0027f	North America
+SRR11904495	#f0027f	North America
+SRR11904483	#f0027f	North America
+SRR11904079	#f0027f	North America
+SRR9877765	#f0027f	North America
+SRR11904400	#f0027f	North America
+SRR11904739	#f0027f	North America
+SRR8903133	#f0027f	North America
+SRR11903916	#f0027f	North America
+SRR11904670	#f0027f	North America
+SRR11904214	#f0027f	North America
+SRR11904395	#f0027f	North America
+SRR11904743	#f0027f	North America
+SRR11904139	#f0027f	North America
+SRR11904661	#f0027f	North America
+SRR9878172	#f0027f	North America
+SRR11903994	#f0027f	North America
+SRR8172345	#f0027f	North America
+SRR11904257	#f0027f	North America
+SRR11904867	#f0027f	North America
+SRR11904956	#f0027f	North America
+SRR11904563	#f0027f	North America
+SRR11904573	#f0027f	North America
+SRR11904593	#f0027f	North America
+SRR11904485	#f0027f	North America
+SRR9878235	#f0027f	North America
+SRR11903905	#f0027f	North America
+SRR11904664	#f0027f	North America
+SRR8903264	#f0027f	North America
+SRR9877718	#f0027f	North America
+SRR11904879	#f0027f	North America
+SRR11904575	#f0027f	North America
+SRR8171986	#f0027f	North America
+SRR9877953	#f0027f	North America
+SRR11904864	#f0027f	North America
+SRR11903974	#f0027f	North America
+SRR11904191	#f0027f	North America
+SRR11904093	#f0027f	North America
+SRR11903945	#f0027f	North America
+SRR11904461	#f0027f	North America
+SRR11904938	#f0027f	North America
+SRR8903338	#f0027f	North America
+SRR11904236	#f0027f	North America
+SRR8172098	#f0027f	North America
+SRR11904903	#f0027f	North America
+SRR11903911	#f0027f	North America
+SRR11903984	#f0027f	North America
+SRR11903878	#f0027f	North America
+SRR11904307	#f0027f	North America
+SRR8833613	#f0027f	North America
+SRR11904789	#f0027f	North America
+SRR11904802	#f0027f	North America
+SRR11904137	#f0027f	North America
+SRR11904926	#f0027f	North America
+SRR11904784	#f0027f	North America
+SRR11903836	#f0027f	North America
+SRR8903140	#f0027f	North America
+SRR11904856	#f0027f	North America
+SRR11904423	#f0027f	North America
+SRR11904334	#f0027f	North America
+SRR11904852	#f0027f	North America
+SRR8903323	#f0027f	North America
+SRR8833400	#f0027f	North America
+SRR8903218	#f0027f	North America
+SRR11904279	#f0027f	North America
+SRR11903862	#f0027f	North America
+SRR11904603	#f0027f	North America
+SRR8833675	#f0027f	North America
+SRR11904437	#f0027f	North America
+SRR11904115	#f0027f	North America
+SRR11903847	#f0027f	North America
+SRR11904862	#f0027f	North America
+SRR11904684	#f0027f	North America
+SRR11904936	#f0027f	North America
+SRR11904611	#f0027f	North America
+SRR11904657	#f0027f	North America
+SRR11903967	#f0027f	North America
+SRR11904834	#f0027f	North America
+SRR11904521	#f0027f	North America
+SRR11904588	#f0027f	North America
+SRR8903102	#f0027f	North America
+SRR9878166	#f0027f	North America
+SRR11904890	#f0027f	North America
+SRR11904889	#f0027f	North America
+SRR11904144	#f0027f	North America
+SRR11904888	#f0027f	North America
+SRR11904651	#f0027f	North America
+SRR8833662	#f0027f	North America
+SRR11904662	#f0027f	North America
+SRR11904512	#f0027f	North America
+SRR11904855	#f0027f	North America
+SRR11904567	#f0027f	North America
+SRR9878154	#f0027f	North America
+SRR11904924	#f0027f	North America
+SRR8833517	#f0027f	North America
+SRR11904906	#f0027f	North America
+SRR11904376	#f0027f	North America
+SRR11904219	#f0027f	North America
+SRR9877936	#f0027f	North America
+SRR11904383	#f0027f	North America
+SRR11904062	#f0027f	North America
+SRR11904459	#f0027f	North America
+SRR9877766	#f0027f	North America
+SRR11904654	#f0027f	North America
+SRR11904630	#f0027f	North America
+SRR11904624	#f0027f	North America
+SRR11904891	#f0027f	North America
+SRR11904959	#f0027f	North America
+SRR8903225	#f0027f	North America
+SRR11904001	#f0027f	North America
+SRR11903909	#f0027f	North America
+SRR11903884	#f0027f	North America
+SRR11904187	#f0027f	North America
+SRR11903964	#f0027f	North America
+SRR11903977	#f0027f	North America
+SRR11903837	#f0027f	North America
+SRR11904803	#f0027f	North America
+SRR8833398	#f0027f	North America
+SRR8171984	#f0027f	North America
+SRR11904168	#f0027f	North America
+SRR11903914	#f0027f	North America
+SRR11903912	#f0027f	North America
+SRR11904427	#f0027f	North America
+SRR11904085	#f0027f	North America
+SRR11904518	#f0027f	North America
+SRR8903221	#f0027f	North America
+SRR8903171	#f0027f	North America
+SRR11904008	#f0027f	North America
+SRR11904774	#f0027f	North America
+SRR8833510	#f0027f	North America
+SRR11903885	#f0027f	North America
+SRR9878037	#f0027f	North America
+SRR11904040	#f0027f	North America
+SRR11904211	#f0027f	North America
+SRR11904064	#f0027f	North America
+SRR11903910	#f0027f	North America
+SRR11904324	#f0027f	North America
+SRR11904311	#f0027f	North America
+SRR8172006	#f0027f	North America
+SRR11904490	#f0027f	North America
+SRR11904455	#f0027f	North America
+SRR11904016	#f0027f	North America
+SRR11903879	#f0027f	North America
+SRR8172356	#f0027f	North America
+SRR11904384	#f0027f	North America
+SRR11904313	#f0027f	North America
+SRR11904312	#f0027f	North America
+SRR11904833	#f0027f	North America
+SRR11904825	#f0027f	North America
+SRR9878109	#f0027f	North America
+SRR11903922	#f0027f	North America
+SRR11904225	#f0027f	North America
+SRR11904217	#f0027f	North America
+SRR11904213	#f0027f	North America
+SRR11904741	#f0027f	North America
+SRR11904416	#f0027f	North America
+SRR11904108	#f0027f	North America
+SRR11903918	#f0027f	North America
+SRR11903883	#f0027f	North America
+SRR11904321	#f0027f	North America
+SRR11904772	#f0027f	North America
+SRR11904474	#f0027f	North America
+SRR11903835	#f0027f	North America
+SRR9877735	#f0027f	North America
+SRR11904734	#f0027f	North America
+SRR11904812	#f0027f	North America
+SRR11904175	#f0027f	North America
+SRR11904153	#f0027f	North America
+SRR8172043	#f0027f	North America
+SRR11904232	#f0027f	North America
+SRR11904537	#f0027f	North America
+SRR11904176	#f0027f	North America
+SRR11904381	#f0027f	North America
+SRR11904227	#f0027f	North America
+SRR11904095	#f0027f	North America
+SRR9877818	#f0027f	North America
+SRR11904536	#f0027f	North America
+SRR11903906	#f0027f	North America
+SRR11904009	#f0027f	North America
+SRR11904329	#f0027f	North America
+SRR11904261	#f0027f	North America
+SRR11904169	#f0027f	North America
+SRR11904511	#f0027f	North America
+SRR8903104	#f0027f	North America
+SRR9877941	#f0027f	North America
+SRR11904529	#f0027f	North America
+SRR8172038	#f0027f	North America
+SRR11904660	#f0027f	North America
+SRR11903861	#f0027f	North America
+SRR8903198	#f0027f	North America
+SRR11904221	#f0027f	North America
+SRR11904356	#f0027f	North America
+SRR11904471	#f0027f	North America
+SRR11904199	#f0027f	North America
+SRR11904327	#f0027f	North America
+SRR11903976	#f0027f	North America
+SRR11904414	#f0027f	North America
+SRR11904331	#f0027f	North America
+SRR11904298	#f0027f	North America
+SRR11904297	#f0027f	North America
+SRR11904295	#f0027f	North America
+SRR11904291	#f0027f	North America
+SRR11904043	#f0027f	North America
+SRR8833605	#f0027f	North America
+SRR11904797	#f0027f	North America
+SRR11904949	#f0027f	North America
+SRR9877823	#f0027f	North America
+SRR11904733	#f0027f	North America
+SRR11904375	#f0027f	North America
+SRR11904143	#f0027f	North America
+SRR11904014	#f0027f	North America
+SRR11904731	#f0027f	North America
+SRR11904809	#f0027f	North America
+SRR11904775	#f0027f	North America
+SRR11904002	#f0027f	North America
+SRR8833447	#f0027f	North America
+SRR11903867	#f0027f	North America
+SRR11904155	#f0027f	North America
+SRR11904944	#f0027f	North America
+SRR11904371	#f0027f	North America
+SRR11904047	#f0027f	North America
+SRR11904362	#f0027f	North America
+SRR11904132	#f0027f	North America
+SRR11904111	#f0027f	North America
+SRR8833610	#f0027f	North America
+SRR8833611	#f0027f	North America
+SRR8903226	#f0027f	North America
+SRR8903154	#f0027f	North America
+SRR8903153	#f0027f	North America
+SRR11903868	#f0027f	North America
+SRR11904293	#f0027f	North America
+SRR11904178	#f0027f	North America
+SRR11904404	#f0027f	North America
+SRR8172347	#f0027f	North America
+SRR11904432	#f0027f	North America
+SRR11904814	#f0027f	North America
+SRR11904042	#f0027f	North America
+SRR11904207	#f0027f	North America
+SRR11904465	#f0027f	North America
+SRR11904377	#f0027f	North America
+SRR11904110	#f0027f	North America
+SRR11904105	#f0027f	North America
+SRR11904066	#f0027f	North America
+SRR11904817	#f0027f	North America
+SRR8903336	#f0027f	North America
+SRR8833504	#f0027f	North America
+SRR11904467	#f0027f	North America
+SRR11904116	#f0027f	North America
+SRR11904431	#f0027f	North America
+SRR11904336	#f0027f	North America
+SRR11904716	#f0027f	North America
+SRR11904325	#f0027f	North America
+SRR11903955	#f0027f	North America
+SRR11904965	#f0027f	North America
+SRR11903981	#f0027f	North America
+SRR11904101	#f0027f	North America
+SRR11904080	#f0027f	North America
+SRR11904201	#f0027f	North America
+SRR11903985	#f0027f	North America
+SRR11904342	#f0027f	North America
+SRR11904317	#f0027f	North America
+SRR11903946	#f0027f	North America
+SRR11904019	#f0027f	North America
+SRR11904601	#f0027f	North America
+SRR11904220	#f0027f	North America
+SRR11904017	#f0027f	North America
+SRR11903859	#f0027f	North America
+SRR11904769	#f0027f	North America
+SRR11903881	#f0027f	North America
+SRR11903880	#f0027f	North America
+SRR11904496	#f0027f	North America
+SRR8833685	#f0027f	North America
+SRR11904489	#f0027f	North America
+SRR8833664	#f0027f	North America
+SRR11904807	#f0027f	North America
+SRR11904333	#f0027f	North America
+SRR11904323	#f0027f	North America
+SRR11904810	#f0027f	North America
+SRR11903954	#f0027f	North America
+SRR11904158	#f0027f	North America
+SRR11904102	#f0027f	North America
+SRR11904813	#f0027f	North America
+SRR11904011	#f0027f	North America
+SRR11904429	#f0027f	North America
+SRR11904354	#f0027f	North America
+SRR11904636	#f0027f	North America
+SRR11904637	#f0027f	North America
+SRR11904065	#f0027f	North America
+SRR11904145	#f0027f	North America
+SRR11904433	#f0027f	North America
+SRR11904421	#f0027f	North America
+SRR11904728	#f0027f	North America
+SRR11904613	#f0027f	North America
+SRR11904795	#f0027f	North America
+SRR11904619	#f0027f	North America
+SRR11904597	#f0027f	North America
+SRR11903932	#f0027f	North America
+SRR11904007	#f0027f	North America
+SRR11903933	#f0027f	North America
+SRR11903956	#f0027f	North America
+SRR11903953	#f0027f	North America
+SRR11904378	#f0027f	North America
+SRR11904818	#f0027f	North America
+SRR11904815	#f0027f	North America
+SRR11904399	#f0027f	North America
+SRR11904203	#f0027f	North America
+SRR11904094	#f0027f	North America
+SRR11904050	#f0027f	North America
+SRR11904003	#f0027f	North America
+SRR11904012	#f0027f	North America
+SRR11904397	#f0027f	North America
+SRR11904767	#f0027f	North America
+SRR11904218	#f0027f	North America
+SRR11904408	#f0027f	North America
+SRR11904288	#f0027f	North America
+SRR9877701	#f0027f	North America
+SRR9878313	#f0027f	North America
+SRR11903942	#f0027f	North America
+SRR11904737	#f0027f	North America
+SRR11904403	#f0027f	North America
+SRR11903943	#f0027f	North America
+SRR8833485	#f0027f	North America
+SRR8833448	#f0027f	North America
+SRR8833475	#f0027f	North America
+SRR8903173	#f0027f	North America
+SRR11904337	#f0027f	North America
+SRR11904154	#f0027f	North America
+SRR11903860	#f0027f	North America
+SRR11904389	#f0027f	North America
+SRR11903874	#f0027f	North America
+SRR13670004	#f0027f	North America
+SRR11904222	#f0027f	North America
+SRR11904367	#f0027f	North America
+SRR11904359	#f0027f	North America
+SRR11903901	#f0027f	North America
+SRR11904041	#f0027f	North America
+SRR11904424	#f0027f	North America
+SRR11904407	#f0027f	North America
+SRR11904006	#f0027f	North America
+SRR11904258	#f0027f	North America
+SRR11903934	#f0027f	North America
+SRR11904457	#f0027f	North America
+SRR8833603	#f0027f	North America
+SRR11904166	#f0027f	North America
+SRR11903999	#f0027f	North America
+SRR8833527	#f0027f	North America
+SRR11904539	#f0027f	North America
+SRR11904504	#f0027f	North America
+SRR8833511	#f0027f	North America
+SRR9878046	#f0027f	North America
+SRR9878049	#f0027f	North America
+SRR11904788	#f0027f	North America
+SRR11904198	#f0027f	North America
+SRR11904059	#f0027f	North America
+SRR11904550	#f0027f	North America
+SRR9877759	#f0027f	North America
+SRR9878034	#f0027f	North America
+SRR11904786	#f0027f	North America
+SRR11904954	#f0027f	North America
+SRR11903995	#f0027f	North America
+SRR11904309	#f0027f	North America
+SRR11904768	#f0027f	North America
+SRR8833673	#f0027f	North America
+SRR11904740	#f0027f	North America
+SRR11904109	#f0027f	North America
+SRR11904146	#f0027f	North America
+SRR11904224	#f0027f	North America
+SRR11904745	#f0027f	North America
+SRR11904078	#f0027f	North America
+SRR11904844	#f0027f	North America
+SRR11904125	#f0027f	North America
+SRR11904123	#f0027f	North America
+SRR11903904	#f0027f	North America
+SRR11903903	#f0027f	North America
+SRR11903979	#f0027f	North America
+SRR11904263	#f0027f	North America
+SRR11904682	#f0027f	North America
+SRR9877774	#f0027f	North America
+SRR11903941	#f0027f	North America
+SRR11904055	#f0027f	North America
+SRR11904054	#f0027f	North America
+SRR11904053	#f0027f	North America
+SRR11904370	#f0027f	North America
+SRR11904655	#f0027f	North America
+SRR11904653	#f0027f	North America
+SRR11904652	#f0027f	North America
+SRR11904773	#f0027f	North America
+SRR11904874	#f0027f	North America
+SRR11904896	#f0027f	North America
+SRR11904385	#f0027f	North America
+SRR11904878	#f0027f	North America
+SRR11904673	#f0027f	North America
+SRR11904640	#f0027f	North America
+SRR11904911	#f0027f	North America
+SRR11904869	#f0027f	North America
+SRR8903099	#f0027f	North America
+101M	#ffff99	Asia
+102M	#ffff99	Asia
+103MA	#ffff99	Asia
+103MB	#ffff99	Asia
+112M	#ffff99	Asia
+118M	#ffff99	Asia
+11M	#ffff99	Asia
+13M	#ffff99	Asia
+146M	#ffff99	Asia
+154M	#ffff99	Asia
+156MA	#ffff99	Asia
+156MB	#ffff99	Asia
+157M	#ffff99	Asia
+15M	#ffff99	Asia
+163M	#ffff99	Asia
+24M	#ffff99	Asia
+30M	#ffff99	Asia
+31M	#ffff99	Asia
+32M	#ffff99	Asia
+35M	#ffff99	Asia
+3M	#ffff99	Asia
+43M	#ffff99	Asia
+45M	#ffff99	Asia
+46M	#ffff99	Asia
+54M	#ffff99	Asia
+71M	#ffff99	Asia
+78M	#ffff99	Asia
+7M	#ffff99	Asia
+82M	#ffff99	Asia
+94M	#ffff99	Asia
+95M	#ffff99	Asia
+96MA	#ffff99	Asia
+96MB	#ffff99	Asia
+97M	#ffff99	Asia
+99M	#ffff99	Asia
+AAA001	#f0027f	North America
+AAA002	#f0027f	North America
+AAA003	#f0027f	North America
+AAA004	#f0027f	North America
+AAA005	#f0027f	North America
+AAA006	#f0027f	North America
+AAA007	#f0027f	North America
+AAA008	#f0027f	North America
+AAA009	#f0027f	North America
+AAA010	#f0027f	North America
+AAA012	#f0027f	North America
+AAA013	#f0027f	North America
+AAA015	#f0027f	North America
+AAA019	#f0027f	North America
+AAA020	#f0027f	North America
+AAA021	#f0027f	North America
+AAA022	#f0027f	North America
+AAA023	#f0027f	North America
+AAA024	#f0027f	North America
+AAA025	#f0027f	North America
+AAA026	#f0027f	North America
+AAA027	#f0027f	North America
+AAA028	#f0027f	North America
+AAA029	#f0027f	North America
+AAA030	#f0027f	North America
+AAA031	#f0027f	North America
+AAA033	#f0027f	North America
+AAA035	#f0027f	North America
+AAA036	#f0027f	North America
+AAA037	#f0027f	North America
+AAA038	#f0027f	North America
+AAA039	#f0027f	North America
+AAA040	#f0027f	North America
+AAA041	#f0027f	North America
+AAA042	#f0027f	North America
+AAA044	#f0027f	North America
+AAA046	#f0027f	North America
+AAA047	#f0027f	North America
+AAA048	#f0027f	North America
+AAA049	#f0027f	North America
+AAA050	#f0027f	North America
+GGG002	#ffff99	Asia
+GGG005	#ffff99	Asia
+GGG006	#ffff99	Asia
+GGG007	#ffff99	Asia
+GGG008	#ffff99	Asia
+GGG009	#ffff99	Asia
+GGG010	#ffff99	Asia
+GGG012	#ffff99	Asia
+GGG014	#ffff99	Asia
+GGG015	#ffff99	Asia
+GGG016	#ffff99	Asia
+GGG017	#ffff99	Asia
+GGG018	#ffff99	Asia
+GGG020	#ffff99	Asia
+GGG021	#ffff99	Asia
+GGG022	#ffff99	Asia
+GGG023	#ffff99	Asia
+GGG024	#ffff99	Asia
+GGG026	#ffff99	Asia
+GGG028	#ffff99	Asia
+GGG031	#ffff99	Asia
+GGG032	#ffff99	Asia
+GGG033	#ffff99	Asia
+GGG034	#ffff99	Asia
+GGG035	#ffff99	Asia
+GGG036	#ffff99	Asia
+GGG037	#ffff99	Asia
+GGG038	#ffff99	Asia
+GGG039	#ffff99	Asia
+GGG040	#ffff99	Asia
+GGG041	#ffff99	Asia
+GGG042	#ffff99	Asia
+GGG043	#ffff99	Asia
+GGG045	#ffff99	Asia
+GGG046	#ffff99	Asia
+GGG048	#ffff99	Asia
+GGG049	#ffff99	Asia
+GGG050	#ffff99	Asia
+HHH001	#ffff99	Asia
+HHH002	#ffff99	Asia
+HHH003	#ffff99	Asia
+HHH004	#ffff99	Asia
+HHH005	#ffff99	Asia
+HHH006	#ffff99	Asia
+HHH008	#ffff99	Asia
+HHH009	#ffff99	Asia
+HHH010	#ffff99	Asia
+HHH011	#ffff99	Asia
+HHH012	#ffff99	Asia
+HHH013	#ffff99	Asia
+HHH014	#ffff99	Asia
+HHH015	#ffff99	Asia
+HHH016	#ffff99	Asia
+HHH017	#ffff99	Asia
+HHH018	#ffff99	Asia
+HHH020	#ffff99	Asia
+HHH021	#ffff99	Asia
+HHH022	#ffff99	Asia
+HHH023	#ffff99	Asia
+HHH024	#ffff99	Asia
+HHH025	#ffff99	Asia
+HHH026	#ffff99	Asia
+HHH027	#ffff99	Asia
+HHH028	#ffff99	Asia
+HHH029	#ffff99	Asia
+HHH030	#ffff99	Asia
+HHH031	#ffff99	Asia
+HHH032	#ffff99	Asia
+HHH033	#ffff99	Asia
+HHH034	#ffff99	Asia
+HHH035	#ffff99	Asia
+HHH036	#ffff99	Asia
+HHH038	#ffff99	Asia
+HHH039	#ffff99	Asia
+HHH041	#ffff99	Asia
+HHH042	#ffff99	Asia
+HHH043	#ffff99	Asia
+HHH044	#ffff99	Asia
+HHH045	#ffff99	Asia
+HHH046	#ffff99	Asia
+LLL001	#7fc97f	Africa
+LLL002	#7fc97f	Africa
+LLL003	#7fc97f	Africa
+LLL004	#7fc97f	Africa
+LLL005	#7fc97f	Africa
+LLL006	#7fc97f	Africa
+LLL007	#7fc97f	Africa
+LLL008	#7fc97f	Africa
+LLL009	#7fc97f	Africa
+LLL010	#7fc97f	Africa
+LLL011	#7fc97f	Africa
+LLL012	#7fc97f	Africa
+LLL013	#7fc97f	Africa
+LLL014	#7fc97f	Africa
+LLL015	#7fc97f	Africa
+LLL016	#7fc97f	Africa
+LLL017	#7fc97f	Africa
+LLL018	#7fc97f	Africa
+LLL019	#7fc97f	Africa
+LLL020	#7fc97f	Africa
+LLL022	#7fc97f	Africa
+LLL023	#7fc97f	Africa
+LLL024	#7fc97f	Africa
+LLL026	#7fc97f	Africa
+LLL027	#7fc97f	Africa
+LLL028	#7fc97f	Africa
+LLL029	#7fc97f	Africa
+LLL030	#7fc97f	Africa
+LLL031	#7fc97f	Africa
+LLL032	#7fc97f	Africa
+LLL034	#7fc97f	Africa
+LLL035	#7fc97f	Africa
+LLL037	#7fc97f	Africa
+LLL038	#7fc97f	Africa
+LLL039	#7fc97f	Africa
+LLL040	#7fc97f	Africa
+LLL041	#7fc97f	Africa
+LLL042	#7fc97f	Africa
+LLL043	#7fc97f	Africa
+LLL044	#7fc97f	Africa
+LLL045	#7fc97f	Africa
+LLL046	#7fc97f	Africa
+LLL048	#7fc97f	Africa
+LLL049	#7fc97f	Africa
+LLL050	#7fc97f	Africa
+MMM001	#7fc97f	Africa
+MMM002	#7fc97f	Africa
+MMM003	#7fc97f	Africa
+MMM004	#7fc97f	Africa
+MMM005	#7fc97f	Africa
+MMM006	#7fc97f	Africa
+MMM007	#7fc97f	Africa
+MMM008	#7fc97f	Africa
+Ng_102	#f0027f	North America
+Ng_114	#f0027f	North America
+Ng_118	#f0027f	North America
+Ng_123	#f0027f	North America
+Ng_128	#f0027f	North America
+Ng_129	#f0027f	North America
+Ng_131	#f0027f	North America
+Ng_133	#f0027f	North America
+Ng_134	#f0027f	North America
+Ng_136	#f0027f	North America
+Ng_140	#f0027f	North America
+Ng_141	#f0027f	North America
+Ng_144	#f0027f	North America
+Ng_148	#f0027f	North America
+Ng_151	#f0027f	North America
+Ng_154	#f0027f	North America
+Ng_162	#f0027f	North America
+Ng_165	#f0027f	North America
+Ng_171	#f0027f	North America
+Ng_175	#f0027f	North America
+Ng_176	#f0027f	North America
+Ng_180	#f0027f	North America
+Ng_183	#f0027f	North America
+Ng_188	#f0027f	North America
+Ng_25	#f0027f	North America
+Ng_30	#f0027f	North America
+Ng_54	#f0027f	North America
+Ng_74	#f0027f	North America
+Ng_91	#f0027f	North America
+ERR9668844	#ffff99	Asia
+ERR9668845	#ffff99	Asia
+ERR9668846	#ffff99	Asia
+ERR9668848	#ffff99	Asia
+ERR9668849	#ffff99	Asia
+ERR9668886	#ffff99	Asia
+ERR9668887	#ffff99	Asia
+ERR9668888	#ffff99	Asia
+ERR9668889	#ffff99	Asia
+ERR9668890	#ffff99	Asia
+ERR9668911	#ffff99	Asia
+ERR9668912	#ffff99	Asia
+ERR9668913	#ffff99	Asia
+ERR9668914	#ffff99	Asia
+ERR9668916	#ffff99	Asia
+ERR9668921	#ffff99	Asia
+ERR9668923	#ffff99	Asia
+ERR9668925	#ffff99	Asia
+ERR9668930	#ffff99	Asia
+ERR9668934	#ffff99	Asia
+ERR9668935	#ffff99	Asia
+ERR9668940	#ffff99	Asia
+ERR9668942	#ffff99	Asia
+ERR9668944	#ffff99	Asia
+ERR9668945	#ffff99	Asia
+ERR9668946	#ffff99	Asia
+ERR9668949	#ffff99	Asia
+ERR9668950	#ffff99	Asia
+ERR9668955	#ffff99	Asia
+ERR9668966	#ffff99	Asia
+ERR9668969	#ffff99	Asia
+ERR9668972	#ffff99	Asia
+ERR9668974	#ffff99	Asia
+ERR9668978	#ffff99	Asia
+ERR9668981	#ffff99	Asia
+ERR9668982	#ffff99	Asia
+ERR9668983	#ffff99	Asia
+ERR9668985	#ffff99	Asia
+ERR9668986	#ffff99	Asia
+ERR9668987	#ffff99	Asia
+ERR9668989	#ffff99	Asia
+ERR9668990	#ffff99	Asia
+ERR9668994	#ffff99	Asia
+ERR9668995	#ffff99	Asia
+ERR9668997	#ffff99	Asia
+ERR9668999	#ffff99	Asia
+ERR9669000	#ffff99	Asia
+ERR9669001	#ffff99	Asia
+ERR9669002	#ffff99	Asia
+ERR9669004	#ffff99	Asia
+ERR9669006	#ffff99	Asia
+ERR9669009	#ffff99	Asia
+ERR9669010	#ffff99	Asia
+ERR9669011	#ffff99	Asia
+ERR9669012	#ffff99	Asia
+ERR9669013	#ffff99	Asia
+ERR9669014	#ffff99	Asia
+ERR9669015	#ffff99	Asia
+ERR9669016	#ffff99	Asia
+ERR9669017	#ffff99	Asia
+ERR9669018	#ffff99	Asia

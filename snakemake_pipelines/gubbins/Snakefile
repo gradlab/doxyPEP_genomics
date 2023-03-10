@@ -1,0 +1,27 @@
+localrules:
+    all,
+
+
+rule all:
+    input:
+        "data/gubbins/isolates_with_tetMICs.final_tree.tre"
+
+
+rule gubbins:
+    input:
+        "data/pseudogenomes_with_tetMICs.fasta",
+    output:
+        "data/gubbins/isolates_with_tetMICs.final_tree.tre"
+    params:
+        directory="data/gubbins/"
+    resources:
+        cpus=32,
+        mem_mb=200000,
+        time=10000,
+    conda:
+        "conda_envs/gubbins.yml"
+    shell:
+        """
+        mkdir -p {params.directory}
+        run_gubbins.py --threads {resources.cpus} --prefix data/gubbins/isolates_with_tetMICs --resume pseudogenomes_with_tetMICs.iteration_1.tre {input}
+        """
