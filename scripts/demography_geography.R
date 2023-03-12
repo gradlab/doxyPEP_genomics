@@ -2,8 +2,8 @@ library(tidyverse)
 library(cowplot)
 library(scales)
 
-gisp2018 <- read_tsv("gisp2018_QCpassing_resistance_alleles.tsv")
-pheno_geno_errors <- read_tsv("itol_unexplained_susceptibility_resistance.txt")
+gisp2018 <- read_tsv("data/gisp2018_QCpassing_resistance_alleles.tsv")
+pheno_geno_errors <- read_tsv("data/itol/itol_unexplained_susceptibility_resistance.txt")
 gisp2018 <- gisp2018 %>% filter(!wgs_id %in% pheno_geno_errors$wgs_id)
 
 #combine data from HHS regions
@@ -29,7 +29,7 @@ p1 <- gisp2018 %>%
   geom_text(data = region_resistance, aes(x=region, y=total+10, label=percent(resistant_proportion, accuracy = 0.1)))+
   theme_half_open()
 
-ggsave("tet_resistance_regions.pdf", p1, width = 178, height = 106, units = "mm")
+ggsave("figures/tet_resistance_regions.pdf", p1, width = 178, height = 106, units = "mm")
 
 gisp2018 %>% 
   count(sexual_behavior, tetracycline_classify) %>%

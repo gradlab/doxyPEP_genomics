@@ -1,7 +1,7 @@
 library(tidyverse)
 library(stringr)
 
-tet <- read_tsv("doxyPEP_QCpassing.tsv")
+tet <- read_tsv("data/doxyPEP_QCpassing.tsv")
 
 # plot tet MICs
 
@@ -38,11 +38,11 @@ itol <- itol %>% full_join(itol_unexplained_hl)
 
 itol <- itol %>% replace_na(list(susceptible_triangle = -1, resistant_triangle = -1))
 itol <- itol %>% select(wgs_id, susceptible_triangle, resistant_triangle)
-itol %>% write_tsv("itol_unexplained_susceptibility_resistance.txt")
+itol %>% write_tsv("data/itol/itol_unexplained_susceptibility_resistance.txt")
 
 itol_tetM <- tetM_presence %>% mutate(color = case_when(tetM == 0 ~ "#d7b5d8", tetM == 1 ~ "#ce1256")) %>% select(wgs_id, color, tetM)
 
-#itol_tetM %>% write_tsv("itol_tetM.txt")
+#itol_tetM %>% write_tsv("data/itol/itol_tetM.txt")
 
 susceptible %>% count(reference)
 
@@ -56,4 +56,4 @@ itol_geography <- tet %>% mutate(color = case_when(continent == "Africa" ~ "#7fc
 
 itol_geography <- itol_geography %>% select(wgs_id, color, continent)
 
-#itol_geography %>% write_tsv("itol_geography.txt")
+#itol_geography %>% write_tsv("data/itol/itol_geography.txt")
