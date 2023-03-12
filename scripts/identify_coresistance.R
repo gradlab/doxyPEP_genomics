@@ -3,9 +3,16 @@ library(infer)
 library(cowplot)
 library(scales)
 
-metadata_tet <- read_tsv("doxyPEP_QCpassing.tsv")
-pheno_geno_errors <- read_tsv("itol_unexplained_susceptibility_resistance.txt")
+metadata_tet <- read_tsv("data/doxyPEP_QCpassing.tsv")
+pheno_geno_errors <- read_tsv("data/itol/itol_unexplained_susceptibility_resistance.txt")
 metadata_tet <- metadata_tet %>% filter(!wgs_id %in% pheno_geno_errors$wgs_id)
+
+#reorder tetracycline susceptibility classifications
+metadata_tet <- metadata_tet %>%
+  mutate(tetracycline_classify = as.factor(tetracycline_classify)) %>%
+  mutate(tetracycline_classify = fct_rev(tetracycline_classify)) %>%
+  mutate(tetracycline_classify = fct_relevel(tetracycline_classify, "I", after=1))
+
 metadata_tet_long <- metadata_tet %>% select(wgs_id, tetracycline_classify, ends_with("numeric")) %>% pivot_longer(ends_with("numeric"), names_to = "antibiotic", values_to = "mic")
 
 metadata_tet_long <- metadata_tet_long %>%
@@ -37,6 +44,9 @@ metadata_tet_long <- metadata_tet_long %>%
       antibiotic == "penicillin_numeric" ~ 0.002
     ),
   )
+
+
+
 global <- metadata_tet_long %>% 
   filter(antibiotic != "tetracycline_numeric") %>% 
   mutate(antibiotic = str_to_title(str_replace(antibiotic, "_numeric", ""))) %>%
@@ -44,7 +54,7 @@ global <- metadata_tet_long %>%
   geom_rect(aes(xmin = -Inf, xmax = Inf, ymin = resistant_breakpoint, ymax = max_mic*2), fill = "grey50") +
   geom_rect(aes(xmin = -Inf, xmax = Inf, ymin = susceptible_breakpoint, ymax = resistant_breakpoint), fill = "grey90") +
   geom_rect(aes(xmin = -Inf, xmax = Inf, ymin = min_mic, ymax = susceptible_breakpoint), fill = "white") +
-  geom_boxplot(aes(x = fct_relevel(tetracycline_classify, "I", after = 2), y = mic)) + 
+  geom_boxplot(aes(x = tetracycline_classify, y = mic)) + 
   scale_y_continuous(trans = "log2", labels = label_number(accuracy = 0.001)) +
   facet_wrap(~antibiotic, scales = "free_y", ncol = 1) +
   xlab("Tetracycline") +
@@ -101,7 +111,7 @@ us <- metadata_tet_reimche_long %>%
   geom_rect(aes(xmin = -Inf, xmax = Inf, ymin = resistant_breakpoint, ymax = max_mic*2), fill = "grey50") +
   geom_rect(aes(xmin = -Inf, xmax = Inf, ymin = susceptible_breakpoint, ymax = resistant_breakpoint), fill = "grey90") +
   geom_rect(aes(xmin = -Inf, xmax = Inf, ymin = min_mic, ymax = susceptible_breakpoint), fill = "white") +
-  geom_boxplot(aes(x = fct_relevel(tetracycline_classify, "I", after = 2), y = mic)) + 
+  geom_boxplot(aes(x = tetracycline_classify, y = mic)) + 
   scale_y_continuous(trans = "log2", labels = label_number(accuracy = 0.001)) +
   facet_wrap(~antibiotic, scales = "free_y", ncol = 1) +
   xlab("Tetracycline") +
@@ -114,7 +124,7 @@ us <- metadata_tet_reimche_long %>%
     ))
 
 p1 <- plot_grid(global, us, labels = c('A', 'B'), label_size = 12)
-ggsave("doxyPEP_coresistance.pdf", p1, units = "mm", width = 183, height = 183)
+ggsave("figures/doxyPEP_coresistance.pdf", p1, units = "mm", width = 183, height = 183)
 
 # significance tests (p value threshold for significance p < 0.002)
 wilcox.test(azithromycin_numeric ~ tetracycline_classify, data=metadata_tet %>% filter(tetracycline_classify %in% c("HL-R", "R")))
